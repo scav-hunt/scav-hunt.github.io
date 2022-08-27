@@ -1,3 +1,3 @@
 # scav-hunt.github.io
 New scav website  
-Run terminal in zsh or bash, NOT fish, otherwise Ruby won't work
+JK make sure you're running ruby 2.7, Jekyll is like way behind
