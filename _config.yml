@@ -34,6 +34,10 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+strict_front_matter: true 
+
+include:
+  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default.
