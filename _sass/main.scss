@@ -2,7 +2,26 @@
 @import "rouge-github";
 
 .current {
-    color: green;
+    font-weight: bold;
+    color:black;
+    margin-right: 10px;
+}
+
+.nav {
+    color: black;
+    margin-right: 10px;
+}
+
+.nav:hover, .nav:focus {
+    color:white;
+    background-color: black;
+    font-weight: bold;
+}
+
+.current:hover, .current:focus {
+    color:white;
+    background-color: black;
+    font-weight: bold;
 }
 
 body {
