@@ -75,7 +75,7 @@ In the illustrious history of ScavHunt, the following have been theme songs:
 **2001:** The Charlie Daniels Band, "The Devil Went Down to Georgia" \
 **2000:** Positive K, "I Gotta Man" \
 **1999:** Vengaboys, "We Like to Party" \
-**1998:** Weather Girls, "It's Raining Men" \
+**1998:** Weather Girls, "It's Raining Men" 
 
 ***
 
