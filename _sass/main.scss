@@ -12,6 +12,16 @@
     margin-right: 10px;
 }
 
+ul.nav-ul {
+  list-style: none;
+  padding-left: 0px;
+  margin-bottom: 0px;
+}
+
+li.nav-li {
+  display:inline-block;
+}
+
 .nav:hover, .nav:focus {
     color:white;
     background-color: black;
@@ -210,6 +220,7 @@ footer {
     position:absolute;
     right:50px;
     top:52px;
+    display:inline;
   }
 }
 
@@ -224,6 +235,7 @@ footer {
 
   header ul, header p.view {
     position:static;
+    display:inline;
   }
 
   pre, code {
