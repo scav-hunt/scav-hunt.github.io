@@ -4,4 +4,4 @@ title: Current List
 permalink: /chores/
 ---
 
-# Current List
+# What list?
