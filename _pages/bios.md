@@ -4,4 +4,4 @@ title: Judge Bios
 permalink: /horses/
 ---
 
-# Judge Bios
+# The XXXX - XXXX Active Judgeship
