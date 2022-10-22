@@ -570,7 +570,7 @@ The winning submission for item 8 can be heard [here](https://apps.wbez.org/blog
 | 4th (tie) | MacPierce <br><br> Shoreland | John Boyer's Science Warriors <br><br> Team Ragnarok: Burn This Mother Down |
 | 6th (tie) | Blint <br><br> GASH | <br><br> Those meddling adults |
 | 8th | Breckinridge | Davin Reed is People! |
-| 9th | FIST | LPMIX: FISTPA: DPF: BS-SM: <br> Ümläut Ümläut Àccènt Gràvè, REGR, SGIUZ, YUHR, The New Dorm |
+| 9th | FIST | <acronym title="Lush Puppies Mark IX">LPMIX</acronym>: <acronym title="Federation of Independent ScavHunt Teams pt Acht(ung)">FISTPA</acronym>: <acronym title="Deleuzean Potato Famine">DPF</acronym>: <acronym title="Billmire's Scrod Settles for Missionary">BS-SM</acronym>: <br> Ümläut Ümläut Àccènt Gràvè, <acronym title="Rosebud: Everyone Gets a Ride">REGR</acronym>, <acronym title="Sun Gods In Ur Ziggurat">SGIUZ</acronym>, <acronym title="Yogurt Unfrocks Her Rim">YUHR</acronym>, The New Dorm |
 | 10th | Hooverstone | Agent Claus and his Christmas Joneses |
 
 
