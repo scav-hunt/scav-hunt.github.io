@@ -239,9 +239,26 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 ## 2021 {#s-2021}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/2021.pdf)
 
-Table
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st (tie) | Brovo (Breckinridge + Yovovich) <br><br> Snell-Hitchcock | Brovolone.net: Find Hot Kraft Singles in Your Area <br><br> One Man Enters, Five Chickens Leave|
+| 3rd | Burton-Judson | Everburton vs the Suez Canal |
+| 4th | I-House | International Horse |
+| 5th | Valois Bois | To All Valois I've Loved Before |
+| 6th | GASH | To F*** Around is Human; to Find Out is Divine |
+| 7th | Kenwood/Keller Team Up | kevin; |
+| 8th | A Year-Old Loaf of Sourdough | Breckinridge Alumni Sourdough Squad: The Second Rising: Loaves and Fishes |
+| 9th | MacStrongin | Bold of you to assume we have pants on |
+| 10th | Alumni | Play jaja dingdong!! |
+| 11th(tie) | Alumni <br><br> South Dorm | 🔥streak🔥 <br><br> South Scav |
+| 13th | Jannotta | Jude Paul's Scav Race |
+| 14th | Wash U | 701 Limt Ave |
+| 15th | Red Team | Plurmorant |
+| 16th | Unaffiliated | Go Scav Go |
+| 17th | Group | MiaoMiaoMiao |
+| Teams That Earned Negative Points | Salisbury alumni + friends <br><br> Greenwood <br><br> Duskmatle & Friend? <br><br> we represent a bunch of cool people :^) <br><br> Awesome People | <br> SCAM SCAV <br><br> Kasik <br><br> Macross before virginity loss <br><br><br> Chopped Dough <br><br><br> Last Minute |
 
 ## 2020 {#s-2020}
 [Back to top](#archives)
