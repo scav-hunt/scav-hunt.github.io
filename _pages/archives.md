@@ -380,9 +380,22 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 ## 2017 {#s-2017}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/2017.pdf)
 
-Table
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st | Snell-Hitchcock | Egg; |
+| 2nd | Burton-Judson | Gordon Ramsay and the Nine Circles of Hell's Kitchen |
+| 3rd (tie) | Breckinridge <br><br><br> STTR-BBoY | ”” <br><br> Northern Alliance for Satellite Assimilation (NASA)|
+| 5th | Max Palevsky | Maxy Python and the Holy Scav |
+| 6th | Strongin | The Jeanne Gang: A Well-Constructed Scav Team |
+| 7th | GASH | The Scavalry |
+| 8th | Queer Scav | The Lavender Scare |
+| 9th | Scampi Scav | Scampi Scav Presents: A Series of Mildly Uncomfortable Events |
+| 10th | I-House | I-House Scav Presents: Untested Development |
+| 11th | Janotta House | "One Man, One Team" |
+| 12th | Humanity | Team Dai-Gurren |
+| 13th (tie) | BJ <br><br><br> ”breck deserved it the most” - bobby j zimmer <br><br> Atlanta Study Abroad | Michael Vick Presents: Nintendogs <br><br> the satellites deserved it <br><br><br> Jimmy Carter’s Peanut Gallery |
 
 ## 2016 {#s-2016}
 [Back to top](#archives)
