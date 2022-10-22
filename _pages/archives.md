@@ -400,9 +400,28 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 ## 2016 {#s-2016}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/2016.pdf)
 
-Table
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st | Snell-Hitchcock | Doing Honest Scav in College |
+| 2nd | Breckinridge | 100 Years of Solid Dudes |
+| 3rd | Burton Judson | Robespierr and the Reign of Cher |
+| 4th | BroStoMP FM | Chicago Illuminati Exchange |
+| 5th | Max Palevsky | Mad Max P: University Road |
+| 6th | Maclean | A River Runs Through It One Last Time: Yippee Ki-Yay Motherfucker |
+| 7th | I-Stone | I-Stone Presents: Studio Ghibli's Castle in the Scav |
+| 8th | GASH | Belligerent and Numerous |
+| 9th | Scampi Scav | Oedipus and the Mama's Boys |
+| 10th | QueerScav | The Other Team |
+| 11th | All are welcome in memory of Sean Sullivan | One Man, One Team |
+| 12th | Vincent SortofanAdultWoman | what is very obviously just 3 trenchcoats stacked on top of each other pretending to be an adult woman |
+| 13th | Justice | Dumpling Hell Garden: That's a Wrap, Y'all |
+| 14th | Honk Kong Study Abroad | The University of Chicago Scavenger Hunt Special Administrative Region (Two Countries, One Scav) |
+| 15th | WAA | Spring Splash 2k16 |
+| 16th | Police Baton Enthusiests | Nancy Kerrigan and the First Case of White on White Police Brutality |
+| 17th | Mahmoud Aliamer's Room | X Men X Teams |
+| 18th (tie) | Vienna Human Rights Study Abroad <br><br> Wisconsin State Assembly <br><br> Srat Starz <br><br> Tommy Rob | Human Wrongs <br><br><br> Avengers Assemble <br><br> OOWTFYB <br><br><br> Outrageous Fun |
 
 ## 2015 {#s-2015}
 [Back to top](#archives)
