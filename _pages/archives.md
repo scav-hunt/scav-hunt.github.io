@@ -516,11 +516,11 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 ## 2011 {#s-2011}
 [Back to top](#archives)
 
+[List](/assets/lists/2011.pdf)
+
 In celebration of our 25th anniversary, we set the world record for the largest scavenger hunt! The item appeared on the List as item 277, though it was not restricted to registered Scav Hunt teams, and it consisted of a scavenger hunt on the Quads. The rules of the event can be found [here](/assets/GBWR/Rules.pdf) and a list of the items to be found on the Quads is [here](/assets/GBWR/KeyA.pdf).
 
 The clues for item 35 (“the puzzle hunt”) can be found here. 
-
-[List](/assets/lists/2011.pdf)
 
 | Placement | Team (Affiliation) | Team (Name) |
 | :---: |  :---:  | :---:  |
@@ -558,16 +558,40 @@ The clues for item 35 (“the puzzle hunt”) can be found here.
 ## 2009 {#s-2009}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/2009.pdf)
 
-Table
+The winning submission for item 8 can be heard [here](https://apps.wbez.org/blog/?p=3417).
+
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st | Snell-Hitchcock | Mendicant Cingulata |
+| 2nd | Burton-Judson | Ron Paul Presents: Ron Paul's Ruff Riders |
+| 3rd | Max Palevsky | Dinosaurmageddon |
+| 4th (tie) | MacPierce <br><br> Shoreland | John Boyer's Science Warriors <br><br> Team Ragnarok: Burn This Mother Down |
+| 6th (tie) | Blint <br><br> GASH | <br><br> Those meddling adults |
+| 8th | Breckinridge | Davin Reed is People! |
+| 9th | FIST | LPMIX: FISTPA: DPF: BS-SM: <br> Ümläut Ümläut Àccènt Gràvè, REGR, SGIUZ, YUHR, The New Dorm |
+| 10th | Hooverstone | Agent Claus and his Christmas Joneses |
+
 
 ## 2008 {#s-2008}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/2008.pdf)
 
-Table
+[ScavAir](/assets/lists/VegasBaby.pdf)
+
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st | Snell-Hitchcock | The Army Dillo |
+| 2nd | Max Palevsky | The Audacity of Pope |
+| 3rd | Burton-Judson | The War of Southern Aggression |
+| 4th | MacPierce | The University of Chicago School of Engineering |
+| 5th | Shoreland | The Untouchables |
+| 6th | GASH | FOGIES |
+| 7th | FIST | Heroic Furry Gut Monks II FIST: The Federation of Independent Scavhunt Teams |
+| 8th | Broadview | Vandelay Industries |
+| 9th | Broover | Scav Trek V: The Vinyl Frontier |
 
 ## 2007 {#s-2007}
 [Back to top](#archives)
