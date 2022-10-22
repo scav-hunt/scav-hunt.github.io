@@ -296,9 +296,60 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 ## 2019 {#s-2019}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/2019.pdf)
 
-Table
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st (tie) | Breckinridge <br><br> Snell-Hitchcock | Breckcest at Tiffin’s <br><br> International Albuquerque Balloon Fiesta |
+| 3rd | Maclean/Strongin | This is so sad, Alexa play "Strongin Sucks" |
+| 4th | Burton-Judson | Mark ZuckerBurton & The Harvard Dropouts |
+| 5th | GASH | The GASH 2020 Exploratory Committee |
+| 6th | I-House | r/uchicago: AWFUL HOUSING ASSIGNMENT, NOW I DON’T WANT TO GO HERE: I got a single in i-house. From what I gather, an awful dorm, in an awful location, with no culture and now I’m solo. Pretty depressing. Part of me was searching for reasons to pull the trigger on a gap year and reevaluate where I want to go, so I’m taking today’s news as a sign. Am I overreacting? |
+| 7th | Max Palevsky | Max Trek: The Final Scavtier |
+| 8th | STTR-BBoY | "If the Judges Don't Show Up in Fifteen Minutes, We're Legally Allowed to Leave" |
+| 9th | Valois Bois | Scav Life 3: Confirmed |
+| 10th | GGRC | South Scav |
+| 11th (tie) | Duskmantle and Friends <br><br> Harper Cafe <br><br> Jannotta | Scrub Daddies <br><br><br> Pussy Live and Pussy Die <br><br> Jude Paul’s Scav Race|
+| 14th | SCAM SCAV | SCAM’S CLUB |
+| 15th (tie) | #Gravelanche 2020 <br><br> Pritzker School of Medicine | TSHIRTTIME <br><br><br> Pritzker School of Medicine Scav Hunt Team |
+| 17th | Church of Scientology | mole patrol |
+| 18th | one man army | farding and shidding and cumming on top of mansueto's juicy ass |
+| 19th | Track and Field | Scavy McScavface |
+| 20th | feet | sandal |
+| 21st | Kundling | Astronomers present the first ever image of the K Hole! |
+
+### Blood Drive
+
+| Placement | Team (Affiliation) |
+| :---: | :---: |
+| 1st | Snell-Hitchcock |
+| 2nd | Breckinridge |
+| 3rd | Burton-Judson |
+
+### Scav Olympics
+
+| Placement | Team (Affiliation) |
+| :---: | :---: |
+| 1st | Harper Cafe |
+| 2nd | Valois Bois; Duskmantle & Friends |
+| 3rd | Breckinridge |
+
+### Scavenfeast
+
+| Placement | Team (Affiliation) |
+| :---: | :---: |
+| 1st | Duskmantle & Friends |
+| 2nd | GASH |
+| 3rd | I-House |
+
+### Scavant-Garde Film Festival
+
+| Placement | Team (Affiliation) |
+| :---: | :---: |
+| 1st | Valois Bois |
+| 2nd | Breckinridge |
+| 3rd | Pritzker School of Medicine |
+
 
 ## 2018 {#s-2018}
 [Back to top](#archives)
