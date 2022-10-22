@@ -263,9 +263,35 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 ## 2020 {#s-2020}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/2020.pdf)
 
-Table
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st | Breckinridge | what if you wanted to go to study break but god said “sex ed" |
+| 2nd | Snell-Hitchcock | Scrappy Doo Found Dead in Miami |
+| 3rd (tie) | Burton-Judson <br><br><br> Gash | "don't we need a name" and the open poll <br><br> Scav Trek: The Prior Generation|
+| 4th (tie) | MacStrongin <br><br><br> Valois Bois | We are never going to financially recover from this: yeet the rich <br><br> Super Blintendo Chalmers |
+| 5th | I-House | We hope this Scav team finds you well in these difficult times. |
+| 6th | Alumni | removing your message doesn't remove your sins @Chris |
+| 7th(tie) | Max Palevsky <br><br> Harper Café <br><br> Yeast | <br>Masked Palevsky <br><br> Poosy Live Poosy Die <br><br> The Unbearable Lightness of Sourdough |
+| 8th | Alumni | The Glorious Commonwealth of Ys |
+| 9th | Pre-Frosh | The Prom Redeemers |
+| 10th | Washington University in St. Louis | 701 Limit Ave |
+| 11th | Alumni | Impresario |
+| 12th (tie) | Pierogi's Friends <br><br> Jannotta House | Friends of Pierogi <br><br> Jude Paul's Scav Race |
+| 13th (tie) | Duskmantle and Friends <br><br> apartment making a team bc quarantine | <br>The Sims 4: Get Famous <br><br><br> Where do I obtain wedgie board? Do I have to make my own wedgie or can I buy one from a witch or vegan? |
+| 14th | Alumni | We are Shank |
+| 15th (tie) | Alumni <br><br> South Campus | Billy Don't Be a Gyro <br><br> South Scav |
+| 17th | SCAM Scav | A Modern Lifestyle Brand by SCAM SCAV |
+| 18th | Unafilliated | Go Scav Go |
+| 19th | Alumni | Dr. Anthony Fauci and the Jalapeño Preppers |
+| 20th | Alumni | For Shalissa<3 |
+| 21st | Earth | Team Dial Direct |
+| 22nd | Event Horizon House | Bay Rats |
+| 23rd | joey the cats miss you | omega's wrath hath been unleashed |
+| 24th | teammate | forMAT Error |
+| 25th | Alumni | 2 bros, sitting in a hot tub, 6 ft apart cause of quarantine |
+| 26th (tie) | I know a guy who knows a guy..., <br><br> [it me] <br><br> Temple of False Prophets <br><br> Pritzker School of Medicine | Dark Wing Ducks <br><br><br> Tong of Tongs <br><br><br> Votaries of Diana <br><br> Pritzker School of Medicine Scav Hunt Team |
 
 ## 2019 {#s-2019}
 [Back to top](#archives)
