@@ -479,23 +479,58 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 ## 2014(1) {#s-2014-1}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/2014(1).pdf)
 
-Table
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st | BROSTOMP FM | CCCP (Chicago Careers in Career Preparedness) |
+| 2nd | Burton-Judson | Bill Nye and the Science Lies |
+| 3rd | Snell-Hitchcock | Deformis Sed Winning |
+| 4th | Breckinridge | The Milton Friedman Institute for Pornographic Research |
+| 5th | Max Palevsky | This Is Not a Drill |
+| 6th (tie) | GASH <br><br><br> South Campus | The League of Disorderly Gentlefolk <br><br> The South Will Rise |
+| 8th | International House | The Little Shit Show That Could |
+| 9th | Omegatrons |  |
+| 10th | WHAT | We Have A Team! |
+| 11th | Physics Graduate Students |  |
+| 12th | Athens Study Abroad |  |
 
 ## 2012 {#s-2012}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/2012.pdf)
 
-Table
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st | Snell-Hitchcock | Crescat Snellentia Vita Hitchcokatur |
+| 2nd | Burton-Judson | Rasputin and the All Tsars |
+| 3rd | MacPierce | The Political Action Committee for More America Now (PAC-MAN) |
+| 4th | Breckinridge | Ü |
+| 5th | Max Palevsky | MPFD |
+| 6th | Blintstone | Blint and the Family Stone |
+| 7th | GASH (Graduate and Alumni Scavenger Hunt) | The Reprehensibles |
+| 8th | South Campus Residence Hall | Sisyphus and the Rolling Stones |
+| 9th | International House |  |
+| 10th | Physics Graduate Students |  |
 
 ## 2011 {#s-2011}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/2011.pdf)
 
-Table
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st | Burton-Judson | John D. Rockefeller and the Captains of Injury |
+| 2nd | Snell-Hitchcock | The Dark Side of the Quad |
+| 3rd | MacPierce | The Rahmones |
+| 4th | Max Palevsky | Phoenix Envy |
+| 5th (tie) | Breckinridge <br><br> South Campus | F.A.S.T. : F.A.S.T. Ain't a Scav Team <br><br><br> Scampi People, Dear Judges |
+| 7th | Broadview-Flint | Blintzkrieg |
+| 8th | >Grad Students and Alumni | Scav All-Czars |
+| 9th | CBGB & OMFUG | “Pals” |
+| 10th | FIST | Lush Puppies Mk XI;The FIST 1.0; Deleuzean Latkes; Stony Island Turns Off Safe Search;Less Umlaut, More Cowbell!; Rosebud: It’s true, every toboggan in media is a vehicle for philosophical discussion; Sungods have surprisingly good grammar.; Hurry metric frogs! Kronur?;Mathews House; The Bureau of W.H.A.T. (W.E. H.A.V.E. A. T.O.W.E.L. (Wobbuffets Exist, Has Anyone Verified Elsewise? Acronyms Thrice Over: wobBUFfet Elite League! (Wombat overlords, bazookas, bakery, undulating ferrets, fifer, existential turrets, succulent Emacs, xenomorph, interrobang, stalactites, typhoons, Habberdashing, anon, scythe, Abominable nunchucks, yeoman, ottoman, nudity, erupting, Verily, elementary, rudimentary, idealistic fistorobato, idolaters, erudite defenestration, Elephantitis, linguine, swimmy, eviceration, worcestershiresauce, iconic statuesque erronious Alopecia, crapqqbtastic robots, oddity, necrophilia, yossarian marsupials, santorum, Tactics, http://yooouuutuuube.com/v/?width=96&height=96&yt=fYFpZ-2M7P8&flux=1&direction=rand, rampage, impalement, crab-battle, evangelists, Olioliolio!, vitriol, entrails, rabblerabblerabble, We Must Go Deeper, Everything loves its testicles, enter Lusts everlasting, aromas, gaping underwear, eeeeeeeeeeeeeeeeuphemism)));The Last Rainbow Robot Unicorn |
+| 11th | University of Wisconsin Law School | Team Rural Jurors |
+| 12th | Greek Life (Fraternity and Sorority) | The Greeks |
 
 ## 2010 {#s-2010}
 [Back to top](#archives)
