@@ -541,7 +541,19 @@ The clues for item 35 (“the puzzle hunt”) can be found here.
 
 [List](/assets/lists/2010.pdf)
 
-Table
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st | Snell-Hitchcock | The Hitchcocker's Guide to the Snellaxy |
+| 2nd (tie) | BJ & Blackstone <br><br> Max Palevsky | Dr. Scodel's League of Atrocious Wonders <br><br><br> Hooked on Phoenix |
+| 4th | MacPierce | The People's Liberation Front of Scavistan |
+| 5th | South Campus | The Glass Panopticon |
+| 6th | Breckinridge | [Enrico Fermi's Scarlet Sex Machine](https://fermi.kicks-ass.org/) |
+| 7th | Broadview & Flint | The Blintstones |
+| 8th | [GASH](https://www.scavhunt.net/) | Space Fogies |
+| 9th | FIST | Lush Puppies Mk X; The F.I.S.T. point Nein; Deleuzean Potatoe Gun; Stony Never Calls Back; Ümläut, M?t??? ?u?kèR; Rosebud: [edited for Spoiler Alert]; It's 10 PM, do u know where ur Sungodz r?; Hungry Skirt Rumor Force; The Shoreland; The Bureau of Igloos, Coleslaw, Avocados, Nostradamus, Tuesdays, Brevity, Exclusivity, Lists, Irony, Et Cetera, Vagueness, Exterior, Interior, Totality, Seriousness, Not Silliness, Ontology, Truth, Other Stuff, Restrooms, Gallimaufry, Alphabetizing, Ne'er-do-wells, Inundations, Zeppelins, Everymen, and De-alphabetizing (I.C.A.N.T.B.E.L.I.E.V.E.I.T.S.N.O.T.O.R.G.A.N.I.Z.E.D.) |
+| 10th | Independent | Team Lanie |
+| 11th | Independent | A T-Rex Ate My Team Name |
+
 
 ## 2009 {#s-2009}
 [Back to top](#archives)
