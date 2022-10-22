@@ -453,9 +453,28 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 ## 2014(2) {#s-2014-2}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/2014(2).pdf)
 
-Table
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st | Burton-Judson | Mrs. O'Leary and the Holy Cows |
+| 2nd | Snell-Hitchcock | Engineering At The Snell-Hitchcock Institute of Technology |
+| 3rd | BroStoMP | United Coalition of Pierce Defenders (UCPD) |
+| 4th | Breckinridge | ;) |
+| 5th | Max Palevsky | Harold's Phoenix Shack |
+| 6th (tie) | GASH <br><br> South Campus | Scavving Like It's 1999 <br><br> Salvador Dali Partons |
+| 8th | Black-I | The Black-I's |
+| 9th | Maclean | Logging, Pimping, and Your Pal Jim Nondorf: A Trainwash to the Stars |
+| 10th | Independent | FIST: The New Class |
+| 11th | Independent | The Faux-Op |
+| 12th | Independent | Pillars of Pure Salt |
+| 13th | Independent | Gödel, Escher, Batman |
+| 14th (tie) | Physics Grad Students <br><br> Cornell Physics Grad Students | Chicago Mafia <br><br><br><br><br> |
+| 16th | Great Oaks Charter School | Ms. McCaffrey's 6th Graders |
+| 17th | Independent | Sarah, Chris, and Ben |
+| 18th | Independent | The Cheese Stands Alone |
+| 19th | Beijing Study Abroad | The Collective Collective Farm Collective |
+| 20th | Columbia Grad Students |  |
 
 ## 2014(1) {#s-2014-1}
 [Back to top](#archives)
