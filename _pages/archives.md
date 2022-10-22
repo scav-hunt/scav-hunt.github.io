@@ -426,9 +426,29 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 ## 2015 {#s-2015}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/2015.pdf)
 
-Table
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st | Snell-Hitchcock | Windows 95 |
+| 2nd (tie) | Breckinridge <br><br><br> BroStoMP FM | Sophonisba's Old-Timey Whale Oil Backpeddlers <br><br> North Campus Alumni Association |
+| 4th | Burton Judson | Burt Judd and Sons' Automan Empire |
+| 5th | Max Palevsky | University of Chicago at Phoenix |
+| 6th | GASH | Geezers of the Galaxy |
+| 7th | I-Stone | Parks and Wreck Creation |
+| 8th | Scampi | Richard J. Daley's Undead Electorate |
+| 9th | Maclean | Stormtruthers: The Death Star Was an Inside Job |
+| 10th | Queer | Seriously Trans Rebels Amass Incredibly Gay Hero Team (STRAIGHT) |
+| 11th | The FIST | Marvel's Agents of Achille's S.H.I.E.L.D. |
+| 12th | Women's Athletics Association (WAA) | Spring Splash 2k15 |
+| 13th | Burton-Fudson Courts | Burton-Fudson |
+| 14th | Physics Grad Students |  |
+| 15th | UTEP | Team Sexy Balance |
+| 16th | Independent Apartments South of 61st | "One Man, One Team" |
+| 17th | Mahmoud Aliamer's Room | X Men X Teams |
+| 18th | MAPSS |  |
+| 19th | Team Tornado |  |
+
 
 ## 2014(2) {#s-2014-2}
 [Back to top](#archives)
