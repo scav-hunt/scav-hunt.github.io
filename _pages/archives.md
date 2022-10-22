@@ -354,223 +354,242 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 ## 2018 {#s-2018}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/2018.pdf)
 
-Table
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st | Snell-Hitchcock | Oh Hi Marx |
+| 2nd | Breckinridge | Polká Dexys Midnight Beyblade Runner 2001: A Super Mario Snake Odyssey: Rated Arr For Pirates: The Musical: Let It RIP |
+| 3rd | Burton-Judson | Marie Curie & the Free Radicals |
+| 4th (tie) | Maclean/Strongin <br><br><br> STTR-BBoY | Maclean Scav Presents: Brostomp <br><br> Please Unsubscribe Me From This Mailing List |
+| 6th | GASH | Chicago Murderbirds |
+| 7th | Max Palevsky | Max Avengers: Infinity Scav |
+| 8th | I-House | IHOP (International House of People-against-acronyms) |
+| 9th | 🤒🤰🍆🐍🔛🤰🍆🐻✈️ | 🌵 |
+| 10th | Valois | Valois Bois |
+| 11th | SCAV Team Six | United States Naval Special Warfare Command |
+| 12th | VAST (Virtually A Scav Team) | Alienated Laborers |
+| 13th | Queer Scav | Straight Scav Bothers Me |
+| 14th (tie) | Janotta <br><br> Scampi Scav | Jannotta Proletariat <br><br> GGRC |
+| 16th | Salisbury Cat Alum Mob | SCAM Scav |
+| 17th | One Trans, One Team | One Trans, One Team |
+| 18th | Harper Cafe | Espresso Patronum |
+| 19th | Atlanta Study Abroad | None of your Burt's Beeswax |
+| 20th (tie) | One Woman, One Team <br><br> Etc. <br><br> Josh <br><br> Say my whole name this year <br><br> Scavvy McScav Face | One Item, One Team <br><br><br> UChicago and the Caucasian Office <br><br> Josh is still alive <br><br> Melissa Drexler and Oscar the Grouch Star in: Juno <br><br> Track and Delta Gamma |
 
 ## 2017 {#s-2017}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 2016 {#s-2016}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 2015 {#s-2015}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 2014(2) {#s-2014-2}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 2014(1) {#s-2014-1}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 2012 {#s-2012}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 2011 {#s-2011}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 2010 {#s-2010}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 2009 {#s-2009}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 2008 {#s-2008}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 2007 {#s-2007}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 2006 {#s-2006}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 2005 {#s-2005}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 2004 {#s-2004}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 2003 {#s-2003}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 2002 {#s-2002}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 2001 {#s-2001}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 2000 {#s-2000}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 1999 {#s-1999}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 1998 {#s-1998}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 1997 {#s-1997}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 1996 {#s-1996}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 1995 {#s-1995}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 1994 {#s-1994}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 1993 {#s-1993}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 1992 {#s-1992}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 1991 {#s-1991}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 1990 {#s-1990}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 1989 {#s-1989}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 1988 {#s-1988}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
 
 ## 1987 {#s-1987}
 [Back to top](#archives)
 
-List
+[List](/assets/lists/)
 
 Table
