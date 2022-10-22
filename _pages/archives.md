@@ -222,14 +222,19 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | 9th | Max Palevsky <br><br> South Scav + kevin; + DGH + Jannotta | <br><br> cliMAX <br><br> Renesme Granville Grossman (you nicknamed our dorm after the loch ness monster?!?!) |
 | 11th | amish paste | the tomatoes |
 | 12th (tie) | BSD Staff <br><br> Doghaus <br><br> Non | Best Scavengers Duh (BSD) <br><br> Doghaus <br><br> Non |
-| 15th (tie, in no particular order) | West African Research Center <br><br>The Open Table Between Phoenix and Breckinridge <br><br>Me <br><br>Megamind life <br><br>College <br><br>just some off-campus pals <br><br>Mina's team <br><br>NA <br><br>None <br><br>snakes | Toubabs <br><br><br>Milk is Short for Michael <br><br><br>Me <br><br>Megamind <br><br>Toe Beans ?? <br><br>ScAVENGERS <br><br>Mina's the best <br><br>Diaspora Dynamites <br><br>quf <br><br>Medusa |
+| 15th (tie, in no particular order) | West African Research Center <br><br>The Open Table Between Phoenix and Breckinridge <br><br>Me <br><br>Megamind life <br><br>College <br><br>just some off-campus pals <br><br>Mina's team <br><br>NA <br><br>None <br><br>snakes | Toubabs <br><br><br>Milk is Short for Michael <br><br><br><br>Me <br><br>Megamind <br><br>Toe Beans ?? <br><br>ScAVENGERS <br><br><br>Mina's the best <br><br>Diaspora Dynamites <br><br>quf <br><br>Medusa |
 
 
 ### Virtual Hunt
 
-List
+[List](/assets/lists/2014(0)-virtual.pdf)
 
-Table
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st | Sourdough Squad | Fresh Bread: Young and Hot |
+| 2nd | Just Me | Streak ?????? |
+| 3rd | Some alums and friends, formerly ja ja dingdong & ys | Bananawolf |
+
 
 ## 2021 {#s-2021}
 [Back to top](#archives)
