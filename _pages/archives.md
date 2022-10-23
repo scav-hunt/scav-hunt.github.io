@@ -306,7 +306,7 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | 5th | GASH | The GASH 2020 Exploratory Committee |
 | 6th | I-House | r/uchicago: AWFUL HOUSING ASSIGNMENT, NOW I DON’T WANT TO GO HERE: I got a single in i-house. From what I gather, an awful dorm, in an awful location, with no culture and now I’m solo. Pretty depressing. Part of me was searching for reasons to pull the trigger on a gap year and reevaluate where I want to go, so I’m taking today’s news as a sign. Am I overreacting? |
 | 7th | Max Palevsky | Max Trek: The Final Scavtier |
-| 8th | STTR-BBoY | "If the Judges Don't Show Up in Fifteen Minutes, We're Legally Allowed to Leave" |
+| 8th | STTR-BBoY | If the Judges Don't Show Up in Fifteen Minutes, We're Legally Allowed to Leave |
 | 9th | Valois Bois | Scav Life 3: Confirmed |
 | 10th | GGRC | South Scav |
 | 11th (tie) | Duskmantle and Friends <br><br> Harper Cafe <br><br> Jannotta | Scrub Daddies <br><br><br> Pussy Live and Pussy Die <br><br> Jude Paul’s Scav Race|
