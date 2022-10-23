@@ -612,16 +612,34 @@ The winning submission for item 8 can be heard [here](https://apps.wbez.org/blog
 ## 2006 {#s-2006}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/2006.pdf)
 
-Table
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st | Max Palevsky | Team WOMBAT for Great Justice! |
+| 2nd | Snell-Hitchcock | Snells Like Hitchcock Spirit |
+| 3rd | F.I.S.T. | <acronym title="Lush Puppies Mark VI">LPMVI</acronym>: <acronym title="The Federation of Independent ScavHunt Teams Part Cinq">TFISTPC</acronym>: <acronym title="Deleuzean Potato Refried">DPR</acronym>: <acronym title="Billmire's Scrod Re-Does Stony Island Again">BSR-DSIA</acronym>:<br> Even Less \_\_\_\_\_\_\_\_\_\_, Even More Ümläüt, Rosebud |
+| 4th | Broover | <acronym title="Plan 9 from Outer Space">P9FOS</acronym>: <acronym title="Soylent Reed vs. Garinisba's Brain!">SRvGB!</acronym>, an <acronym title="advisory tale on how to lose the game">ATOHTLTG</acronym>, <acronym title="sponsored by the University of Chicago Department of Household Management">SBTUofCDOHM</acronym> and More! |
+| 5th | Shoreland | Housing Sold Me Out |
+| 6th (tie) | Burton-Judson <br><br><br> MacPierce | The Foot <br><br> Northern Empire of Unfastened Pscho Schoolmates |
+| 8th | Broadview | The New and Improved Rocket Widgets (© Guinness) |
+| 9th | Vegan/Co-Op/MacLab | The Seitanists |
 
 ## 2005 {#s-2005}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/2005.pdf)
 
-Table
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st (tie) | Snell-Hitchcock <br><br> Max Palevsky | Armadillo of Darkness <br><br> Team Fluffy, Destroyer of Worlds |
+| 3rd | F.I.S.T. | <acronym title="Lush Puppies Mark V">LPMV</acronym>: <acronym title="The Federation of Independent ScavHunt Teams Part Quatre">TFISTPQ</acronym>: <acronym title="Deleuzean Potato Revolutions">DPR</acronym>: <acronym title="Billmire's Scrod Does Stony (Again)">BSDS(A)</acronym>:<br>Less \_\_\_\_\_\_\_\_\_\_, More Ümläüt! |
+| 4th | Shoreland | The Emperor Strikes Back |
+| 5th (tie) | Broover <br><br> Pierce |  |
+| 7th | Broadview | Untitled |
+| 8th | Vegans/Co-Op |  |
+| 9th | Burton-Judson | REVOLUTION! |
+
 
 ## 2004 {#s-2004}
 [Back to top](#archives)
