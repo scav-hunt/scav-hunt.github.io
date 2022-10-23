@@ -773,10 +773,10 @@ The winning submission for item 8 can be heard [here](https://apps.wbez.org/blog
 | Placement | Team (Affiliation) | Team (Name) |
 | :---: |  :---:  | :---:  |
 | 1st | Snell-Hitchcock |  |
-| 2nd | "Salisbury, Vincent, & Coulter" | Heaven's Gate |
+| 2nd | Salisbury, Vincent, & Coulter | Heaven's Gate |
 | 3rd | Woodward Court | Redemption |
 | 4th | Pierce & Max Mason |  |
-| 5th | "MUNUC, Maroon, & Blackstone" | Coalition HOPE |
+| 5th | MUNUC, Maroon, & Blackstone | Coalition HOPE |
 | 6th | Maclean | Team Evil |
 | 7th | Mathews | Rice Dream |
 | 8th | Dodd-Mead |  |
