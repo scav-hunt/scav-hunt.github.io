@@ -570,7 +570,7 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | 4th (tie) | MacPierce <br><br> Shoreland | John Boyer's Science Warriors <br><br> Team Ragnarok: Burn This Mother Down |
 | 6th (tie) | Blint <br><br> GASH | <br><br> Those meddling adults |
 | 8th | Breckinridge | Davin Reed is People! |
-| 9th | FIST | <acronym title="Lush Puppies Mark IX">LPMIX</acronym>: <acronym title="Federation of Independent ScavHunt Teams pt Acht(ung)">FISTPA</acronym>: <acronym title="Deleuzean Potato Famine">DPF</acronym>: <acronym title="Billmire's Scrod Settles for Missionary">BS-SM</acronym>: <br> Ümläut Ümläut Àccènt Gràvè, <acronym title="Rosebud: Everyone Gets a Ride">REGR</acronym>, <acronym title="Sun Gods In Ur Ziggurat">SGIUZ</acronym>, <acronym title="Yogurt Unfrocks Her Rim">YUHR</acronym>, The New Dorm |
+| 9th | FIST | <abbr title="Lush Puppies Mark IX">LPMIX</abbr>: <abbr title="Federation of Independent ScavHunt Teams pt Acht(ung)">FISTPA</abbr>: <abbr title="Deleuzean Potato Famine">DPF</abbr>: <abbr title="Billmire's Scrod Settles for Missionary">BS-SM</abbr>: <br> Ümläut Ümläut Àccènt Gràvè, <abbr title="Rosebud: Everyone Gets a Ride">REGR</abbr>, <abbr title="Sun Gods In Ur Ziggurat">SGIUZ</abbr>, <abbr title="Yogurt Unfrocks Her Rim">YUHR</abbr>, The New Dorm |
 | 10th | Hooverstone | Agent Claus and his Christmas Joneses |
 
 
@@ -602,9 +602,9 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | :---: |  :---:  | :---:  |
 | 1st | Snell-Hitchcock | Psycho Refraction Party |
 | 2nd | Max Palevsky | T.A.C.O.S. |
-| 3rd | F.I.S.T. | <acronym title="Lush Puppies Mark VII">LPMVII</acronym>: <acronym title="The Federation of Independent ScavHunt Teams Part Sex">TFISTPS</acronym>: <acronym title="Deleuzean Potato Homefries">DPH</acronym>: <acronym title="Billmire's Scrod Double-Teams Stony">BSD-TS</acronym>:  No \_\_\_\_\_\_\_\_\_\_, All Ümläüt, <acronym title="Rosebud, Still the Fucking Sled">RSTFS</acronym>: Vagrant Sun Gods |
+| 3rd | F.I.S.T. | <abbr title="Lush Puppies Mark VII">LPMVII</abbr>: <abbr title="The Federation of Independent ScavHunt Teams Part Sex">TFISTPS</abbr>: <abbr title="Deleuzean Potato Homefries">DPH</abbr>: <abbr title="Billmire's Scrod Double-Teams Stony">BSD-TS</abbr>:  No \_\_\_\_\_\_\_\_\_\_, All Ümläüt, <abbr title="Rosebud, Still the Fucking Sled">RSTFS</abbr>: Vagrant Sun Gods |
 | 4th | MacPierce | Team Samosa: The Llama's Revenge |
-| 5th (tie) | Broover <br><br><br><br><br> Burton-Judson | Scav Trek 4: <acronym title="The Last Stand of Davin Reed">TLSODR</acronym>, <abbr title="featuring">f/</abbr> <acronym title="Gary &quot;Behold The Power of Cheese&quot; Hoover">G"BTPOC"H</acronym>, and <acronym title="Sophonisba &quot;Her visual acuity is based on movement&quot; Breckinridge">S"HVAIBOM"B</acronym>, <acronym title="brought to you by">BTYB</acronym> the <acronym title="People to People Youth Leadership Conference">PTPYLC</acronym> and <acronym title="Jesse Jackson and the Rainbow Coalitioners">JJATRC</acronym>: <acronym title="Heroes in disguise">HID</acronym>&mdash;<acronym title="Broover? I hardly know her!">B?IHKH!</acronym> <br><br> BJ and the Logical Phalluses |
+| 5th (tie) | Broover <br><br><br><br><br> Burton-Judson | Scav Trek 4: <abbr title="The Last Stand of Davin Reed">TLSODR</abbr>, <abbr title="featuring">f/</abbr> <abbr title="Gary &quot;Behold The Power of Cheese&quot; Hoover">G"BTPOC"H</abbr>, and <abbr title="Sophonisba &quot;Her visual acuity is based on movement&quot; Breckinridge">S"HVAIBOM"B</abbr>, <abbr title="brought to you by">BTYB</abbr> the <abbr title="People to People Youth Leadership Conference">PTPYLC</abbr> and <abbr title="Jesse Jackson and the Rainbow Coalitioners">JJATRC</abbr>: <abbr title="Heroes in disguise">HID</abbr>&mdash;<abbr title="Broover? I hardly know her!">B?IHKH!</abbr> <br><br> BJ and the Logical Phalluses |
 | 7th | Shoreland | Antepenultimatum |
 | 8th | Broadview | Unicornicopians |
 | 9th | Scavengers: The ScavDocumentary Crew |  |
@@ -618,8 +618,8 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | :---: |  :---:  | :---:  |
 | 1st | Max Palevsky | Team WOMBAT for Great Justice! |
 | 2nd | Snell-Hitchcock | Snells Like Hitchcock Spirit |
-| 3rd | F.I.S.T. | <acronym title="Lush Puppies Mark VI">LPMVI</acronym>: <acronym title="The Federation of Independent ScavHunt Teams Part Cinq">TFISTPC</acronym>: <acronym title="Deleuzean Potato Refried">DPR</acronym>: <acronym title="Billmire's Scrod Re-Does Stony Island Again">BSR-DSIA</acronym>:<br> Even Less \_\_\_\_\_\_\_\_\_\_, Even More Ümläüt, Rosebud |
-| 4th | Broover | <acronym title="Plan 9 from Outer Space">P9FOS</acronym>: <acronym title="Soylent Reed vs. Garinisba's Brain!">SRvGB!</acronym>, an <acronym title="advisory tale on how to lose the game">ATOHTLTG</acronym>, <acronym title="sponsored by the University of Chicago Department of Household Management">SBTUofCDOHM</acronym> and More! |
+| 3rd | F.I.S.T. | <abbr title="Lush Puppies Mark VI">LPMVI</abbr>: <abbr title="The Federation of Independent ScavHunt Teams Part Cinq">TFISTPC</abbr>: <abbr title="Deleuzean Potato Refried">DPR</abbr>: <abbr title="Billmire's Scrod Re-Does Stony Island Again">BSR-DSIA</abbr>:<br> Even Less \_\_\_\_\_\_\_\_\_\_, Even More Ümläüt, Rosebud |
+| 4th | Broover | <abbr title="Plan 9 from Outer Space">P9FOS</abbr>: <abbr title="Soylent Reed vs. Garinisba's Brain!">SRvGB!</abbr>, an <abbr title="advisory tale on how to lose the game">ATOHTLTG</abbr>, <abbr title="sponsored by the University of Chicago Department of Household Management">SBTUofCDOHM</abbr> and More! |
 | 5th | Shoreland | Housing Sold Me Out |
 | 6th (tie) | Burton-Judson <br><br><br> MacPierce | The Foot <br><br> Northern Empire of Unfastened Pscho Schoolmates |
 | 8th | Broadview | The New and Improved Rocket Widgets (© Guinness) |
@@ -633,7 +633,7 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | Placement | Team (Affiliation) | Team (Name) |
 | :---: |  :---:  | :---:  |
 | 1st (tie) | Snell-Hitchcock <br><br> Max Palevsky | Armadillo of Darkness <br><br> Team Fluffy, Destroyer of Worlds |
-| 3rd | F.I.S.T. | <acronym title="Lush Puppies Mark V">LPMV</acronym>: <acronym title="The Federation of Independent ScavHunt Teams Part Quatre">TFISTPQ</acronym>: <acronym title="Deleuzean Potato Revolutions">DPR</acronym>: <acronym title="Billmire's Scrod Does Stony (Again)">BSDS(A)</acronym>:<br>Less \_\_\_\_\_\_\_\_\_\_, More Ümläüt! |
+| 3rd | F.I.S.T. | <abbr title="Lush Puppies Mark V">LPMV</abbr>: <abbr title="The Federation of Independent ScavHunt Teams Part Quatre">TFISTPQ</abbr>: <abbr title="Deleuzean Potato Revolutions">DPR</abbr>: <abbr title="Billmire's Scrod Does Stony (Again)">BSDS(A)</abbr>:<br>Less \_\_\_\_\_\_\_\_\_\_, More Ümläüt! |
 | 4th | Shoreland | The Emperor Strikes Back |
 | 5th (tie) | Broover <br><br> Pierce |  |
 | 7th | Broadview | Untitled |
