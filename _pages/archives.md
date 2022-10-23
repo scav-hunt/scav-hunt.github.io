@@ -596,9 +596,18 @@ The winning submission for item 8 can be heard [here](https://apps.wbez.org/blog
 ## 2007 {#s-2007}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/2007.pdf)
 
-Table
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st | Snell-Hitchcock | Psycho Refraction Party |
+| 2nd | Max Palevsky | T.A.C.O.S. |
+| 3rd | F.I.S.T. | <acronym title="Lush Puppies Mark VII">LPMVII</acronym>: <acronym title="The Federation of Independent ScavHunt Teams Part Sex">TFISTPS</acronym>: <acronym title="Deleuzean Potato Homefries">DPH</acronym>: <acronym title="Billmire's Scrod Double-Teams Stony">BSD-TS</acronym>:  No \_\_\_\_\_\_\_\_\_\_, All Ümläüt, <acronym title="Rosebud, Still the Fucking Sled">RSTFS</acronym>: Vagrant Sun Gods |
+| 4th | MacPierce | Team Samosa: The Llama's Revenge |
+| 5th (tie) | Broover <br><br><br><br><br> Burton-Judson | Scav Trek 4: <acronym title="The Last Stand of Davin Reed">TLSODR</acronym>, <abbr title="featuring">f/</abbr> <acronym title="Gary &quot;Behold The Power of Cheese&quot; Hoover">G"BTPOC"H</acronym>, and <acronym title="Sophonisba &quot;Her visual acuity is based on movement&quot; Breckinridge">S"HVAIBOM"B</acronym>, <acronym title="brought to you by">BTYB</acronym> the <acronym title="People to People Youth Leadership Conference">PTPYLC</acronym> and <acronym title="Jesse Jackson and the Rainbow Coalitioners">JJATRC</acronym>: <acronym title="Heroes in disguise">HID</acronym>&mdash;<acronym title="Broover? I hardly know her!">B?IHKH!</acronym> <br><br> BJ and the Logical Phalluses |
+| 7th | Shoreland | Antepenultimatum |
+| 8th | Broadview | Unicornicopians |
+| 9th | Scavengers: The ScavDocumentary Crew |  |
 
 ## 2006 {#s-2006}
 [Back to top](#archives)
