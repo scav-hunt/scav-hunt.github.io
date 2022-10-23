@@ -644,125 +644,295 @@ The winning submission for item 8 can be heard [here](https://apps.wbez.org/blog
 ## 2004 {#s-2004}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/2004.pdf)
 
-Table
+[All-Stars](/assets/lists/2004-AllStars.pdf)
+
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st | Snell-Hitchcock | Hitchcapocalyptic Death Snell |
+| 2nd | Max Palevsky | Phoenix, Bitch |
+| 3rd | F.I.S.T. | Lush Puppies Mk IV: F.I.S.T., Trios: Deleuzean Potato Reloaded: Billmire's Scrod Does Stony |
+| 4th | Shoreland | The Emperor's New Outfit |
+| 5th | Broover | Sophonisba Does Gary: The Davin Reed Experience |
+| 6th | Pierce |  |
+| 7th | Vegans | G-SPrOuT |
+| 8th | Burton-Judson (sans Vincent) | No-names |
+| 9th | Vincent |  |
 
 ## 2003 {#s-2003}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/2003.pdf)
 
-Table
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st | Max Palevsky | Phoenix Does Dallas |
+| 2nd | Shoreland | The Outfit |
+| 3rd | Snell-Hitchcock | Snell My Hitchcock: Fuckin' Yeah |
+| 4th | F.I.S.T. | The Lush Puppies Mk. III: The F.I.S.T. Deux: The Deleuzean Potato |
+| 5th | Pierce | Team Verna |
+| 6th | Hoover | Team Bara: The Universal Truth |
+| 7th | Burton-Judson | REVOLUTION! |
+| 8th | Commuters/Max Mason |  |
+| 9th | Fire Escape | Tom Bennett's All-Star Acolytes |
 
 ## 2002 {#s-2002}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/2002.pdf)
 
-Table
+[Abductees' List](/assets/lists/2002-Abductees.pdf)
+
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st | Max Palevsky | Phoenix Rising |
+| 2nd | Snell-Hitchcock | Institutionalized Failures |
+| 3rd | Pierce | Notorious Amphioxous Posse |
+| 4th | Lush Puppies | Lush Puppies Mk II: The F.I.S.T. |
+| 5th | Shoreland | The Avengers |
+| 6th | Hoover | Broover |
+| 7th | Burton-Judson | BJ Shower Power: Mario Twins to the Rescue |
+| 8th | Commuters/Max Mason |  |
+| 9th | Broadview | The Hunting Broads |
 
 ## 2001 {#s-2001}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/2001.pdf)
 
-Table
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st | Snell-Hitchcock |  |
+| 2nd (tie) | Woodward Court & Maclean <br><br> Pierce | Phoenix Burning <br><br> Riotproof 151 |
+| 4th | Shoreland |  |
+| 5th |  |  |
+| 6th | The Lush Puppies | The Lush Puppies |
+| 7th | Burton-Judson | The Absolut Clergy |
 
 ## 2000 {#s-2000}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/2000.pdf)
 
-Table
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st (tie) | Snell-Hitchcock <br><br><br> Shoreland | Snell My Hitchcock <br><br> Shoreland Scav Hunt Team: Knights of the Cause Shoreland |
+| 3rd | Woodward Court | Biohazard |
+| 4th | Pierce | OCD |
+| 5th | Burton-Judson (sans Mathews) | Atliens |
+| 6th | Breckinridge | Not Team Evil |
+| 7th | Mathews | Mr. Serious |
+| 8th | Max Mason | Max Factor |
+| 9th | Maclean | Logging, Pimping, and Your Pal Jim |
 
 ## 1999 {#s-1999}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/1999.pdf)
 
-Table
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st | Burton-Judson (sans Mathews) | The Ruff Ryders |
+| 2nd | Mathews | Piratechnics |
+| 3rd | Shoreland | SHT |
+| 4th | Pierce | Pierce P.H.U.Z.Z. |
+| 5th | Snell-Hitchcock |  |
+| 6th | Woodward Court | The Ward |
+| 7th | Max Mason |  |
+| 8th | Breckinridge | Team Evil |
+| 9th | Broadview | Stolen Nuclear Goods |
+| 10th | Moose Party '99 |  |
+| 11th | Maclean |  |
+| 12th | Maroon |  |
 
 ## 1998 {#s-1998}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/1998.pdf)
 
-Table
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st | Shoreland |  |
+| 2nd | Burton-Judson | Viagra Falls |
+| 3rd | Woodward Court | The Accommodators |
+| 4th | Snell-Hitchcock |  |
+| 5th | Mathews | Shailer Trash |
+| 6th | ? | Mighty MoFo DangerRangers |
+| 7th | Pierce | The Collective |
+| 8th | SigEp |  |
+| 9th | Breckinridge | Ninja Death Squad |
+| 10th | Max Mason |  |
+| 11th | Harvard Crimson |  |
 
 ## 1997 {#s-1997}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/1997.pdf)
 
-Table
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st | Snell-Hitchcock |  |
+| 2nd | "Salisbury, Vincent, & Coulter" | Heaven's Gate |
+| 3rd | Woodward Court | Redemption |
+| 4th | Pierce & Max Mason |  |
+| 5th | "MUNUC, Maroon, & Blackstone" | Coalition HOPE |
+| 6th | Maclean | Team Evil |
+| 7th | Mathews | Rice Dream |
+| 8th | Dodd-Mead |  |
+| 9th | ? | Adiabatic Bulk Modulus |
+
+<sup>†</sup>The Shoreland team was disqualified this year for a hacking incident.
 
 ## 1996 {#s-1996}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/1996.pdf)
 
-Table
+| Placement | Team (Affiliation) | Team (Name) |
+| :---: |  :---:  | :---:  |
+| 1st | Vincent |  |
+| 2nd | Snell-Hitchcock |  |
+| 3rd | MUNUC & Blackstone | MUNUCSTONE |
+| 4th | Salisbury | Mad Cows |
+| 5th | Max Mason |  |
 
 ## 1995 {#s-1995}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/1995.pdf)
 
-Table
+| Placement | Team (Affiliation) |
+| :---: |  :---:  |
+| 1st | Snell-Hitchcock |  
+| 2nd | MUNUC |  
+| 3rd | Lower Flint |  
 
 ## 1994 {#s-1994}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/1994.pdf)
 
-Table
+| Placement | Team (Affiliation) |
+| :---: |  :---:  |
+| 1st | Snell-Hitchcock |  
+| 2nd | Wick |  
+| 3rd | Breckinridge |  
 
 ## 1993 {#s-1993}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/1993.pdf)
 
-Table
+| Placement | Team (Affiliation) |
+| :---: |  :---:  |
+| 1st | Snell-Hitchcock | 
+| 2nd | Vincent |
+| 3rd | Breckinridge |
 
 ## 1992 {#s-1992}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/1992.pdf)
 
-Table
+| Placement | Team (Affiliation) |
+| :---: |  :---:  |
+| 1st | Lower Rickert |  
+| 2nd | MUNUC |  
+| 3rd | Vincent |  
+| 4th | Chamberlin |  
+| 5th | Upper Rickert |  
+| 6th | Dodd-Mead |  
+| 7th | Mathews |  
+| 8th | Salisbury |  
+| 9th | Blackstone |  
+| 10th | Hitchcock |  
+| 11th | Talbot |  
+| 12th | UC Sci-Fi |  
+| 13th | Tufts |  
+| 14th | Michelson |  
+| 15th | MacLean |  
 
 ## 1991 {#s-1991}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/1991.pdf)
 
-Table
+| Placement | Team (Affiliation) |
+| :---: |  :---:  |
+| 1st | MUNUC |  
+| 2nd | Wick |  
+| 3rd | Vincent |  
+| 4th | Michelson |  
+| 5th | Chamberlin |  
+| 6th | Lower Rickert |  
+| 7th | Upper Flint |  
+| 8th | Dodd-Mead |  
+| 9th | Filbey |  
+| 10th | Shorey |  
+| 11th | Tufts |  
+| 12th | Mathews |  
 
 ## 1990 {#s-1990}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/1990.pdf)
 
-Table
+| Placement | Team (Affiliation) |
+| :---: |  :---:  |
+| 1st | Palmer |  
+| 2nd | Shorey |  
+| 3rd | Vincent |  
+| 4th | Chamberlin |  
+| 5th | Max Mason |  
+| 6th | Tufts |  
+| 7th | Filbey |  
+| 8th | Mathews |  
+| 9th | Lower Rickert |  
+| 10th | Michelson |  
+| 11th | Henderson |  
+| 12th | Upper Flint |  
+| 13th | Thompson |  
+| 14th | Lower Wallace |  
+| 15th | Blackstone |  
+| 16th | Hitchcock |  
+| 17th | Commuters |  
+| 18th | Bradbury |  
+| 19th | Dudley |  
+| 20th | Linn |  
+| 21st | Talbot |  
+| 22nd | Wick |  
+| 23rd | Sci-Fi Club |  
+| 24th | Compton |  
+| 25th | Lower Flint |  
+| 26th (tie) | Ryerson Astronomical Society <br><br> Breckinridge |  
+| 28th | Coulter |  
 
 ## 1989 {#s-1989}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/1989.pdf)
 
-Table
+| Placement | Team (Affiliation) | 
+| :---: |  :---:  |
+| 1st | Talbot | 
 
 ## 1988 {#s-1988}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/1988.pdf)
 
-Table
+| Placement | Team (Affiliation) |
+| :---: |  :---:  |
+| 1st | Chamberlin |
+| 2nd | Hitchcock |
+| 3rd | Lower Rickert |
 
 ## 1987 {#s-1987}
 [Back to top](#archives)
 
-[List](/assets/lists/)
+[List](/assets/lists/1987.pdf)
 
-Table
+| Placement | Team (Affiliation) |
+| :---: |  :---:  |
+| 1st | Chamberlin | 
