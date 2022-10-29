@@ -236,8 +236,7 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | 3rd | Some alums and friends, formerly ja ja dingdong & ys | Bananawolf |
 
 
-## 2021 {#s-2021}
-[Back to top](#archives)
+## 2021 [▲]({{ site.url }}/yore/) {#s-2021}
 
 [List](/assets/lists/2021.pdf)
 
@@ -260,8 +259,10 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | 17th | Group | MiaoMiaoMiao |
 | Teams That Earned Negative Points | Salisbury alumni + friends <br><br> Greenwood <br><br> Duskmatle & Friend? <br><br> we represent a bunch of cool people :^) <br><br> Awesome People | <br> SCAM SCAV <br><br> Kasik <br><br> Macross before virginity loss <br><br><br> Chopped Dough <br><br><br> Last Minute |
 
-## 2020 {#s-2020}
-[Back to top](#archives)
+<br>
+<br>
+
+## 2020 <small>[back to top]({{ site.url }}/yore/)</small> {#s-2020}
 
 [List](/assets/lists/2020.pdf)
 

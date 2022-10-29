@@ -108,8 +108,29 @@ a:hover small {
 }
 
 .wrapper {
-  width:860px;
+  width:1000px;
   margin:0 auto;
+}
+
+section {
+  width:650px;
+  float:right;
+  padding-bottom:50px;
+}
+
+header {
+  width:270px;
+  float:left;
+  position:fixed;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+footer {
+  width:270px;
+  float:left;
+  position:fixed;
+  bottom:50px;
+  -webkit-font-smoothing:subpixel-antialiased;
 }
 
 blockquote {
@@ -170,22 +191,9 @@ kbd {
   vertical-align: middle;
 }
 
-header {
-  width:270px;
-  float:left;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
-}
-
 strong {
   color:#222;
   font-weight:700;
-}
-
-section {
-  width:500px;
-  float:right;
-  padding-bottom:50px;
 }
 
 small {
@@ -197,14 +205,6 @@ hr {
   background:#e5e5e5;
   height:1px;
   margin:0 0 20px;
-}
-
-footer {
-  width:270px;
-  float:left;
-  position:fixed;
-  bottom:50px;
-  -webkit-font-smoothing:subpixel-antialiased;
 }
 
 @media print, screen and (max-width: 960px) {
@@ -243,7 +243,7 @@ footer {
   }
 }
 
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width: 500px) {
   body {
     word-wrap:break-word;
   }
