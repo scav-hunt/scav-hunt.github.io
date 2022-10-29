@@ -16,14 +16,37 @@ ul.nav-ul {
   list-style: none;
   padding-left: 0px;
   margin-bottom: 0px;
+  text-align: center;
+  list-style-position: inside;
 }
 
 ul.sections {
   list-style-type: "§";
 }
 
+ul.social-ul {
+  list-style: none;
+  padding-left: 0px;
+  margin-bottom: 0px;
+  text-align: center;
+  list-style-position: inside;
+}
+
+p.footer {
+  text-align: center;
+}
+
+p.header {
+  text-align: center;
+}
+
 li.nav-li {
-  display:inline-block;
+  display: inline-block;
+}
+
+li.social-li {
+  display: inline;
+  margin-inline: 10px;
 }
 
 .nav:hover, .nav:focus {
