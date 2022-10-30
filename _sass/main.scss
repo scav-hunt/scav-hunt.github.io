@@ -108,25 +108,25 @@ a:hover small {
 }
 
 .wrapper {
-  width:1000px;
+  width:90%;
   margin:0 auto;
 }
 
 section {
-  width:650px;
+  width:73%;
   float:right;
   padding-bottom:50px;
 }
 
 header {
-  width:270px;
+  width:17%;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
 footer {
-  width:270px;
+  width:17%;
   float:left;
   position:fixed;
   bottom:50px;
@@ -162,6 +162,7 @@ th, td {
   text-align:left;
   padding:5px 10px;
   border-bottom:1px solid #e5e5e5;
+  border-right:1px solid #e5e5e5;
 }
 
 dt {
@@ -170,7 +171,7 @@ dt {
 }
 
 th {
-  color:#444;
+  color:black;
 }
 
 img {
@@ -192,7 +193,7 @@ kbd {
 }
 
 strong {
-  color:#222;
+  color:black;
   font-weight:700;
 }
 
