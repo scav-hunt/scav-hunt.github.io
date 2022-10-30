@@ -148,7 +148,7 @@ Sabrina Grace Sternberg
 
 **Section 6.** All other rules pertaining to the behaviour of the Hunt participants are covered in the Rules of the Hunt, a document changed every calendar year to accommodate the various ways in which kids broke the law from the previous year. The Keeper of the Scrolls must invent a new way of saying "do whatever it takes, but do it ***LEGALLY***" every year.
 
-### Article XII—The Great Hunt<
+### Article XII—The Great Hunt
 **Section 1.** The Great Hunt begins on a Thursday. It ends with Judgment Day, which occurs on Mother's Day (since our mothers are all judgmental) or on the following Sunday, whichever comes first. As a courtesy, the members of Hot Side Hot are encouraged to remind the Scavenczar to call their mother on Sunday in order to avoid any hindrances to their judgment.
 
 **Section 2.** The Great Hunt's Great List is distributed at the beginning of the Hunt, hopefully containing a tasteful minimum of references to The Simpsons. It will then be revised several times, leading to massive confusion. In addition to the List of Items will be a list of ScavOlympic items, and, optionally, a schedule of events for The Great Hunt. The Scavenczar shall distribute the appropriate legal documents, absolving the ScandalCom of any and all scandals which will inevitably arise, before the commencement of the Hunt, to be collected from teams before the departure of their Road Trip Pilgrims.
