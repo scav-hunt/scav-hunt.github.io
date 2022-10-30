@@ -217,8 +217,7 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | 3rd | Burton-Judson | Vito Canceleone and the Woke Mob |
 | 4th | GASH | A Million Tiny Teams in a Trenchcoat |
 | 5th | Breckinridge | spork stork. spork dork aborkabork. |
-| 6th(tie) | I-House | Our Scav Means Death |
-| 6th(tie) | Valois Bois | The Breakfast Club |
+| 6th(tie) | I-House <br><br> Valois Bois | Our Scav Means Death <br><br> The Breakfast Club |
 | 8th | Yuen | Upsilon Nu |
 | 9th | Max Palevsky <br><br> South Scav + kevin; + DGH + Jannotta <br><br><br> | cliMAX <br><br> Renesme Granville Grossman (you nicknamed our dorm after the loch ness monster?!?!) |
 | 11th | amish paste | the tomatoes |
