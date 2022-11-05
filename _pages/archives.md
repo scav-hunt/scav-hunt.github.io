@@ -221,21 +221,21 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | ^^ | Valois Bois | The Breakfast Club |
 | 8th | Yuen | Upsilon Nu |
 | 9th | Max Palevsky | cliMAX |
-| ^ | South Scav + kevin; + DGH + Jannotta | Renesme Granville Grossman (you nicknamed our dorm after the loch ness monster?!?!) |
+| ^^ | South Scav + kevin; + DGH + Jannotta | Renesme Granville Grossman (you nicknamed our dorm after the loch ness monster?!?!) |
 | 11th | amish paste | the tomatoes |
 | 12th (tie) | BSD Staff | Best Scavengers Duh (BSD) |
-| ^ | Doghaus | Doghaus |
-| ^ | Non | Non |
-| "15th (tie, in no particular order)" | West African Research Center | Toubabs |
-| ^ | The Open Table Between Phoenix and Breckinridge | Milk is Short for Michael |
-| ^ | Me | Me |
-| ^ | Megamind life | Megamind |
-| ^ | College | Toe Beans ?? |
-| ^ | just some off-campus pals | ScAVENGERS |
-| ^ | Mina's team | Mina's the best |
-| ^ | NA | Diaspora Dynamites |
-| ^ | None | quf |
-| ^ | snakes | Medusa |
+| ^^ | Doghaus | Doghaus |
+| ^^ | Non | Non |
+| 15th (tie, in no particular order) | West African Research Center | Toubabs |
+| ^^ | The Open Table Between Phoenix and Breckinridge | Milk is Short for Michael |
+| ^^ | Me | Me |
+| ^^ | Megamind life | Megamind |
+| ^^ | College | Toe Beans ?? |
+| ^^ | just some off-campus pals | ScAVENGERS |
+| ^^ | Mina's team | Mina's the best |
+| ^^ | NA | Diaspora Dynamites |
+| ^^ | None | quf |
+| ^^ | snakes | Medusa |
 
 
 ### Virtual Hunt
@@ -255,7 +255,8 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 
 | Placement | Team (Affiliation) | Team (Name) |
 | :---: |  :---:  | :---:  |
-| 1st (tie) | Brovo (Breckinridge + Yovovich) <br><br> Snell-Hitchcock | Brovolone.net: Find Hot Kraft Singles in Your Area <br><br> One Man Enters, Five Chickens Leave|
+| 1st (tie) | Brovo (Breckinridge + Yovovich) | Brovolone.net: Find Hot Kraft Singles in Your Area |
+| ^^ | Snell-Hitchcock | One Man Enters, Five Chickens Leave |
 | 3rd | Burton-Judson | Everburton vs the Suez Canal |
 | 4th | I-House | International Horse |
 | 5th | Valois Bois | To All Valois I've Loved Before |
@@ -264,13 +265,19 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | 8th | A Year-Old Loaf of Sourdough | Breckinridge Alumni Sourdough Squad: The Second Rising: Loaves and Fishes |
 | 9th | MacStrongin | Bold of you to assume we have pants on |
 | 10th | Alumni | Play jaja dingdong!! |
-| 11th(tie) | Alumni <br><br> South Dorm | 🔥streak🔥 <br><br> South Scav |
+| 11th(tie) | Alumni | 🔥streak🔥 |
+| ^^ | South Dorm | South Scav |
 | 13th | Jannotta | Jude Paul's Scav Race |
 | 14th | Wash U | 701 Limt Ave |
 | 15th | Red Team | Plurmorant |
 | 16th | Unaffiliated | Go Scav Go |
 | 17th | Group | MiaoMiaoMiao |
-| Teams That Earned Negative Points | Salisbury alumni + friends <br><br> Greenwood <br><br> Duskmatle & Friend? <br><br> we represent a bunch of cool people :^) <br><br> Awesome People | <br> SCAM SCAV <br><br> Kasik <br><br> Macross before virginity loss <br><br><br> Chopped Dough <br><br><br> Last Minute |
+| Teams That Earned Negative Points | Salisbury alumni + friends | SCAM SCAV |
+| ^^ | Greenwood | Kasik |
+| ^^ | Duskmatle & Friend? | Macross before virginity loss |
+| ^^ | we represent a bunch of cool people :^) | Chopped Dough |
+| ^^ | Awesome People | Last Minute |
+
 
 <br>
 <br>
@@ -283,19 +290,26 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | :---: |  :---:  | :---:  |
 | 1st | Breckinridge | what if you wanted to go to study break but god said “sex ed" |
 | 2nd | Snell-Hitchcock | Scrappy Doo Found Dead in Miami |
-| 3rd (tie) | Burton-Judson <br><br><br> Gash | "don't we need a name" and the open poll <br><br> Scav Trek: The Prior Generation|
-| 4th (tie) | MacStrongin <br><br><br> Valois Bois | We are never going to financially recover from this: yeet the rich <br><br> Super Blintendo Chalmers |
+| 3rd (tie) | Burton-Judson | "don't we need a name" and the open poll |
+| ^^ | Gash | Scav Trek: The Prior Generation |
+| 4th (tie) | MacStrongin | We are never going to financially recover from this: yeet the rich |
+| ^^ | Valois Bois | Super Blintendo Chalmers |
 | 5th | I-House | We hope this Scav team finds you well in these difficult times. |
 | 6th | Alumni | removing your message doesn't remove your sins @Chris |
-| 7th(tie) | Max Palevsky <br><br> Harper Café <br><br> Yeast | <br>Masked Palevsky <br><br> Poosy Live Poosy Die <br><br> The Unbearable Lightness of Sourdough |
+| 7th(tie) | Max Palevsky | Masked Palevsky |
+| ^^ | Harper Café | Poosy Live Poosy Die |
+| ^^ | Yeast | The Unbearable Lightness of Sourdough |
 | 8th | Alumni | The Glorious Commonwealth of Ys |
 | 9th | Pre-Frosh | The Prom Redeemers |
 | 10th | Washington University in St. Louis | 701 Limit Ave |
 | 11th | Alumni | Impresario |
-| 12th (tie) | Pierogi's Friends <br><br> Jannotta House | Friends of Pierogi <br><br> Jude Paul's Scav Race |
-| 13th (tie) | Duskmantle and Friends <br><br> apartment making a team bc quarantine | <br>The Sims 4: Get Famous <br><br><br> Where do I obtain wedgie board? Do I have to make my own wedgie or can I buy one from a witch or vegan? |
+| 12th (tie) | Pierogi's Friends | Friends of Pierogi |
+| ^^ | Jannotta House | Jude Paul's Scav Race |
+| 13th (tie) | Duskmantle and Friends | The Sims 4: Get Famous |
+| ^^ | apartment making a team bc quarantine | Where do I obtain wedgie board? Do I have to make my own wedgie or can I buy one from a witch or vegan? |
 | 14th | Alumni | We are Shank |
-| 15th (tie) | Alumni <br><br> South Campus | Billy Don't Be a Gyro <br><br> South Scav |
+| 15th (tie) | Alumni | Billy Don't Be a Gyro |
+| ^^ | South Campus | South Scav |
 | 17th | SCAM Scav | A Modern Lifestyle Brand by SCAM SCAV |
 | 18th | Unafilliated | Go Scav Go |
 | 19th | Alumni | Dr. Anthony Fauci and the Jalapeño Preppers |
@@ -305,7 +319,10 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | 23rd | joey the cats miss you | omega's wrath hath been unleashed |
 | 24th | teammate | forMAT Error |
 | 25th | Alumni | 2 bros, sitting in a hot tub, 6 ft apart cause of quarantine |
-| 26th (tie) | I know a guy who knows a guy..., <br><br> [it me] <br><br> Temple of False Prophets <br><br> Pritzker School of Medicine | Dark Wing Ducks <br><br><br> Tong of Tongs <br><br><br> Votaries of Diana <br><br> Pritzker School of Medicine Scav Hunt Team |
+| 26th (tie) | I know a guy who knows a guy..., | Dark Wing Ducks |
+| ^^ | [it me] | Tong of Tongs |
+| ^^ | Temple of False Prophets | Votaries of Diana |
+| ^^ | Pritzker School of Medicine | Pritzker School of Medicine Scav Hunt Team |
 
 ## 2019 {#s-2019}
 [Back to top](#archives)
@@ -314,7 +331,8 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 
 | Placement | Team (Affiliation) | Team (Name) |
 | :---: |  :---:  | :---:  |
-| 1st (tie) | Breckinridge <br><br> Snell-Hitchcock | Breckcest at Tiffin’s <br><br> International Albuquerque Balloon Fiesta |
+| 1st (tie) | Breckinridge | Breckcest at Tiffin’s |
+| ^^ | Snell-Hitchcock | International Albuquerque Balloon Fiesta |
 | 3rd | Maclean/Strongin | This is so sad, Alexa play "Strongin Sucks" |
 | 4th | Burton-Judson | Mark ZuckerBurton & The Harvard Dropouts |
 | 5th | GASH | The GASH 2020 Exploratory Committee |
@@ -323,47 +341,33 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | 8th | STTR-BBoY | If the Judges Don't Show Up in Fifteen Minutes, We're Legally Allowed to Leave |
 | 9th | Valois Bois | Scav Life 3: Confirmed |
 | 10th | GGRC | South Scav |
-| 11th (tie) | Duskmantle and Friends <br><br> Harper Cafe <br><br> Jannotta | Scrub Daddies <br><br><br> Pussy Live and Pussy Die <br><br> Jude Paul’s Scav Race|
+| 11th (tie) | Duskmantle and Friends | Scrub Daddies |
+| ^^ | Harper Cafe | Pussy Live and Pussy Die |
+| ^^ | Jannotta | Jude Paul’s Scav Race |
 | 14th | SCAM SCAV | SCAM’S CLUB |
-| 15th (tie) | #Gravelanche 2020 <br><br> Pritzker School of Medicine | TSHIRTTIME <br><br><br> Pritzker School of Medicine Scav Hunt Team |
+| 15th (tie) | #Gravelanche 2020 | TSHIRTTIME |
+| ^^ | Pritzker School of Medicine | Pritzker School of Medicine Scav Hunt Team |
 | 17th | Church of Scientology | mole patrol |
 | 18th | one man army | farding and shidding and cumming on top of mansueto's juicy ass |
 | 19th | Track and Field | Scavy McScavface |
 | 20th | feet | sandal |
 | 21st | Kundling | Astronomers present the first ever image of the K Hole! |
 
-### Blood Drive
 
-| Placement | Team (Affiliation) |
-| :---: | :---: |
-| 1st | Snell-Hitchcock |
-| 2nd | Breckinridge |
-| 3rd | Burton-Judson |
-
-### Scav Olympics
-
-| Placement | Team (Affiliation) |
-| :---: | :---: |
-| 1st | Harper Cafe |
-| 2nd | Valois Bois; Duskmantle & Friends |
-| 3rd | Breckinridge |
-
-### Scavenfeast
-
-| Placement | Team (Affiliation) |
-| :---: | :---: |
-| 1st | Duskmantle & Friends |
-| 2nd | GASH |
-| 3rd | I-House |
-
-### Scavant-Garde Film Festival
-
-| Placement | Team (Affiliation) |
-| :---: | :---: |
-| 1st | Valois Bois |
-| 2nd | Breckinridge |
-| 3rd | Pritzker School of Medicine |
-
+| Event | Placement | Team (Affiliation) |
+| :---: |  :---:  | :---:  |
+| Blood Drive | 1st | Snell-Hitchcock |
+| ^^ | 2nd | Breckinridge |
+| ^^ | 3rd | Burton-Judson |
+| Scav Olympics | 1st | Harper Cafe |
+| ^^ | 2nd | Valois Bois; Duskmantle & Friends |
+| ^^ | 3rd | Breckinridge |
+| Scavenfeast | 1st | Duskmantle & Friends |
+| ^^ | 2nd | GASH |
+| ^^ | 3rd | I-House |
+| Scavant-Garde Film Festival | 1st | Valois Bois |
+| ^^ | 2nd | Breckinridge |
+| ^^ | 3rd | Pritzker School of Medicine |
 
 ## 2018 {#s-2018}
 [Back to top](#archives)
@@ -375,7 +379,8 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | 1st | Snell-Hitchcock | Oh Hi Marx |
 | 2nd | Breckinridge | Polká Dexys Midnight Beyblade Runner 2001: A Super Mario Snake Odyssey: Rated Arr For Pirates: The Musical: Let It RIP |
 | 3rd | Burton-Judson | Marie Curie & the Free Radicals |
-| 4th (tie) | Maclean/Strongin <br><br><br> STTR-BBoY | Maclean Scav Presents: Brostomp <br><br> Please Unsubscribe Me From This Mailing List |
+| 4th (tie) | Maclean/Strongin | Maclean Scav Presents: Brostomp |
+| ^^ | STTR-BBoY | Please Unsubscribe Me From This Mailing List |
 | 6th | GASH | Chicago Murderbirds |
 | 7th | Max Palevsky | Max Avengers: Infinity Scav |
 | 8th | I-House | IHOP (International House of People-against-acronyms) |
@@ -384,12 +389,17 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | 11th | SCAV Team Six | United States Naval Special Warfare Command |
 | 12th | VAST (Virtually A Scav Team) | Alienated Laborers |
 | 13th | Queer Scav | Straight Scav Bothers Me |
-| 14th (tie) | Janotta <br><br> Scampi Scav | Jannotta Proletariat <br><br> GGRC |
+| 14th (tie) | Janotta | Jannotta Proletariat |
+| ^^ | Scampi Scav | GGRC |
 | 16th | Salisbury Cat Alum Mob | SCAM Scav |
 | 17th | One Trans, One Team | One Trans, One Team |
 | 18th | Harper Cafe | Espresso Patronum |
 | 19th | Atlanta Study Abroad | None of your Burt's Beeswax |
-| 20th (tie) | One Woman, One Team <br><br> Etc. <br><br> Josh <br><br> Say my whole name this year <br><br> Scavvy McScav Face | One Item, One Team <br><br><br> UChicago and the Caucasian Office <br><br> Josh is still alive <br><br> Melissa Drexler and Oscar the Grouch Star in: Juno <br><br> Track and Delta Gamma |
+| 20th (tie) | One Woman, One Team | One Item, One Team |
+| ^^ | Etc. | UChicago and the Caucasian Office |
+| ^^ | Josh | Josh is still alive |
+| ^^ | Say my whole name this year | Melissa Drexler and Oscar the Grouch Star in: Juno |
+| ^^ | Scavvy McScav Face | Track and Delta Gamma |
 
 ## 2017 {#s-2017}
 [Back to top](#archives)
@@ -400,16 +410,19 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | :---: |  :---:  | :---:  |
 | 1st | Snell-Hitchcock | Egg; |
 | 2nd | Burton-Judson | Gordon Ramsay and the Nine Circles of Hell's Kitchen |
-| 3rd (tie) | Breckinridge <br><br><br> STTR-BBoY | ”” <br><br> Northern Alliance for Satellite Assimilation (NASA)|
+| 3rd (tie) | Breckinridge | ”” |
+| ^^ | STTR-BBoY | Northern Alliance for Satellite Assimilation (NASA) |
 | 5th | Max Palevsky | Maxy Python and the Holy Scav |
 | 6th | Strongin | The Jeanne Gang: A Well-Constructed Scav Team |
 | 7th | GASH | The Scavalry |
 | 8th | Queer Scav | The Lavender Scare |
 | 9th | Scampi Scav | Scampi Scav Presents: A Series of Mildly Uncomfortable Events |
 | 10th | I-House | I-House Scav Presents: Untested Development |
-| 11th | Janotta House | "One Man, One Team" |
+| 11th | Janotta House | One Man, One Team |
 | 12th | Humanity | Team Dai-Gurren |
-| 13th (tie) | BJ <br><br><br> ”breck deserved it the most” - bobby j zimmer <br><br> Atlanta Study Abroad | Michael Vick Presents: Nintendogs <br><br> the satellites deserved it <br><br><br> Jimmy Carter’s Peanut Gallery |
+| 13th (tie) | BJ | Michael Vick Presents: Nintendogs |
+| ^^ | ”breck deserved it the most” - bobby j zimmer | the satellites deserved it |
+| ^^ | Atlanta Study Abroad | Jimmy Carter’s Peanut Gallery |
 
 ## 2016 {#s-2016}
 [Back to top](#archives)
@@ -435,7 +448,10 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | 15th | WAA | Spring Splash 2k16 |
 | 16th | Police Baton Enthusiests | Nancy Kerrigan and the First Case of White on White Police Brutality |
 | 17th | Mahmoud Aliamer's Room | X Men X Teams |
-| 18th (tie) | Vienna Human Rights Study Abroad <br><br> Wisconsin State Assembly <br><br> Srat Starz <br><br> Tommy Rob | Human Wrongs <br><br><br> Avengers Assemble <br><br> OOWTFYB <br><br><br> Outrageous Fun |
+| 18th (tie) | Vienna Human Rights Study Abroad | Human Wrongs |
+| ^^ | Wisconsin State Assembly | Avengers Assemble |
+| ^^ | Srat Starz | OOWTFYB |
+| ^^ | Tommy Rob | Outrageous Fun |
 
 ## 2015 {#s-2015}
 [Back to top](#archives)
@@ -445,7 +461,8 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | Placement | Team (Affiliation) | Team (Name) |
 | :---: |  :---:  | :---:  |
 | 1st | Snell-Hitchcock | Windows 95 |
-| 2nd (tie) | Breckinridge <br><br><br> BroStoMP FM | Sophonisba's Old-Timey Whale Oil Backpeddlers <br><br> North Campus Alumni Association |
+| 2nd (tie) | Breckinridge | Sophonisba's Old-Timey Whale Oil Backpeddlers |
+| ^^ | BroStoMP FM | North Campus Alumni Association |
 | 4th | Burton Judson | Burt Judd and Sons' Automan Empire |
 | 5th | Max Palevsky | University of Chicago at Phoenix |
 | 6th | GASH | Geezers of the Galaxy |
@@ -458,7 +475,7 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | 13th | Burton-Fudson Courts | Burton-Fudson |
 | 14th | Physics Grad Students |  |
 | 15th | UTEP | Team Sexy Balance |
-| 16th | Independent Apartments South of 61st | "One Man, One Team" |
+| 16th | Independent Apartments South of 61st | One Man, One Team |
 | 17th | Mahmoud Aliamer's Room | X Men X Teams |
 | 18th | MAPSS |  |
 | 19th | Team Tornado |  |
@@ -476,14 +493,16 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | 3rd | BroStoMP | United Coalition of Pierce Defenders (UCPD) |
 | 4th | Breckinridge | ;) |
 | 5th | Max Palevsky | Harold's Phoenix Shack |
-| 6th (tie) | GASH <br><br> South Campus | Scavving Like It's 1999 <br><br> Salvador Dali Partons |
+| 6th (tie) | GASH | Scavving Like It's 1999 |
+| ^^ | South Campus | Salvador Dali Partons |
 | 8th | Black-I | The Black-I's |
 | 9th | Maclean | Logging, Pimping, and Your Pal Jim Nondorf: A Trainwash to the Stars |
 | 10th | Independent | FIST: The New Class |
 | 11th | Independent | The Faux-Op |
 | 12th | Independent | Pillars of Pure Salt |
 | 13th | Independent | Gödel, Escher, Batman |
-| 14th (tie) | Physics Grad Students <br><br> Cornell Physics Grad Students | Chicago Mafia <br><br><br><br><br> |
+| 14th (tie) | Physics Grad Students | Chicago Mafia |
+| ^^ | Cornell Physics Grad Students |  |
 | 16th | Great Oaks Charter School | Ms. McCaffrey's 6th Graders |
 | 17th | Independent | Sarah, Chris, and Ben |
 | 18th | Independent | The Cheese Stands Alone |
@@ -502,7 +521,8 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | 3rd | Snell-Hitchcock | Deformis Sed Winning |
 | 4th | Breckinridge | The Milton Friedman Institute for Pornographic Research |
 | 5th | Max Palevsky | This Is Not a Drill |
-| 6th (tie) | GASH <br><br><br> South Campus | The League of Disorderly Gentlefolk <br><br> The South Will Rise |
+| 6th (tie) | GASH | The League of Disorderly Gentlefolk |
+| ^^ | South Campus | The South Will Rise |
 | 8th | International House | The Little Shit Show That Could |
 | 9th | Omegatrons |  |
 | 10th | WHAT | We Have A Team! |
@@ -542,9 +562,10 @@ The clues for item 35 (“the puzzle hunt”) can be found here.
 | 2nd | Snell-Hitchcock | The Dark Side of the Quad |
 | 3rd | MacPierce | The Rahmones |
 | 4th | Max Palevsky | Phoenix Envy |
-| 5th (tie) | Breckinridge <br><br> South Campus | F.A.S.T. : F.A.S.T. Ain't a Scav Team <br><br><br> Scampi People, Dear Judges |
+| 5th (tie) | Breckinridge | F.A.S.T. : F.A.S.T. Ain't a Scav Team |
+| ^^ | South Campus | Scampi People, Dear Judges |
 | 7th | Broadview-Flint | Blintzkrieg |
-| 8th | Grad Students and Alumni | Scav All-Czars |
+| 8th | >Grad Students and Alumni | Scav All-Czars |
 | 9th | CBGB & OMFUG | “Pals” |
 | 10th | FIST | Lush Puppies Mk XI;The FIST 1.0; Deleuzean Latkes; Stony Island Turns Off Safe Search;Less Umlaut, More Cowbell!; Rosebud: It’s true, every toboggan in media is a vehicle for philosophical discussion; Sungods have surprisingly good grammar.; Hurry metric frogs! Kronur?;Mathews House; The Bureau of W.H.A.T. (W.E. H.A.V.E. A. T.O.W.E.L. (Wobbuffets Exist, Has Anyone Verified Elsewise? Acronyms Thrice Over: wobBUFfet Elite League! (Wombat overlords, bazookas, bakery, undulating ferrets, fifer, existential turrets, succulent Emacs, xenomorph, interrobang, stalactites, typhoons, Habberdashing, anon, scythe, Abominable nunchucks, yeoman, ottoman, nudity, erupting, Verily, elementary, rudimentary, idealistic fistorobato, idolaters, erudite defenestration, Elephantitis, linguine, swimmy, eviceration, worcestershiresauce, iconic statuesque erronious Alopecia, crapqqbtastic robots, oddity, necrophilia, yossarian marsupials, santorum, Tactics, http://yooouuutuuube.com/v/?width=96&height=96&yt=fYFpZ-2M7P8&flux=1&direction=rand, rampage, impalement, crab-battle, evangelists, Olioliolio!, vitriol, entrails, rabblerabblerabble, We Must Go Deeper, Everything loves its testicles, enter Lusts everlasting, aromas, gaping underwear, eeeeeeeeeeeeeeeeuphemism)));The Last Rainbow Robot Unicorn |
 | 11th | University of Wisconsin Law School | Team Rural Jurors |
@@ -558,7 +579,8 @@ The clues for item 35 (“the puzzle hunt”) can be found here.
 | Placement | Team (Affiliation) | Team (Name) |
 | :---: |  :---:  | :---:  |
 | 1st | Snell-Hitchcock | The Hitchcocker's Guide to the Snellaxy |
-| 2nd (tie) | BJ & Blackstone <br><br> Max Palevsky | Dr. Scodel's League of Atrocious Wonders <br><br><br> Hooked on Phoenix |
+| 2nd (tie) | BJ & Blackstone | Dr. Scodel's League of Atrocious Wonders |
+| ^^ | Max Palevsky | Hooked on Phoenix |
 | 4th | MacPierce | The People's Liberation Front of Scavistan |
 | 5th | South Campus | The Glass Panopticon |
 | 6th | Breckinridge | [Enrico Fermi's Scarlet Sex Machine](https://fermi.kicks-ass.org/) |
@@ -581,8 +603,10 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | 1st | Snell-Hitchcock | Mendicant Cingulata |
 | 2nd | Burton-Judson | Ron Paul Presents: Ron Paul's Ruff Riders |
 | 3rd | Max Palevsky | Dinosaurmageddon |
-| 4th (tie) | MacPierce <br><br> Shoreland | John Boyer's Science Warriors <br><br> Team Ragnarok: Burn This Mother Down |
-| 6th (tie) | Blint <br><br> GASH | <br><br> Those meddling adults |
+| 4th (tie) | MacPierce | John Boyer's Science Warriors |
+| ^^ | Shoreland | Team Ragnarok: Burn This Mother Down |
+| 6th (tie) | Blint |  |
+| ^^ | GASH | Those meddling adults |
 | 8th | Breckinridge | Davin Reed is People! |
 | 9th | FIST | <abbr title="Lush Puppies Mark IX">LPMIX</abbr>: <abbr title="Federation of Independent ScavHunt Teams pt Acht(ung)">FISTPA</abbr>: <abbr title="Deleuzean Potato Famine">DPF</abbr>: <abbr title="Billmire's Scrod Settles for Missionary">BS-SM</abbr>: <br> Ümläut Ümläut Àccènt Gràvè, <abbr title="Rosebud: Everyone Gets a Ride">REGR</abbr>, <abbr title="Sun Gods In Ur Ziggurat">SGIUZ</abbr>, <abbr title="Yogurt Unfrocks Her Rim">YUHR</abbr>, The New Dorm |
 | 10th | Hooverstone | Agent Claus and his Christmas Joneses |
@@ -618,7 +642,8 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | 2nd | Max Palevsky | T.A.C.O.S. |
 | 3rd | F.I.S.T. | <abbr title="Lush Puppies Mark VII">LPMVII</abbr>: <abbr title="The Federation of Independent ScavHunt Teams Part Sex">TFISTPS</abbr>: <abbr title="Deleuzean Potato Homefries">DPH</abbr>: <abbr title="Billmire's Scrod Double-Teams Stony">BSD-TS</abbr>:  No \_\_\_\_\_\_\_\_\_\_, All Ümläüt, <abbr title="Rosebud, Still the Fucking Sled">RSTFS</abbr>: Vagrant Sun Gods |
 | 4th | MacPierce | Team Samosa: The Llama's Revenge |
-| 5th (tie) | Broover <br><br><br><br><br> Burton-Judson | Scav Trek 4: <abbr title="The Last Stand of Davin Reed">TLSODR</abbr>, <abbr title="featuring">f/</abbr> <abbr title="Gary &quot;Behold The Power of Cheese&quot; Hoover">G"BTPOC"H</abbr>, and <abbr title="Sophonisba &quot;Her visual acuity is based on movement&quot; Breckinridge">S"HVAIBOM"B</abbr>, <abbr title="brought to you by">BTYB</abbr> the <abbr title="People to People Youth Leadership Conference">PTPYLC</abbr> and <abbr title="Jesse Jackson and the Rainbow Coalitioners">JJATRC</abbr>: <abbr title="Heroes in disguise">HID</abbr>&mdash;<abbr title="Broover? I hardly know her!">B?IHKH!</abbr> <br><br> BJ and the Logical Phalluses |
+| 5th (tie) | Broover | Scav Trek 4: <abbr title="The Last Stand of Davin Reed">TLSODR</abbr>, <abbr title="featuring">f/</abbr> <abbr title="Gary 'Behold The Power of Cheese' Hoover">G"BTPOC"H</abbr>, and <abbr title="Sophonisba 'Her visual acuity is based on movement' Breckinridge">S"HVAIBOM"B</abbr>, <abbr title="brought to you by">BTYB</abbr> the <abbr title="People to People Youth Leadership Conference">PTPYLC</abbr> and <abbr title="Jesse Jackson and the Rainbow Coalitioners">JJATRC</abbr>: <abbr title="Heroes in disguise">HID</abbr>&mdash;<abbr title="Broover? I hardly know her!">B?IHKH!</abbr> |
+| ^^ | Burton-Judson | BJ and the Logical Phalluses |
 | 7th | Shoreland | Antepenultimatum |
 | 8th | Broadview | Unicornicopians |
 | 9th | Scavengers: The ScavDocumentary Crew |  |
@@ -635,7 +660,8 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | 3rd | F.I.S.T. | <abbr title="Lush Puppies Mark VI">LPMVI</abbr>: <abbr title="The Federation of Independent ScavHunt Teams Part Cinq">TFISTPC</abbr>: <abbr title="Deleuzean Potato Refried">DPR</abbr>: <abbr title="Billmire's Scrod Re-Does Stony Island Again">BSR-DSIA</abbr>:<br> Even Less \_\_\_\_\_\_\_\_\_\_, Even More Ümläüt, Rosebud |
 | 4th | Broover | <abbr title="Plan 9 from Outer Space">P9FOS</abbr>: <abbr title="Soylent Reed vs. Garinisba's Brain!">SRvGB!</abbr>, an <abbr title="advisory tale on how to lose the game">ATOHTLTG</abbr>, <abbr title="sponsored by the University of Chicago Department of Household Management">SBTUofCDOHM</abbr> and More! |
 | 5th | Shoreland | Housing Sold Me Out |
-| 6th (tie) | Burton-Judson <br><br><br> MacPierce | The Foot <br><br> Northern Empire of Unfastened Pscho Schoolmates |
+| 6th (tie) | Burton-Judson | The Foot |
+| ^^ | MacPierce | Northern Empire of Unfastened Pscho Schoolmates |
 | 8th | Broadview | The New and Improved Rocket Widgets (© Guinness) |
 | 9th | Vegan/Co-Op/MacLab | The Seitanists |
 
@@ -646,10 +672,12 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 
 | Placement | Team (Affiliation) | Team (Name) |
 | :---: |  :---:  | :---:  |
-| 1st (tie) | Snell-Hitchcock <br><br> Max Palevsky | Armadillo of Darkness <br><br> Team Fluffy, Destroyer of Worlds |
+| 1st (tie) | Snell-Hitchcock | Armadillo of Darkness |
+| ^^ | Max Palevsky | Team Fluffy, Destroyer of Worlds |
 | 3rd | F.I.S.T. | <abbr title="Lush Puppies Mark V">LPMV</abbr>: <abbr title="The Federation of Independent ScavHunt Teams Part Quatre">TFISTPQ</abbr>: <abbr title="Deleuzean Potato Revolutions">DPR</abbr>: <abbr title="Billmire's Scrod Does Stony (Again)">BSDS(A)</abbr>:<br>Less \_\_\_\_\_\_\_\_\_\_, More Ümläüt! |
 | 4th | Shoreland | The Emperor Strikes Back |
-| 5th (tie) | Broover <br><br> Pierce |  |
+| 5th (tie) | Broover |  |
+| ^^ | Pierce |  |
 | 7th | Broadview | Untitled |
 | 8th | Vegans/Co-Op |  |
 | 9th | Burton-Judson | REVOLUTION! |
@@ -718,7 +746,8 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | Placement | Team (Affiliation) | Team (Name) |
 | :---: |  :---:  | :---:  |
 | 1st | Snell-Hitchcock |  |
-| 2nd (tie) | Woodward Court & Maclean <br><br> Pierce | Phoenix Burning <br><br> Riotproof 151 |
+| 2nd (tie) | Woodward Court & Maclean | Phoenix Burning |
+| ^^ | Pierce | Riotproof 151 |
 | 4th | Shoreland |  |
 | 5th |  |  |
 | 6th | The Lush Puppies | The Lush Puppies |
@@ -731,7 +760,8 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 
 | Placement | Team (Affiliation) | Team (Name) |
 | :---: |  :---:  | :---:  |
-| 1st (tie) | Snell-Hitchcock <br><br><br> Shoreland | Snell My Hitchcock <br><br> Shoreland Scav Hunt Team: Knights of the Cause Shoreland |
+| 1st (tie) | Snell-Hitchcock | Snell My Hitchcock |
+| ^^ | Shoreland | Shoreland Scav Hunt Team: Knights of the Cause Shoreland |
 | 3rd | Woodward Court | Biohazard |
 | 4th | Pierce | OCD |
 | 5th | Burton-Judson (sans Mathews) | Atliens |
@@ -919,8 +949,9 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | 23rd | Sci-Fi Club |  
 | 24th | Compton |  
 | 25th | Lower Flint |  
-| 26th (tie) | Ryerson Astronomical Society <br><br> Breckinridge |  
-| 28th | Coulter |  
+| 26th (tie) | Ryerson Astronomical Society |  
+| ^^ | Breckinridge |  
+| 28th | Coulter | 
 
 ## 1989 {#s-1989}
 [Back to top](#archives)
