@@ -217,12 +217,25 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | 3rd | Burton-Judson | Vito Canceleone and the Woke Mob |
 | 4th | GASH | A Million Tiny Teams in a Trenchcoat |
 | 5th | Breckinridge | spork stork. spork dork aborkabork. |
-| 6th(tie) | I-House <br><br> Valois Bois | Our Scav Means Death <br><br> The Breakfast Club |
+| 6th(tie) | I-House | Our Scav Means Death |
+| ^^ | Valois Bois | The Breakfast Club |
 | 8th | Yuen | Upsilon Nu |
-| 9th | Max Palevsky <br><br> South Scav + kevin; + DGH + Jannotta <br><br><br> | cliMAX <br><br> Renesme Granville Grossman (you nicknamed our dorm after the loch ness monster?!?!) |
+| 9th | Max Palevsky | cliMAX |
+| ^ | South Scav + kevin; + DGH + Jannotta | Renesme Granville Grossman (you nicknamed our dorm after the loch ness monster?!?!) |
 | 11th | amish paste | the tomatoes |
-| 12th (tie) | BSD Staff <br><br> Doghaus <br><br> Non | Best Scavengers Duh (BSD) <br><br> Doghaus <br><br> Non |
-| 15th (tie, in no particular order) | West African Research Center <br><br>The Open Table Between Phoenix and Breckinridge <br><br>Me <br><br>Megamind life <br><br>College <br><br>just some off-campus pals <br><br>Mina's team <br><br>NA <br><br>None <br><br>snakes | Toubabs <br><br><br>Milk is Short for Michael <br><br><br><br>Me <br><br>Megamind <br><br>Toe Beans ?? <br><br>ScAVENGERS <br><br><br>Mina's the best <br><br>Diaspora Dynamites <br><br>quf <br><br>Medusa |
+| 12th (tie) | BSD Staff | Best Scavengers Duh (BSD) |
+| ^ | Doghaus | Doghaus |
+| ^ | Non | Non |
+| "15th (tie, in no particular order)" | West African Research Center | Toubabs |
+| ^ | The Open Table Between Phoenix and Breckinridge | Milk is Short for Michael |
+| ^ | Me | Me |
+| ^ | Megamind life | Megamind |
+| ^ | College | Toe Beans ?? |
+| ^ | just some off-campus pals | ScAVENGERS |
+| ^ | Mina's team | Mina's the best |
+| ^ | NA | Diaspora Dynamites |
+| ^ | None | quf |
+| ^ | snakes | Medusa |
 
 
 ### Virtual Hunt
