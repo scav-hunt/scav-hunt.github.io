@@ -82,10 +82,10 @@ In the illustrious history of ScavHunt, the following have been theme songs:
 ## The Judges Most Regal
 The ranks of Hot Side Hot have, at one time or another, included the following (and if you are not on this list but can prove that you should be, e-mail scavheadjudge@gmail so that we can administer the secret test)
 
-**Audrey Scott** (2022--) \
-**Brittney Dorton** (2022--) \
-**Gabriela Claire Garcia** (2022--) \
-**Ryan Gold** (2022--) \
+**Audrey Scott** (2014(0)--) \
+**Brittney Dorton** (2014(0)--) \
+**Gabriela Claire Garcia** (2014(0)--) \
+**Ryan Solomon Gold** (2014(0)--) \
 **Emma Jean Simpson** (2021--) \
 **Joren David Husic** (2021--) \
 **Kat Veronica Downey** (2021--) \
