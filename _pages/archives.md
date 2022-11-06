@@ -604,7 +604,7 @@ The clues for item 35 (“the puzzle hunt”) can be found here.
 | 5th (tie) | Breckinridge | F.A.S.T. : F.A.S.T. Ain't a Scav Team |
 | ^^ | South Campus | Scampi People, Dear Judges |
 | 7th | Broadview-Flint | Blintzkrieg |
-| 8th | >Grad Students and Alumni | Scav All-Czars |
+| 8th | Grad Students and Alumni | Scav All-Czars |
 | 9th | CBGB & OMFUG | “Pals” |
 | 10th | FIST | Lush Puppies Mk XI;The FIST 1.0; Deleuzean Latkes; Stony Island Turns Off Safe Search;Less Umlaut, More Cowbell!; Rosebud: It’s true, every toboggan in media is a vehicle for philosophical discussion; Sungods have surprisingly good grammar.; Hurry metric frogs! Kronur?;Mathews House; The Bureau of W.H.A.T. (W.E. H.A.V.E. A. T.O.W.E.L. (Wobbuffets Exist, Has Anyone Verified Elsewise? Acronyms Thrice Over: wobBUFfet Elite League! (Wombat overlords, bazookas, bakery, undulating ferrets, fifer, existential turrets, succulent Emacs, xenomorph, interrobang, stalactites, typhoons, Habberdashing, anon, scythe, Abominable nunchucks, yeoman, ottoman, nudity, erupting, Verily, elementary, rudimentary, idealistic fistorobato, idolaters, erudite defenestration, Elephantitis, linguine, swimmy, eviceration, worcestershiresauce, iconic statuesque erronious Alopecia, crapqqbtastic robots, oddity, necrophilia, yossarian marsupials, santorum, Tactics, http://yooouuutuuube.com/v/?width=96&height=96&yt=fYFpZ-2M7P8&flux=1&direction=rand, rampage, impalement, crab-battle, evangelists, Olioliolio!, vitriol, entrails, rabblerabblerabble, We Must Go Deeper, Everything loves its testicles, enter Lusts everlasting, aromas, gaping underwear, eeeeeeeeeeeeeeeeuphemism)));The Last Rainbow Robot Unicorn |
 | 11th | University of Wisconsin Law School | Team Rural Jurors |
