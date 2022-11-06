@@ -59,7 +59,7 @@ In the illustrious history of ScavHunt, the following have been theme songs:
 **2017:** Carly Rae Jepsen, "Store" \
 **2016:** Wang Chung, "Everybody Have Fun Tonight" \
 **2015:** Hoobastank, "The Reason" \
-**2014(2):** Teegan and Sara feat. The Lonely Island, "Everything is Awesome" \
+**2014(2):** Tegan and Sara feat. The Lonely Island, "Everything is Awesome" \
 **2014(1):** Quad City DJs, "Space Jam" \
 **2012:** Buddy Holly, "You're So Square (Baby I Don't Care)" \
 **2011:** The Foundations, "Build Me Up Buttercup" \
