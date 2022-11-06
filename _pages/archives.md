@@ -204,8 +204,7 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 
 ***
 
-## 2014(0) {#s-2014-0}
-[Back to top](#archives)
+## 2014(0) <small>[back to top]({{ site.url }}/yore/)</small> {#s-2014-0}
 ### In-Person Hunt
 
 [List](/assets/lists/2014(0).pdf)
@@ -249,7 +248,11 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | 3rd | Some alums and friends, formerly ja ja dingdong & ys | Bananawolf |
 
 
-## 2021 [▲]({{ site.url }}/yore/) {#s-2021}
+<br>
+<br>
+
+
+## 2021 <small>[back to top]({{ site.url }}/yore/)</small> {#s-2021}
 
 [List](/assets/lists/2021.pdf)
 
@@ -281,6 +284,7 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 
 <br>
 <br>
+
 
 ## 2020 <small>[back to top]({{ site.url }}/yore/)</small> {#s-2020}
 
@@ -324,8 +328,12 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | ^^ | Temple of False Prophets | Votaries of Diana |
 | ^^ | Pritzker School of Medicine | Pritzker School of Medicine Scav Hunt Team |
 
-## 2019 {#s-2019}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 2019 <small>[back to top]({{ site.url }}/yore/)</small> {#s-2019}
 
 [List](/assets/lists/2019.pdf)
 
@@ -369,8 +377,12 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | ^^ | 2nd | Breckinridge |
 | ^^ | 3rd | Pritzker School of Medicine |
 
-## 2018 {#s-2018}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 2018 <small>[back to top]({{ site.url }}/yore/)</small> {#s-2018}
 
 [List](/assets/lists/2018.pdf)
 
@@ -401,8 +413,12 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | ^^ | Say my whole name this year | Melissa Drexler and Oscar the Grouch Star in: Juno |
 | ^^ | Scavvy McScav Face | Track and Delta Gamma |
 
-## 2017 {#s-2017}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 2017 <small>[back to top]({{ site.url }}/yore/)</small> {#s-2017}
 
 [List](/assets/lists/2017.pdf)
 
@@ -424,8 +440,12 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | ^^ | ”breck deserved it the most” - bobby j zimmer | the satellites deserved it |
 | ^^ | Atlanta Study Abroad | Jimmy Carter’s Peanut Gallery |
 
-## 2016 {#s-2016}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 2016 <small>[back to top]({{ site.url }}/yore/)</small> {#s-2016}
 
 [List](/assets/lists/2016.pdf)
 
@@ -453,8 +473,12 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | ^^ | Srat Starz | OOWTFYB |
 | ^^ | Tommy Rob | Outrageous Fun |
 
-## 2015 {#s-2015}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 2015 <small>[back to top]({{ site.url }}/yore/)</small> {#s-2015}
 
 [List](/assets/lists/2015.pdf)
 
@@ -481,8 +505,11 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | 19th | Team Tornado |  |
 
 
-## 2014(2) {#s-2014-2}
-[Back to top](#archives)
+<br>
+<br>
+
+
+## 2014(2) <small>[back to top]({{ site.url }}/yore/)</small> {#s-2014-2}
 
 [List](/assets/lists/2014(2).pdf)
 
@@ -509,8 +536,12 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | 19th | Beijing Study Abroad | The Collective Collective Farm Collective |
 | 20th | Columbia Grad Students |  |
 
-## 2014(1) {#s-2014-1}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 2014(1) <small>[back to top]({{ site.url }}/yore/)</small> {#s-2014-1}
 
 [List](/assets/lists/2014(1).pdf)
 
@@ -529,8 +560,12 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | 11th | Physics Graduate Students |  |
 | 12th | Athens Study Abroad |  |
 
-## 2012 {#s-2012}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 2012 <small>[back to top]({{ site.url }}/yore/)</small> {#s-2012}
 
 [List](/assets/lists/2012.pdf)
 
@@ -547,8 +582,12 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 | 9th | International House |  |
 | 10th | Physics Graduate Students |  |
 
-## 2011 {#s-2011}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 2011 <small>[back to top]({{ site.url }}/yore/)</small> {#s-2011}
 
 [List](/assets/lists/2011.pdf)
 
@@ -571,8 +610,12 @@ The clues for item 35 (“the puzzle hunt”) can be found here.
 | 11th | University of Wisconsin Law School | Team Rural Jurors |
 | 12th | Greek Life (Fraternity and Sorority) | The Greeks |
 
-## 2010 {#s-2010}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 2010 <small>[back to top]({{ site.url }}/yore/)</small> {#s-2010}
 
 [List](/assets/lists/2010.pdf)
 
@@ -591,8 +634,11 @@ The clues for item 35 (“the puzzle hunt”) can be found here.
 | 11th | Independent | A T-Rex Ate My Team Name |
 
 
-## 2009 {#s-2009}
-[Back to top](#archives)
+<br>
+<br>
+
+
+## 2009 <small>[back to top]({{ site.url }}/yore/)</small> {#s-2009}
 
 [List](/assets/lists/2009.pdf)
 
@@ -612,8 +658,11 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | 10th | Hooverstone | Agent Claus and his Christmas Joneses |
 
 
-## 2008 {#s-2008}
-[Back to top](#archives)
+<br>
+<br>
+
+
+## 2008 <small>[back to top]({{ site.url }}/yore/)</small> {#s-2008}
 
 [List](/assets/lists/2008.pdf)
 
@@ -631,8 +680,12 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | 8th | Broadview | Vandelay Industries |
 | 9th | Broover | Scav Trek V: The Vinyl Frontier |
 
-## 2007 {#s-2007}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 2007 <small>[back to top]({{ site.url }}/yore/)</small> {#s-2007}
 
 [List](/assets/lists/2007.pdf)
 
@@ -648,8 +701,12 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | 8th | Broadview | Unicornicopians |
 | 9th | Scavengers: The ScavDocumentary Crew |  |
 
-## 2006 {#s-2006}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 2006 <small>[back to top]({{ site.url }}/yore/)</small> {#s-2006}
 
 [List](/assets/lists/2006.pdf)
 
@@ -665,8 +722,12 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | 8th | Broadview | The New and Improved Rocket Widgets (© Guinness) |
 | 9th | Vegan/Co-Op/MacLab | The Seitanists |
 
-## 2005 {#s-2005}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 2005 <small>[back to top]({{ site.url }}/yore/)</small> {#s-2005}
 
 [List](/assets/lists/2005.pdf)
 
@@ -683,8 +744,11 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | 9th | Burton-Judson | REVOLUTION! |
 
 
-## 2004 {#s-2004}
-[Back to top](#archives)
+<br>
+<br>
+
+
+## 2004 <small>[back to top]({{ site.url }}/yore/)</small> {#s-2004}
 
 [List](/assets/lists/2004.pdf)
 
@@ -702,8 +766,12 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | 8th | Burton-Judson (sans Vincent) | No-names |
 | 9th | Vincent |  |
 
-## 2003 {#s-2003}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 2003 <small>[back to top]({{ site.url }}/yore/)</small> {#s-2003}
 
 [List](/assets/lists/2003.pdf)
 
@@ -719,8 +787,12 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | 8th | Commuters/Max Mason |  |
 | 9th | Fire Escape | Tom Bennett's All-Star Acolytes |
 
-## 2002 {#s-2002}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 2002 <small>[back to top]({{ site.url }}/yore/)</small> {#s-2002}
 
 [List](/assets/lists/2002.pdf)
 
@@ -738,8 +810,12 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | 8th | Commuters/Max Mason |  |
 | 9th | Broadview | The Hunting Broads |
 
-## 2001 {#s-2001}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 2001 <small>[back to top]({{ site.url }}/yore/)</small> {#s-2001}
 
 [List](/assets/lists/2001.pdf)
 
@@ -753,8 +829,12 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | 6th | The Lush Puppies | The Lush Puppies |
 | 7th | Burton-Judson | The Absolut Clergy |
 
-## 2000 {#s-2000}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 2000 <small>[back to top]({{ site.url }}/yore/)</small> {#s-2000}
 
 [List](/assets/lists/2000.pdf)
 
@@ -770,8 +850,12 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | 8th | Max Mason | Max Factor |
 | 9th | Maclean | Logging, Pimping, and Your Pal Jim |
 
-## 1999 {#s-1999}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 1999 <small>[back to top]({{ site.url }}/yore/)</small> {#s-1999}
 
 [List](/assets/lists/1999.pdf)
 
@@ -790,8 +874,12 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | 11th | Maclean |  |
 | 12th | Maroon |  |
 
-## 1998 {#s-1998}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 1998 <small>[back to top]({{ site.url }}/yore/)</small> {#s-1998}
 
 [List](/assets/lists/1998.pdf)
 
@@ -809,8 +897,12 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | 10th | Max Mason |  |
 | 11th | Harvard Crimson |  |
 
-## 1997 {#s-1997}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 1997 <small>[back to top]({{ site.url }}/yore/)</small> {#s-1997}
 
 [List](/assets/lists/1997.pdf)
 
@@ -828,8 +920,12 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 
 <sup>†</sup>The Shoreland team was disqualified this year for a hacking incident.
 
-## 1996 {#s-1996}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 1996 <small>[back to top]({{ site.url }}/yore/)</small> {#s-1996}
 
 [List](/assets/lists/1996.pdf)
 
@@ -841,8 +937,12 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | 4th | Salisbury | Mad Cows |
 | 5th | Max Mason |  |
 
-## 1995 {#s-1995}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 1995 <small>[back to top]({{ site.url }}/yore/)</small> {#s-1995}
 
 [List](/assets/lists/1995.pdf)
 
@@ -852,8 +952,12 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | 2nd | MUNUC |  
 | 3rd | Lower Flint |  
 
-## 1994 {#s-1994}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 1994 <small>[back to top]({{ site.url }}/yore/)</small> {#s-1994}
 
 [List](/assets/lists/1994.pdf)
 
@@ -863,8 +967,12 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | 2nd | Wick |  
 | 3rd | Breckinridge |  
 
-## 1993 {#s-1993}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 1993 <small>[back to top]({{ site.url }}/yore/)</small> {#s-1993}
 
 [List](/assets/lists/1993.pdf)
 
@@ -874,8 +982,12 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | 2nd | Vincent |
 | 3rd | Breckinridge |
 
-## 1992 {#s-1992}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 1992 <small>[back to top]({{ site.url }}/yore/)</small> {#s-1992}
 
 [List](/assets/lists/1992.pdf)
 
@@ -897,8 +1009,12 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | 14th | Michelson |  
 | 15th | MacLean |  
 
-## 1991 {#s-1991}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 1991 <small>[back to top]({{ site.url }}/yore/)</small> {#s-1991}
 
 [List](/assets/lists/1991.pdf)
 
@@ -917,8 +1033,12 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | 11th | Tufts |  
 | 12th | Mathews |  
 
-## 1990 {#s-1990}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 1990 <small>[back to top]({{ site.url }}/yore/)</small> {#s-1990}
 
 [List](/assets/lists/1990.pdf)
 
@@ -953,8 +1073,12 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | ^^ | Breckinridge |  
 | 28th | Coulter | 
 
-## 1989 {#s-1989}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 1989 <small>[back to top]({{ site.url }}/yore/)</small> {#s-1989}
 
 [List](/assets/lists/1989.pdf)
 
@@ -962,8 +1086,12 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | :---: |  :---:  |
 | 1st | Talbot | 
 
-## 1988 {#s-1988}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 1988 <small>[back to top]({{ site.url }}/yore/)</small> {#s-1988}
 
 [List](/assets/lists/1988.pdf)
 
@@ -973,8 +1101,12 @@ The winning submission for item 8 can be found [here](https://web.archive.org/we
 | 2nd | Hitchcock |
 | 3rd | Lower Rickert |
 
-## 1987 {#s-1987}
-[Back to top](#archives)
+
+<br>
+<br>
+
+
+## 1987 <small>[back to top]({{ site.url }}/yore/)</small> {#s-1987}
 
 [List](/assets/lists/1987.pdf)
 
