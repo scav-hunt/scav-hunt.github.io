@@ -12,6 +12,9 @@ To begin working on this website, make sure you do the following:
 Once you've done this, run `bundle exec jekyll serve` in your terminal and go to `http://localhost:4000`
 in your favorite web browser to view the site.
 
+## Notes
+This site's Markdown converter is [kramdown](https://kramdown.gettalong.org/), not traditional GFM. See [this page](https://kramdown.gettalong.org/syntax.html) for information on any syntactical differences.
+
 ## Contact
 This website is currently being built by [Judge Gabi Garcia](https://github.com/gabigarc03).
 Please reach out to her with any concerns about the website.
