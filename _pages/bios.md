@@ -4,7 +4,7 @@ title: Judge Bios
 permalink: /horses/
 ---
 
-# The XXXX - XXXX Active Judgeship
+# The 2022 - 2023 Active Judgeship
 
 ![A horse looks up at another horse rearing in front of it](/assets/images/horses1.jpg "Oh yeah judge time")
 
