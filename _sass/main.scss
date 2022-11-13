@@ -232,6 +232,10 @@ hr {
     margin:0 0 20px;
   }
 
+  section.list {
+    font-family: 'cmu_serifroman';
+  }
+
   header a small {
     display:inline;
   }
@@ -275,4 +279,12 @@ hr {
     font-size:12pt;
     color:#444;
   }
+}
+
+@font-face {
+  font-family: 'cmu_serifroman';
+  src: url('../assets/fonts/cmuserif_roman/cmunrm-webfont.ttf') format('truetype');
+  src: url('../assets/fonts/cmuserif_roman/cmunrm-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
