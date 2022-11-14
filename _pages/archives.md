@@ -88,7 +88,7 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 **Ryan Solomon Gold** (2023--) \
 **Emma Jean Simpson** (2021--) \
 **Joren David Husic** (2021--) \
-**Kat Veronica Downey** (2021--) \
+**Kit Downey** (2021--) \
 **Rebecca Greenberg** (2021--2021) \
 **Artemie Li Chang** (2020--) \
 **Ihna Yoo** (2020--) \

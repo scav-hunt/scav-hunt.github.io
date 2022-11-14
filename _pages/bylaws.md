@@ -7,7 +7,7 @@ permalink: /bore/
 # University of Chicago Scavenger Hunt
 ## List of Officers for Scavenger Hunt 2022:
 
-**Scavenczar:** Kat Veronica Downey \
+**Scavenczar:** Kit Downey \
 **Sir Ector:** Jacob Leo Blitz \
 **Clark Griswold:** Out doing their morning constitutional \
 **Keeper of the Scrolls:** Emma Jean Simpson \
@@ -24,7 +24,7 @@ Artemie Li Chang \
 Jacob Leo Blitz \
 Emma Jean Simpson \
 Joren David Husic \
-Kat Veronica Downey \
+Kit Downey \
 Sabrina Grace Sternberg
 
 **Prophet Elijah:** (Vacant)
@@ -45,7 +45,7 @@ Artemie Li Chang \
 Jacob Leo Blitz \
 Emma Jean Simpson \
 Joren David Husic \
-Kat Veronica Downey \
+Kit Downey \
 Sabrina Grace Sternberg
 
 # Organization Committee
