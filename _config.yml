@@ -36,7 +36,12 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-spaceship
+  - jekyll-latex
 strict_front_matter: true 
+collections:
+  lists:
+    output: true 
+    permalink: /:collection/:slug
 
 include:
   - _pages
