@@ -53,3 +53,27 @@
          url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.ttf') format('truetype'),
          url('../fonts/Noto-Sans-700italic/Noto-Sans-700italic.svg#NotoSans') format('svg');
   }
+
+  @font-face {
+     font-family: 'Computer Modern';
+     src: url('../fonts/cmuserif_roman/cmunrm-webfont.ttf') format('truetype');
+     src: url('../fonts/cmuserif_roman/cmunrm-webfont.woff') format('woff');
+     font-weight: normal;
+     font-style: normal;
+   }
+   
+  @font-face {
+     font-family: 'Computer Modern';
+     src: url('../fonts/cmuserif_bold/cmunbx-webfont.ttf') format('truetype');
+     src: url('../fonts/cmuserif_bold/cmunbx-webfont.woff') format('woff');
+     font-weight: bold;
+     font-style: bold;
+   }
+
+   @font-face {
+     font-family: 'Computer Modern';
+     src: url('../fonts/cmuserif_oblique/cmunti-webfont.ttf') format('truetype');
+     src: url('../fonts/cmuserif_oblique/cmunti-webfont.woff') format('woff');
+     font-weight: normal;
+     font-style: italic;
+   }

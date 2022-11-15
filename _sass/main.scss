@@ -302,19 +302,3 @@ p.page_number {
     color:#444;
   }
 }
-
-@font-face {
-  font-family: 'Computer Modern';
-  src: url('../fonts/cmuserif_roman/cmunrm-webfont.ttf') format('truetype');
-  src: url('../fonts/cmuserif_roman/cmunrm-webfont.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'Computer Modern';
-  src: url('../fonts/cmuserif_bold/cmunbx-webfont.ttf') format('truetype');
-  src: url('../fonts/cmuserif_bold/cmunbx-webfont.woff') format('woff');
-  font-weight: bold;
-  font-style: bold;
-}
