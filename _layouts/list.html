@@ -1,29 +1,11 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <a href="{{ "/" | absolute_url }}"><img src="/assets/images/logo.gif" alt="Scav logo" width=100%/></a>
+---
+layout: default
+---
 
-        <br>
+<article class="post">
 
-        {% include navigation.html %}
-      </header>
-      <section class="list">
-        {{ content }}
-      </section>
-      <footer>
-        <ul class="social-ul">
-          <li class="social-li"><a class="social" href="https://www.facebook.com/{{ site.facebook_username }}"><img src="/assets/images/social/fbsmall.png" alt="Facebook logo" width=10%/></a></li>
-          <li class="social-li"><a class="social" href="https://www.instagram.com/{{ site.instagram_username }}"><img src="/assets/images/social/insta.png" alt="Instagram logo" width=10%/></a></li>
-          <li class="social-li"><a class="social" href="https://www.twitter.com/{{ site.twitter_username }}"><img src="/assets/images/social/twit.png" alt="Twitter logo" width=10%/></a></li>
-        </ul>
-      </footer>
-    </div>
-  </body>
-</html>
+  <div class="list">
+    {{ content }}
+  </div>
+
+</article>
