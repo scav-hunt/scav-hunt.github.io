@@ -208,6 +208,32 @@ hr {
   margin:0 0 20px;
 }
 
+.list {
+  font-family: 'Computer Modern';
+  font-weight: normal;
+}
+
+h1.list {
+  text-align: center;
+  font-weight: normal;
+}
+
+h2.list {
+  font-weight: bold;
+  margin-left: 25px;
+}
+
+h3.list_title {
+  text-align: center;
+  font-weight: normal;
+}
+
+p.page_number {
+  text-align: center;
+  margin-bottom: 20%;
+}
+
+
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
@@ -230,10 +256,6 @@ hr {
     border-width:1px 0;
     padding:20px 0;
     margin:0 0 20px;
-  }
-
-  section.list {
-    font-family: 'cmu_serifroman';
   }
 
   header a small {
@@ -282,9 +304,17 @@ hr {
 }
 
 @font-face {
-  font-family: 'cmu_serifroman';
-  src: url('../assets/fonts/cmuserif_roman/cmunrm-webfont.ttf') format('truetype');
-  src: url('../assets/fonts/cmuserif_roman/cmunrm-webfont.woff') format('woff');
+  font-family: 'Computer Modern';
+  src: url('../fonts/cmuserif_roman/cmunrm-webfont.ttf') format('truetype');
+  src: url('../fonts/cmuserif_roman/cmunrm-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
+}
+
+@font-face {
+  font-family: 'Computer Modern';
+  src: url('../fonts/cmuserif_bold/cmunbx-webfont.ttf') format('truetype');
+  src: url('../fonts/cmuserif_bold/cmunbx-webfont.woff') format('woff');
+  font-weight: bold;
+  font-style: bold;
 }
