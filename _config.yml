@@ -35,7 +35,6 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
   - jekyll-spaceship
   - jekyll-latex
 strict_front_matter: true 
