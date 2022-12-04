@@ -82,8 +82,12 @@ In the illustrious history of ScavHunt, the following have been theme songs:
 ## The Judges Most Regal
 The ranks of Hot Side Hot have, at one time or another, included the following (and if you are not on this list but can prove that you should be, e-mail scavheadjudge@gmail so that we can administer the secret test)
 
+**Brandon LaCrosse** (2023--) \
+**Cole Washburn** (2023--) \
+**David Aguilar Hall** (2023--) \
+**Lila Melkumova** (2023--) \
 **Audrey Scott** (2023--) \
-**Brittney Dorton** (2023--) \
+**Brittney Lynn Dorton** (2023--) \
 **Gabriela Claire Garcia** (2023--) \
 **Ryan Solomon Gold** (2023--) \
 **Emma Jean Simpson** (2021--) \
@@ -100,7 +104,7 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 **Sam Michael Dulys** (2019--) \
 **Abbie Louisa Reeves** (2018--) \
 **Alexander William Hearn** (2018--) \
-**David Matthew Klinger** (2018--) \
+**David Maxwell Klinger** (2018--) \
 **Gabrielle Lindsey Dulys** (2018--) \
 **Joey Steven Valdez** (2018--) \
 **Cassandra Miriam Cohen** (2017--) \
@@ -164,8 +168,8 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 **Sebastian Andrew Ellefson** (2003--) \
 **Leila Steven Sales** \
 **James Daniel Ryan** \
-**Kathleen Elizabeth Scanlon** \
-**Nicholas Paul Poulos** \
+**Kathleen Elizabeth Scanlon** (2008--) \
+**Nicholas Paul Poulos** (2005--) \
 **Joel Robert Putnam** \
 **Steven Gaskins Lucy** \
 **Sara Kanwal Rezvi** \
