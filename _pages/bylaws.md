@@ -12,7 +12,8 @@ permalink: /bore/
 **Clark Griswold:** Out doing their morning constitutional \
 **Keeper of the Scrolls:** Emma Jean Simpson \
 **Minister Of Propaganda:** Sabrina Grace Sternberg \
-**Vampire:** Artemie Li Chang
+**Vampire:** Artemie Li Chang \
+**Cyber Horsegirl:** 
 
 **Hot Side Hot:** \
 Reed Benjamin Mershon \
