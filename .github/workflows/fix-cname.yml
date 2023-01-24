@@ -1,10 +1,7 @@
 name: Fix CNAME issues
 
 on:
-  workflow_run:
-    workflows: [Build and Deploy to Github Pages]
-    types:
-      - completed
+  page_build
 
 jobs:
   fix_cname:
@@ -18,6 +15,4 @@ jobs:
         run: |
           touch CNAME
           echo "scavhunt.uchicago.edu" >> CNAME
-        with:
-          access-token: ${{ secrets.GITHUB_TOKEN }}
         shell: bash
