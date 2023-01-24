@@ -14,8 +14,20 @@ jobs:
         with:
           ref: gh-pages
       
+      - name: Cache
+        uses: actions/cache@v3.2.3
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+      
       - name: Add CNAME file
-        uses: "finnp/create-file-action@master"
-        env:
-          FILE_NAME: "CNAME"
-          FILE_DATA: "scavhunt.uchicago.edu"
+        run: |
+          touch CNAME
+          echo "scavhunt.uchicago.edu" >> CNAME
+          ls ${{ github.workspace }}
+        shell: bash
+      
+      - name: Commit
+        uses: zwaldowski/git-commit-action@v1
