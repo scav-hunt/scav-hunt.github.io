@@ -43,4 +43,3 @@ jobs:
         run: |
           touch CNAME
           echo "scavhunt.uchicago.edu" >> CNAME
-        shell: bash
