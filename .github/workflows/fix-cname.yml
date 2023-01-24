@@ -15,7 +15,7 @@ jobs:
           ref: gh-pages
       
       - name: Add CNAME file
-        run: |
-          touch CNAME
-          echo "scavhunt.uchicago.edu" >> CNAME
-        shell: bash
+        uses: "finnp/create-file-action@master"
+        env:
+          FILE_NAME: "CNAME"
+          FILE_DATA: "scavhunt.uchicago.edu"
