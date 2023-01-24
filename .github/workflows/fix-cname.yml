@@ -1,7 +1,10 @@
 name: Fix CNAME issues
 
 on:
-  page_build
+  workflow_run:
+    workflows: [Build and Deploy to Github Pages]
+    types:
+      - completed
 
 jobs:
   fix_cname:
