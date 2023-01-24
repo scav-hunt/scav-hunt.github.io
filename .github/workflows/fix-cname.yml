@@ -1,0 +1,20 @@
+name: Fix CNAME issues
+
+on:
+  page_build
+
+jobs:
+  fix_cname:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: gh-pages
+      
+      - name: Add CNAME file
+        run: |
+          touch CNAME
+          echo "scavhunt.uchicago.edu" >> CNAME
+        with:
+          access-token: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
