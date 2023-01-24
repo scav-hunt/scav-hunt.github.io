@@ -2,7 +2,7 @@ name: Fix CNAME issues
 
 on:
   workflow_run:
-    workflows: [Build and Deploy to Github Pages]
+    workflows: [pages-build-deployment]
     types:
       - completed
 
