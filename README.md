@@ -14,7 +14,3 @@ in your favorite web browser to view the site.
 
 ## Notes
 This site's Markdown converter is [kramdown](https://kramdown.gettalong.org/), not traditional GFM. See [this page](https://kramdown.gettalong.org/syntax.html) for information on any syntactical differences.
-
-## Contact
-This website is managed by [Judge Gabi Garcia](https://github.com/gabigarc03).
-Please reach out to her with any concerns about the website.
