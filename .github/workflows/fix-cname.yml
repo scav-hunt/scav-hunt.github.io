@@ -1,0 +1,35 @@
+name: Fix CNAME issues
+
+on:
+  workflow_run:
+    workflows: [Build and Deploy to Github Pages]
+    types:
+      - completed
+
+jobs:
+  fix_cname:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: gh-pages
+      
+      - name: Cache
+        uses: actions/cache@v3.2.3
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+      
+      - name: Add CNAME file
+        run: |
+          touch CNAME
+          echo "scavhunt.uchicago.edu" >> CNAME
+          ls ${{ github.workspace }}
+        shell: bash
+      
+      - name: Commit
+        uses: EndBug/add-and-commit@v9.1.1
+        with:
+          add: CNAME
