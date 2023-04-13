@@ -28,16 +28,16 @@ There will be one Judge who is responsible for handling Code of Conduct violatio
     - Follow up to discuss with relevant parties
     - If necessary, disallow their participation in the remainder of the Hunt
     - In extreme cases, expel them from the Cabal and report to the Administration 
-- Should we witness a participant exhibiting any misbehavior/misconduct, we will:
+- Should we witness a participant exhibiting any misbehavior/misconduct, we may:
     - Ask them to leave the area
     - Restrict them from Scav spaces
-    - Revoke Scav privileges
+    - Revoke relevant Scav privileges (see Section 4)
     - Contact Captains
     - In extreme cases, report to the Administration
-- Should we witness or have reports of a team exhibiting collective misbehavior/misconduct, we will:
+- Should we witness or have reports of a team exhibiting collective misbehavior/misconduct, we may:
     - Issue a warning to Captains
     - Deduct points should the behavior be related to an Item
-    - Revoke Scav privileges
+    - Revoke relevant Scav privileges (see Section 4)
     - In extreme cases, immediately disqualify the team
 
 ### Section 3-C: Things Your Captains Should Know About
