@@ -17,7 +17,7 @@ The Judge Cabal serves to facilitate the Scav Hunt, and while we hope all Scavvi
 ## Section 3: Appropriate Channels
 
 ### Section 3-A: Things We (The Judges) Would Like to Know About
-- Cheating (non-romantic)
+- Cheating
 - Misconduct (as defined in Section 1) that occurs without Judges present
 - Misconduct by Judges
 
@@ -37,8 +37,8 @@ There will be one Judge who is responsible for handling Code of Conduct violatio
 - Should we witness or have reports of a team exhibiting collective misbehavior/misconduct, we will:
     - Issue a warning to Captains
     - Deduct points should the behavior be related to an Item
-    - In extreme cases, immediately disqualify the team
     - Revoke Scav privileges
+    - In extreme cases, immediately disqualify the team
 
 ### Section 3-C: Things Your Captains Should Know About
 - Intrateam conflicts
@@ -55,6 +55,5 @@ There will be one Judge who is responsible for handling Code of Conduct violatio
 ### Section 4: What are Scav Privileges
 1. Access to the Scav Discord
 2. Access to the Listhost
-3. Recognition as captain (like counting for events, judgment)
+3. Recognition as captain (e.g. counting for events, Judgment)
 4. Recognition as a team
-5. Demerit points? (This is kinda a joke)
