@@ -17,7 +17,7 @@ The Judge Cabal serves to facilitate the Scav Hunt, and while we hope all Scavvi
 ## Section 3: Appropriate Channels
 
 ### Section 3-A: Things We (The Judges) Would Like to Know About
-- Cheating (non-romantic)
+- Cheating
 - Misconduct (as defined in Section 1) that occurs without Judges present
 - Misconduct by Judges
 
@@ -28,17 +28,17 @@ There will be one Judge who is responsible for handling Code of Conduct violatio
     - Follow up to discuss with relevant parties
     - If necessary, disallow their participation in the remainder of the Hunt
     - In extreme cases, expel them from the Cabal and report to the Administration 
-- Should we witness a participant exhibiting any misbehavior/misconduct, we will:
+- Should we witness a participant exhibiting any misbehavior/misconduct, we may:
     - Ask them to leave the area
     - Restrict them from Scav spaces
-    - Revoke Scav privileges
+    - Revoke relevant Scav privileges (see Section 4)
     - Contact Captains
     - In extreme cases, report to the Administration
-- Should we witness or have reports of a team exhibiting collective misbehavior/misconduct, we will:
+- Should we witness or have reports of a team exhibiting collective misbehavior/misconduct, we may:
     - Issue a warning to Captains
     - Deduct points should the behavior be related to an Item
+    - Revoke relevant Scav privileges (see Section 4)
     - In extreme cases, immediately disqualify the team
-    - Revoke Scav privileges
 
 ### Section 3-C: Things Your Captains Should Know About
 - Intrateam conflicts
@@ -51,10 +51,3 @@ There will be one Judge who is responsible for handling Code of Conduct violatio
 
 ### Section 3-E: Things the Administration Should Know About
 - Serious Shit. We have to report it, and so do you. We encourage you to reach out to the Cabal or your residential staff if you need assistance with reporting.
-
-### Section 4: What are Scav Privileges
-1. Access to the Scav Discord
-2. Access to the Listhost
-3. Recognition as captain (like counting for events, judgment)
-4. Recognition as a team
-5. Demerit points? (This is kinda a joke)
