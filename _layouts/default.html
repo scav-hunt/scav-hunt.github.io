@@ -8,6 +8,11 @@
   <body>
     <div class="wrapper">
       <header>
+        <script type="text/javascript">
+          function changeToThioCursor(){
+              document.body.style.cursor="url('/assets/images/thiocur.cur'), default";
+          }
+      </script>
         <a href="{{ "/" | absolute_url }}"><img src="/assets/images/logo.gif" alt="Scav logo" width=100%/></a>
 
         <br>
@@ -22,6 +27,7 @@
           <li class="social-li"><a class="social" href="https://www.facebook.com/{{ site.facebook_username }}"><img src="/assets/images/social/fbsmall.png" alt="Facebook logo" width=10%/></a></li>
           <li class="social-li"><a class="social" href="https://www.instagram.com/{{ site.instagram_username }}"><img src="/assets/images/social/insta.png" alt="Instagram logo" width=10%/></a></li>
           <li class="social-li"><a class="social" href="https://{{ site.tumblr_username }}.tumblr.com"><img src="/assets/images/social/tumblr.png" alt="Tumblr logo" width=5%/></a></li>
+          <li class="social-li"><a class="social" href="javascript:void(0)" onclick="changeToThioCursor()"><img src="/assets/images/thio.png" alt="A drawing of thioacetone" width="12%"/></a></li>
         </ul>
       </footer>
     </div>
