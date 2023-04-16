@@ -11,4 +11,4 @@ permalink: /
 
 | Team Name | Affiliation | Captain(s) | Best Little Fella |
 | :---: | :---: | :---: | :---: |
-| Team Judge | The Judgeship | Emma Jean Simpson | Thio |
+| Snap, Crackle, POP | The German Mafia | Adrian Gilly, Camden Pao | Barry (says my friend who I asked this question to with no context) |
