@@ -13,3 +13,4 @@ permalink: /
 | :---: | :---: | :---: | :---: |
 | Snap, Crackle, POP | The German Mafia | Adrian Gilly, Camden Pao | Barry (says my friend who I asked this question to with no context) |
 | Upsilon Nu: Alpha Chapter | Campus North East | Will Epstein, Chad Coen | Rory McGann |
+| THE ALL-SEEING LEMON | Alums | Alla Hoffman | [THE ALL-SEEING LEMON](https://www.etsy.com/listing/1101251216/the-all-seeing-lemon) |
