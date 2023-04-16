@@ -12,3 +12,4 @@ permalink: /
 | Team Name | Affiliation | Captain(s) | Best Little Fella |
 | :---: | :---: | :---: | :---: |
 | Snap, Crackle, POP | The German Mafia | Adrian Gilly, Camden Pao | Barry (says my friend who I asked this question to with no context) |
+| Upsilon Nu: Alpha Chapter | Campus North East | Will Epstein, Chad Coen | Rory McGann |
