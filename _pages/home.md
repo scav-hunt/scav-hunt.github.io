@@ -17,5 +17,6 @@ permalink: /
 | Западни Дрвени травњак | Woodlawn West | Aidan Cessor | Nic Cage, but if he was a rabid nematode |
 | ouroboros can have little a ouroboros as a treat | GASH | Holly Kassner, Emily Feeley, Nicky Dover | an anxious feral waddling possum |
 | Fallcrest Adventurer's Guild | Just a silly lil DnD group | Asher Jaffe | My roommates' cat, Adora |
+| Our Market Research Shows That Scav Judges Like Really Long Team Names So We Made this Team to Have the Absolute Longest Team Name Ever Renee Granville-Grossman Residential Commons (formerly known as South Campus Residence Hall) Scavenger Hunt Team | South Scav | Jack Cramer, Pallas Eible Hargro, Matthew Rubenstein | Charlotte Meyer |
 
 ### Unsure where to begin? Check out our guide, [So You Want to Be a Scav Team](https://drive.google.com/file/d/1SNzZE5_M4W97NOu_pkpBAyVCo5wxSK_E/)!
