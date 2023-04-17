@@ -150,11 +150,11 @@ That said, should knuckle-dragging critics want to "analyze" this text, a list o
 
 **Scavenczar:** Emma Jean Simpson \
 **Sir Ector:** Jacob Leo Blitz \
-**Clark Griswold:** Out doing their morning constitutional \
+**Clark Griswold:** Out for their afternoon constitutional \
 **Keeper of the Scrolls:** Emma Jean Simpson \
 **Cyber Horsegirl:** Gabriela Claire Garcia \
 **Ministers Of Propaganda:** Sabrina Grace Sternberg, Brittney Lynn Dorton, Brandon LaCrosse \
-**Vampire:** TBA
+**Vampire:** Cole Washburn
 
 **Hot Side Hot:** \
 TBA

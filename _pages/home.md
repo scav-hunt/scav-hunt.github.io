@@ -15,3 +15,6 @@ permalink: /
 | Upsilon Nu: Alpha Chapter | Campus North East | Will Epstein, Chad Coen | Rory McGann |
 | THE ALL-SEEING LEMON | Alums | Alla Hoffman | [THE ALL-SEEING LEMON](https://www.etsy.com/listing/1101251216/the-all-seeing-lemon) |
 | Западни Дрвени травњак | Woodlawn West | Aidan Cessor | Nic Cage, but if he was a rabid nematode |
+| ouroboros can have little a ouroboros as a treat | GASH | Holly Kassner, Emily Feeley, Nicky Dover | an anxious feral waddling possum |
+
+### Unsure where to begin? Check out our guide, [So You Want to Be a Scav Team](https://drive.google.com/file/d/1SNzZE5_M4W97NOu_pkpBAyVCo5wxSK_E/)!
