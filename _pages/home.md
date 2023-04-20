@@ -21,5 +21,6 @@ permalink: /
 | Tim Burton-Judson presents: the Nightmare before Mother's Day | Burton-Judson | Arielle Roane, Oscar Taub | Pygmy seahorse |
 | The Ball Busters | Balls (volleyballs, basketballs, bowling balls, bocce balls, tennis balls, lacrosse balls, waterpolo balls, cue balls, beach balls, soccer balls, ping pong balls, etc) | Ellie Alden, Lucy Schmid | Wilson, the ball |
 | Sally’s Terrible, Horrible, No-Good, Very Bad Scav Team | Snitchcock | Zoa Katok, David Nathan Twersky, Estrella Hernandez, Isabella Perez, Arianne Nguyen, Sally | Sally |
+| SVB: Silicon Valois Bois | Valois | Adam Large, Thomas Schankler, Jenny Haar | Mayor Anton Cermak, for obvious reasons |
 
 ### Unsure where to begin? Check out our guide, [So You Want to Be a Scav Team](https://drive.google.com/file/d/1SNzZE5_M4W97NOu_pkpBAyVCo5wxSK_E/)!
