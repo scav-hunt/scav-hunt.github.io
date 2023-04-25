@@ -7,6 +7,8 @@ permalink: /
 
 ## [REGISTER YOUR TEAM FOR SCAV HERE](https://forms.gle/A7GJZeJqP9EFJ9U36)
 
+## [SIGN UP TO DONATE BLOOD FOR BLOOD DRIVE HERE](https://redcap.link/DonateBloodUCM)
+
 ### Registered Teams
 
 | Team Name | Affiliation | Captain(s) | Best Little Fella |
