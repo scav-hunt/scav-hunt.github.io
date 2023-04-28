@@ -27,5 +27,6 @@ permalink: /
 | We Did Start the Fire: Harry Truman, Doris Day, Red China, Johnnie Ray South Pacific, Walter Winchell, Joe DiMaggio Joe McCarthy, Richard Nixon, Studebaker, television North Korea, South Korea, Marilyn Monroe Rosenbergs, H-bomb, Sugar Ray, Panmunjom Brando, "The King and I", and "The Catcher in the Rye" Eisenhower, Vaccine, England's got a new queen Marciano, Liberace, Santayana, goodbye... | Woodlawn East | Ryan MacIsaac, Antonio Both Schenatto, Joshua Taylor, Leon Gold, Hanim Nuru, Cooper Komatsu | "Rockefeller, Campanella, Communist Bloc"; John D. |
 |: STREAK :fire::fire::fire: :| just me | Rebecca Husk | me |
 | Don and Rani | The dumbasses who constantly quote Jojo's Bizarre Adventure | Ron Gneezy, Danielle Lopez | [Pochita](https://youtu.be/uXd-1sClPYQ) | 
+| Max Palevsky Center for Kids Who Can't Scav Good | Max Palevsky | Palmer Blackstock, Lade Tinubu, Gabriel Byrd | Pasdereef |
 
 ### Unsure where to begin? Check out our guide, [So You Want to Be a Scav Team](https://drive.google.com/file/d/1SNzZE5_M4W97NOu_pkpBAyVCo5wxSK_E/)!
