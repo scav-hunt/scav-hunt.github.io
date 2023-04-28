@@ -28,5 +28,6 @@ permalink: /
 |: STREAK :fire::fire::fire: :| just me | Rebecca Husk | me |
 | Don and Rani | The dumbasses who constantly quote Jojo's Bizarre Adventure | Ron Gneezy, Danielle Lopez | [Pochita](https://youtu.be/uXd-1sClPYQ) | 
 | Max Palevsky Center for Kids Who Can't Scav Good | Max Palevsky | Palmer Blackstock, Lade Tinubu, Gabriel Byrd | Pasdereef |
+| THE REAL CHICAGO TEAM | some people | Annie Chen, Raman Odgers | ja ja ja |
 
 ### Unsure where to begin? Check out our guide, [So You Want to Be a Scav Team](https://drive.google.com/file/d/1SNzZE5_M4W97NOu_pkpBAyVCo5wxSK_E/)!
