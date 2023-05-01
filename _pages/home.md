@@ -29,5 +29,6 @@ permalink: /
 | Don and Rani | The dumbasses who constantly quote Jojo's Bizarre Adventure | Ron G., Danielle L. | [Pochita](https://youtu.be/uXd-1sClPYQ) | 
 | Max Palevsky Center for Kids Who Can't Scav Good | Max Palevsky | Palmer B., Lade T., Gabriel B. | Pasdereef |
 | THE REAL CHICAGO TEAM | some people | Annie C., Raman O. | ja ja ja |
+| Sourdough: The Final Rise | Sourdough | Nick C., Kristy H. | awh, you are! you're doing a great job :) |
 
 ### Unsure where to begin? Check out our guide, [So You Want to Be a Scav Team](https://drive.google.com/file/d/1SNzZE5_M4W97NOu_pkpBAyVCo5wxSK_E/)!
