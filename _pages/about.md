@@ -62,4 +62,4 @@ Great! Put it on your application list, and we’ll see you in the Fall. Keep in
 First, I know you’re excited about Scav if you’ve read this whole FAQ, but I need you to stop shouting. Second, if you have a question that: 
     1. Cannot be answered using any of the information on this site (including the Rules section of the most recent List, and yes, even the Bylaws), 
     2. Isn’t a total waste of time, \
-send an Electronic Mail to scavheadjudge [at] gmail.com. Be warned, they are a busy person, so use this option wisely.
+send an Electronic Mail to uchicagoscav [at] gmail.com. Be warned, they are a busy person, so use this option wisely.
