@@ -16,5 +16,3 @@ Options for Item 219 can be found [here](https://docs.google.com/document/d/1Zte
 [For mobile users, here's a link to the List.]({{ site.url }}/assets/lists/2023.pdf)
 
 <object data="../../items/item289/The_2023_University_of_Chicago_Scavenger_Hunt_List.pdf" width="100%" height="600" type='application/pdf'></object>
-
-Information regarding item 289 appears on the [2023 University of Chicago Scavenger Hunt List](items/item289/The_2023_University_of_Chicago_Scavenger_Hunt_List.pdf)
