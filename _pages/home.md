@@ -32,5 +32,6 @@ permalink: /
 | Sourdough: The Final Rise | Sourdough | Nick C., Kristy H. | awh, you are! you're doing a great job :) |
 | Smart People...On ICE! | Marg's good time gang | Margaret Rose S. (Marg) | Neil Banging Out the Tunes, April 13 2006 |
 | we need a captain and a name | International House | Parker J., Shannon S. | A captain |
+| shimpo and the peristeronic gentlemen | The Bunge | Emma P. | roingus |
 
 ### Unsure where to begin? Check out our guide, [So You Want to Be a Scav Team](https://drive.google.com/file/d/1SNzZE5_M4W97NOu_pkpBAyVCo5wxSK_E/)!
