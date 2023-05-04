@@ -157,9 +157,35 @@ That said, should knuckle-dragging critics want to "analyze" this text, a list o
 **Vampire:** Cole Washburn
 
 **Hot Side Hot:** \
-TBA
+Brandon LaCrosse \
+Cole Washburn \
+David Aguilar Hall \
+Lila Melkumova \
+Audrey Scott \
+Brittney Lynn Dorton \
+Gabriela Claire Garcia \
+Ryan Solomon Gold \
+Emma Jean Simpson \
+Joren David Husic \
+Kit Downey \
+Artemie Li Chang \
+Eren Ahn \
+Jacob Leo Blitz \
+Sabrina Grace Sternberg \
+Destiny DeAnn Reeves \
+Molly Elizabeth Blondell \
+Andrew William Jordan \
+Christian Farrell Kammerer
 
 **Prophet Elijah:** (Vacant)
 
 **Judge Emeriti:** \
-TBA
+Ori Portland Brian \
+Michael Aaron Hochman \
+Ezra Deutsch-Feldman \
+Reed Benjamin Mershon \
+Caroline Bright Wall \
+Daniel Tamor Liu Citron \
+Andrew William Jordan \
+Christian Farrell Kammerer \
+Joey Steven Valdez
