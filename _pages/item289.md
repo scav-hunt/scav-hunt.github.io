@@ -3,6 +3,7 @@ layout: default
 title: Current List
 permalink: /item289
 ---
+
 # The 2023 University of Chicago Scavenger Hunt List
 
 [Item 164 teams]({{ site.url}}/poketeams/)
@@ -12,6 +13,8 @@ permalink: /item289
 Options for Item 219 can be found [here](https://docs.google.com/document/d/1ZteDwhz81TButMqZav6dUmX31XwZaqdMaF-E6XnRkX8/edit?usp=sharing).
 
 [Item 249]({{ site.url }}/items/morse.wav)
+
+[Item 289]({{ site.url }}/item289)
 
 [For mobile users, here's a link to the List.]({{ site.url }}/assets/lists/2023.pdf)
 
