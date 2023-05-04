@@ -8,6 +8,8 @@ permalink: /chores/
 
 [Item 164 teams]({{ site.url}}/poketeams/)
 
+[ITEM 179 BRACKET]({{ site.url }}/rhapsodebracket )
+
 [Item 204](https://bit.ly/tamsinimmersive)
 
 Options for Item 219 can be found [here](https://docs.google.com/document/d/1ZteDwhz81TButMqZav6dUmX31XwZaqdMaF-E6XnRkX8/edit?usp=sharing).
