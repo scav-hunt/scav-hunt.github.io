@@ -16,6 +16,8 @@ Options for Item 219 can be found [here](https://docs.google.com/document/d/1Zte
 
 [Item 249]({{ site.url }}/items/morse.wav)
 
+[Item 261]({{ site.url }}/items/item261.html)
+
 [Item 289]({{ site.url }}/item289)
 
 [For mobile users, here's a link to the List.]({{ site.url }}/assets/lists/2023.pdf)
