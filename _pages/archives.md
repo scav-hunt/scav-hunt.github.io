@@ -51,6 +51,7 @@ permalink: /yore/
 
 In the illustrious history of ScavHunt, the following have been theme songs:
 
+**2023:** Akiko Wada, "KANPAI FUNK" \
 **2014(0):** The Billboard Hot 100 Number Ones of 2014(0) \
 **2021:** Tame Impala, "Elephant", as covered by The Wiggles \
 **2020:** Daði Freyr, "Think About Things" \
