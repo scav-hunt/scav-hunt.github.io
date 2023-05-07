@@ -188,4 +188,9 @@ Caroline Bright Wall \
 Daniel Tamor Liu Citron \
 Andrew William Jordan \
 Christian Farrell Kammerer \
-Joey Steven Valdez
+Joey Steven Valdez \
+Kirsten Anne Madsen \
+Walker Riley King \
+Catherine Zog Scharon \
+Paul Wilburforth Davis \
+Sihyun Eren Ahn
