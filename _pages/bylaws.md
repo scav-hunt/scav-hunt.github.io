@@ -192,4 +192,5 @@ Joey Steven Valdez \
 Kirsten Anne Madsen \
 Walker Riley King \
 Catherine Zog Scharon \
-Paul Wilburforth Davis 
+Paul Wilburforth Davis \
+Lindsey Julia Simon
