@@ -192,5 +192,4 @@ Joey Steven Valdez \
 Kirsten Anne Madsen \
 Walker Riley King \
 Catherine Zog Scharon \
-Paul Wilburforth Davis \
-Sihyun Eren Ahn
+Paul Wilburforth Davis 
