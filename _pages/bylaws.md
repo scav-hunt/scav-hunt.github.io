@@ -173,6 +173,8 @@ Sihyun Eren Ahn \
 Jacob Leo Blitz \
 Sabrina Grace Sternberg \
 Destiny DeAnn Reeves \
+Nell Williamson Shaffer \
+David Maxwell Klinger \
 Molly Elizabeth Blondell \
 Andrew William Jordan \
 Christian Farrell Kammerer
