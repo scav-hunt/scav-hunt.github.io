@@ -169,7 +169,7 @@ Emma Jean Simpson \
 Joren David Husic \
 Kit Downey \
 Artemie Li Chang \
-Eren Ahn \
+Sihyun Eren Ahn \
 Jacob Leo Blitz \
 Sabrina Grace Sternberg \
 Destiny DeAnn Reeves \
