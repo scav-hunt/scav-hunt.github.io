@@ -114,7 +114,7 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 **Eva Judith Brotslaw** (2017--) \
 **Michael Aaron Hochman** (2017--) \
 **Ori Portland Brian** (2017--) \
-**Sihyun Eren Ahn** (2017--) \
+**Eren Ahn** (2017--) \
 **Andrew Isaac Jaffe** (2016--) \
 **Julianna Rose St. Onge** (2016--) \
 **Udayan Ravi Vaidya** (2016--) \
@@ -138,7 +138,7 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 **Michael Jacek Furdyna** (2012--) \
 **Andrew William Jordan** (2012--) \
 **Kirsten Anne Madsen** (2012--) \
-**Catherine Zog Scharon** (2012--) \
+**Catherine Zuul Scharon** (2012--) \
 **Alexander Joseph Brandt** (2011--) \
 **Samuel Ryan Bowman** (2011--) \
 **Rebecca Anne Maurer** (2011--) \

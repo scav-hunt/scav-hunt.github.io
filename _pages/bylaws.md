@@ -169,7 +169,7 @@ Emma Jean Simpson \
 Joren David Husic \
 Kit Downey \
 Artemie Li Chang \
-Sihyun Eren Ahn \
+Eren Ahn \
 Jacob Leo Blitz \
 Sabrina Grace Sternberg \
 Destiny DeAnn Reeves \
@@ -193,6 +193,6 @@ Christian Farrell Kammerer \
 Joey Steven Valdez \
 Kirsten Anne Madsen \
 Walker Riley King \
-Catherine Zog Scharon \
+Catherine Zuul Scharon \
 Paul Wilburforth Davis \
 Lindsey Julia Simon
