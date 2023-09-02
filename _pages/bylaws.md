@@ -146,53 +146,20 @@ We will also assert that this document holds the true meaning within its words. 
 
 That said, should knuckle-dragging critics want to "analyze" this text, a list of current officers is appended below, to be changed every year by the Cyber Horsegirl.
  
-## List of Officers for Scavenger Hunt 2023:
+## List of Officers for Scavenger Hunt 2024:
 
-**Scavenczar:** Emma Jean Simpson \
+**Scavenczar:** David Aguilar Hall \
 **Sir Ector:** Jacob Leo Blitz \
-**Clark Griswold:** Out for their afternoon constitutional \
-**Keeper of the Scrolls:** Emma Jean Simpson \
+**Clark Griswold:** Out for their evening constitutional \
+**Keeper of the Scrolls:** Brandon LaCrosse \
 **Cyber Horsegirl:** Gabriela Claire Garcia \
-**Ministers Of Propaganda:** Sabrina Grace Sternberg, Brittney Lynn Dorton, Brandon LaCrosse \
-**Vampire:** Cole Washburn
+**Ministers Of Propaganda:** Sabrina Grace Sternberg, Brittney Lynn Dorton \
+**Vampire:** TBA
 
 **Hot Side Hot:** \
-Brandon LaCrosse \
-Cole Washburn \
-David Aguilar Hall \
-Lila Melkumova \
-Audrey Scott \
-Brittney Lynn Dorton \
-Gabriela Claire Garcia \
-Ryan Solomon Gold \
-Emma Jean Simpson \
-Joren David Husic \
-Kit Downey \
-Artemie Li Chang \
-Sihyun Eren Ahn \
-Jacob Leo Blitz \
-Sabrina Grace Sternberg \
-Destiny DeAnn Reeves \
-Nell Williamson Shaffer \
-David Maxwell Klinger \
-Molly Elizabeth Blondell \
-Andrew William Jordan \
-Christian Farrell Kammerer
+TBA
 
 **Prophet Elijah:** (Vacant)
 
 **Judge Emeriti:** \
-Ori Portland Brian \
-Michael Aaron Hochman \
-Ezra Deutsch-Feldman \
-Reed Benjamin Mershon \
-Caroline Bright Wall \
-Daniel Tamor Liu Citron \
-Andrew William Jordan \
-Christian Farrell Kammerer \
-Joey Steven Valdez \
-Kirsten Anne Madsen \
-Walker Riley King \
-Catherine Zuul Scharon \
-Paul Wilburforth Davis \
-Lindsey Julia Simon
+TBA
