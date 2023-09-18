@@ -14,7 +14,7 @@ In case that doesn't satisfy your unquenchable thirst for knowledge, here are so
 "[Scav] is. [Scav] is in itself. [Scav] is what it is." -Jean-Paul Sartre
 
 2. **When is Scav?** \
-Scav is often scheduled such that Judgment Day (the last day of the Hunt) is Mother's Day. The List is released at midnight the preceding Wednesday/Thursday. **The 2023 hunt will be a week earlier, May 4-7.** Incidentally, we all love our mothers very much.
+Scav is often scheduled such that Judgment Day (the last day of the Hunt) is Mother's Day. The List is released at midnight the preceding Wednesday/Thursday. Incidentally, we all love our mothers very much.
 
 3. **What sort of cool things happen during Scav?** \
 This is not your elementary school's scavenger hunt. Every year, the List contains items that must be found in the style of a traditional scavenger hunt, but there are many other items that must be built, performed, written, programmed, drawn, eaten, designed, painted, solved, won, and (sometimes) endured. The best way to get a feel for what kinds of items go on the List is to check out some of the Lists from recent years.
