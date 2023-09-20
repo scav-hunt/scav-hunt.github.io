@@ -6,7 +6,7 @@ permalink: /
 
 # hi we're back :3
 
-## Join us for the 2023 University of Chicago Reva and David Logan Center for the Arts Orientation Week Party Scavenger Hunt at the Reva and David Logan Center for the Arts Orientation Week Party on Thursday, September 21st!
+## [REGISTER HERE](https://forms.gle/LBWYGKsTNdPsKc998) for the 2023 University of Chicago Reva and David Logan Center for the Arts Orientation Week Party Scavenger Hunt at the Reva and David Logan Center for the Arts Orientation Week Party on Thursday, September 21st!
 
 ### Some FAQs:
 
