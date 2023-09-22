@@ -4,29 +4,12 @@ title: Scav Hunt
 permalink: /
 ---
 
-# hi we're back :3
+# So you wanna be a Judge...
 
-## [REGISTER HERE](https://forms.gle/LBWYGKsTNdPsKc998) for the 2023 University of Chicago Reva and David Logan Center for the Arts Orientation Week Party Scavenger Hunt at the Reva and David Logan Center for the Arts Orientation Week Party on Thursday, September 21st!
+Having ritually slaughtered and eaten several of our dearest members in order to gain their terrible powers, Hot Side Hot is now looking for new blood. If you would like to join our eldritch cabal and become one of our cthonic fellowship, we urge you to fill out the following application. 
 
-### Some FAQs:
+[This application is being provided to you as a Portable Document Format document](../assets/files/Application_to_the_2023_2024_Judgeship_of_the_University_of_Chicago_Scavenger_Hunt.pdf). We understand that your list of proposed items may include unusual typesetting, but we require that for ease of transmission you return the application to us as a Word document.
 
-1. **What is the 2023 University of Chicago Reva and David Logan Center for the Arts Orientation Week Party Scavenger Hunt?** \
-It's like real Scav, but smaller, at the Reva and David Logan Center for the Arts Orientation Week Party on September 21st, and for ***new students in the College at the University of Chicago*** only.
+All applications are due in their entirety by 11:59:59 pm, October 28th, 2023 and should be e-mailed to judgeapps2024 (at) gmail (dot) com.
 
-2. **How can I participate in the 2023 University of Chicago Reva and David Logan Center for the Arts Orientation Week Party Scavenger Hunt?** \
-Join a team of up to four people and register [at this link](https://forms.gle/LBWYGKsTNdPsKc998).
-
-2. **Can I participate in the 2023 University of Chicago Reva and David Logan Center for the Arts Orientation Week Party Scavenger Hunt virtually?** \
-No, you must be in attendance at the Reva and David Logan Center for the Arts Orientation Week Party on September 21st to participate in the 2023 University of Chicago Reva and David Logan Center for the Arts Orientation Week Party Scavenger Hunt.
-
-2. **Help! I don't have a team for the 2023 University of Chicago Reva and David Logan Center for the Arts Orientation Week Party Scavenger Hunt!** \
-That's okay -- come to our room in the Reva and David Logan Center for the Arts during the Reva and David Logan Center for the Arts Orientation Week Party on September 21st and we'll help you make one.
-
-2. **I won't be at the entire Reva and David Logan Center for the Arts Orientation Week Party on September 21st -- can I still participate in the 2023 University of Chicago Reva and David Logan Center for the Arts Orientation Week Party Scavenger Hunt?** \
-Yes -- you'll be able to start Scavving at any time during the Reva and David Logan Center for the Arts Orientation Week Party on September 21st and bring your Items to be Judged at any time during the Reva and David Logan Center for the Arts Orientation Week Party on September 21st.
-
-2. **I'm not a new student in the College, but I want to participate in the 2023 University of Chicago Reva and David Logan Center for the Arts Orientation Week Party Scavenger Hunt. How can I do so?** \
-Wait until Spring 2024 for Scav 2024. Alternatively, check back on our website after the Reva and David Logan Center for the Arts Orientation Week Party on September 21st.
-
-2. **Meow?** \
-Meow meeow emow mewo meow moew meow meow
+<object data="../assets/files/Application_to_the_2023_2024_Judgeship_of_the_University_of_Chicago_Scavenger_Hunt.pdf" width="100%" height="600" type='application/pdf'></object>
