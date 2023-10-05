@@ -11,7 +11,7 @@ Participants and observers know that ScavHunt is a BFD. It is fun, it is brillia
 
 In case that doesn't satisfy your unquenchable thirst for knowledge, here are some frequently asked questions.
 1. **What is Scav?** \
-"[Scav] is. [Scav] is in itself. [Scav] is what it is." -Jean-Paul Sartre
+"[Scav] is. [Scav] is in itself. [Scav] is what it is." &mdash;Jean-Paul Sartre
 
 2. **When is Scav?** \
 Scav is often scheduled such that Judgment Day (the last day of the Hunt) is Mother's Day. The List is released at midnight the preceding Wednesday/Thursday. Incidentally, we all love our mothers very much.
