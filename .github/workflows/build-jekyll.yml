@@ -13,7 +13,7 @@ jobs:
 
       # Use GitHub Actions' cache to cache dependencies on servers
       - name: Cache dependencies
-        uses: actions/cache@v2
+        uses: actions/cache@v3
         with:
           path: vendor/bundle
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
@@ -32,6 +32,6 @@ jobs:
           jekyll_cfg: '_config.yml'  # Default is _config.yml
           jekyll_baseurl: ''         # Default is according to _config.yml
           bundler_ver: '>=0'         # Default is latest bundler version
-          cname: ''                  # Default is to not use a cname
+          cname: 'scavhunt.uchicago.edu' # Default is to not use a cname
           actor: ''                  # Default is the GITHUB_ACTOR
           pre_build_commands: ''     # Installing additional dependencies (Arch Linux)

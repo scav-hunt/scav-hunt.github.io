@@ -146,14 +146,14 @@ We will also assert that this document holds the true meaning within its words. 
 
 That said, should knuckle-dragging critics want to "analyze" this text, a list of current officers is appended below, to be changed every year by the Cyber Horsegirl.
  
-## List of Officers for Scavenger Hunt 2023:
+## List of Officers for Scavenger Hunt 2024:
 
-**Scavenczar:** Emma Jean Simpson \
+**Scavenczar:** David Aguilar Hall \
 **Sir Ector:** Jacob Leo Blitz \
-**Clark Griswold:** Out doing their morning constitutional \
-**Keeper of the Scrolls:** Emma Jean Simpson \
+**Clark Griswold:** Out for their evening constitutional \
+**Keeper of the Scrolls:** Brandon LaCrosse \
 **Cyber Horsegirl:** Gabriela Claire Garcia \
-**Ministers Of Propaganda:** Sabrina Grace Sternberg, Brittney Lynn Dorton, Brandon LaCrosse \
+**Ministers Of Propaganda:** Sabrina Grace Sternberg, Brittney Lynn Dorton \
 **Vampire:** TBA
 
 **Hot Side Hot:** \

@@ -21,7 +21,7 @@ The Judge Cabal serves to facilitate the Scav Hunt, and while we hope all Scavvi
 - Misconduct (as defined in Section 1) that occurs without Judges present
 - Misconduct by Judges
 
-There will be one Judge who is responsible for handling Code of Conduct violations. The name and contact information of that Judge will be placed in this document prior to the Hunt. If you are attempting to report a Code of Conduct violation by that very same Judge, contact the Head Judge instead. For reasons of impartiality, reports to other Judges will be redirected.
+The Judge responsible for handling Code of Conduct violations is Joey Valdez. He can be contacted at [jsvaldez@uchicago.edu](mailto:jsvaldez@uchicago.edu). If you are attempting to report a Code of Conduct violation by that very same Judge, contact the Head Judge instead. For reasons of impartiality, reports to other Judges will be redirected.
 
 ### Section 3-B: What We (The Judges)'ll Do About It
 - Should a Judge exhibit any misbehavior/misconduct, we will:
