@@ -84,6 +84,9 @@ In the illustrious history of ScavHunt, the following have been theme songs:
 ## The Judges Most Regal
 The ranks of Hot Side Hot have, at one time or another, included the following (and if you are not on this list but can prove that you should be, e-mail scavheadjudge@gmail so that we can administer the secret test)
 
+**Leo Christensen** (2024--) \
+**Will Epstein** (2024--) \
+**Isha Mehta** (2024--) \
 **Brandon LaCrosse** (2023--) \
 **Cole Washburn** (2023--) \
 **David Aguilar Hall** (2023--) \
