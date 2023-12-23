@@ -153,7 +153,7 @@ That said, should knuckle-dragging critics want to "analyze" this text, a list o
 **Clark Griswold:** Out for their evening constitutional \
 **Keeper of the Scrolls:** Brandon LaCrosse \
 **Cyber Horsegirl:** Gabriela Claire Garcia \
-**Ministers Of Propaganda:** Sabrina Grace Sternberg, Brittney Lynn Dorton \
+**Ministers Of Propaganda:** Sabrina Grace Sternberg, Brittney Lynn Dorton, Isha Mehta \
 **Vampire:** TBA
 
 **Hot Side Hot:** \
