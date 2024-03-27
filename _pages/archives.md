@@ -217,6 +217,8 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 
 [List](/assets/lists/2023.pdf)
 
+Those wishing to try Item 289 can find it [here]({{ site.url }}/item289).
+
 | Placement | Team (Affiliation) | Team (Name) |
 | :---: | :---: | :---: |
 | 1st | Snell-Hitchcock | Sally’s Terrible, Horrible, No-Good, Very Bad Scav Team |
@@ -665,7 +667,7 @@ The clues for item 35 (“the puzzle hunt”) can be found [here](/assets/sumter
 
 [List](/assets/lists/2009.pdf)
 
-The winning submission for item 8 can be found [here](https://web.archive.org/web/20090902064058/http://apps.wbez.org/blog/?p=3417).
+The winning submission for Item 8 can be found [here](https://web.archive.org/web/20090902064058/http://apps.wbez.org/blog/?p=3417).
 
 | Placement | Team (Affiliation) | Team (Name) |
 | :---: |  :---:  | :---:  |
