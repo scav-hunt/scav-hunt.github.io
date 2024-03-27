@@ -616,7 +616,7 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 
 In celebration of our 25th anniversary, we set the world record for the largest scavenger hunt! The item appeared on the List as item 277, though it was not restricted to registered Scav Hunt teams, and it consisted of a scavenger hunt on the Quads. The rules of the event can be found [here](/assets/GBWR/Rules.pdf) and a list of the items to be found on the Quads is [here](/assets/GBWR/KeyA.pdf).
 
-The clues for item 35 (“the puzzle hunt”) can be found here. 
+The clues for item 35 (“the puzzle hunt”) can be found [here](/assets/sumter). 
 
 | Placement | Team (Affiliation) | Team (Name) |
 | :---: |  :---:  | :---:  |
