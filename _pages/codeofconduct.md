@@ -51,3 +51,9 @@ The Judge responsible for handling Code of Conduct violations is Joey Valdez. He
 
 ### Section 3-E: Things the Administration Should Know About
 - Serious Shit. We have to report it, and so do you. We encourage you to reach out to the Cabal or your residential staff if you need assistance with reporting.
+
+## Section 4: Scav Privileges
+1. Access to the Scav Discord
+2. Access to the Listhost
+3. Recognition as captain (e.g. counting for events, Judgment)
+4. Recognition as a team
