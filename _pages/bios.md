@@ -75,7 +75,7 @@ permalink: /horses/
 | ^^ | - Never get your Original David "the Younger" Hall™s wet. They will multiply. \
 | ^^ | - Never, ever feed your Original David "the Younger" Hall™s after midnight. {: .bios} {: .btwn-line} |
 
-| ## Lila Melkumova {: .bios} | ![Lila Melkumova](/assets/images/photos23/jeemmyy.png "Judge Jeemy") {: .bios} {: style="width:300px"} |
+| ## Lila Jeemy {: .bios} | ![Lila Jeemy](/assets/images/photos23/jeemmyy.png "Judge Jeemy") {: .bios} {: style="width:300px"} |
 | Pronouns: she/her {: .bios} | ^^|
 | ![All About Me. My name is JEEMY. I am (stick figure drawing) years old. I was born on A BED. I am 2 feet and 10 TOES tall. Self portrait: (drawing of a girl as a dragonfruit). When I grow up I want to be a JODG. My favorite animal: (an image of a "Lovely Fox" from Webkinz). My favorite color: (a crayon colored green) ZOMP. If I could make one wish I would wish for... a CYOB. The flag of my home country: (stick figure drawing). My favorite: (a drawing of a dragonfruit)](/assets/images/bios23/lilabio.PNG "All About Jeemy!") {: .bios} {: .btwn-line} | ^^|
 

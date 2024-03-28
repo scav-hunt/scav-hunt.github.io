@@ -84,10 +84,13 @@ In the illustrious history of ScavHunt, the following have been theme songs:
 ## The Judges Most Regal
 The ranks of Hot Side Hot have, at one time or another, included the following (and if you are not on this list but can prove that you should be, e-mail scavheadjudge@gmail so that we can administer the secret test)
 
+**Leo Christensen** (2024--) \
+**Will Epstein** (2024--) \
+**Isha Mehta** (2024--) \
 **Brandon LaCrosse** (2023--) \
 **Cole Washburn** (2023--) \
 **David Aguilar Hall** (2023--) \
-**Lila Melkumova** (2023--) \
+**Lila Jeemy** (2023--) \
 **Audrey Scott** (2023--) \
 **Brittney Lynn Dorton** (2023--) \
 **Gabriela Claire Garcia** (2023--) \
@@ -213,6 +216,8 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 ## 2023 <small>[back to top]({{ site.url }}/yore/)</small> {#s-2023}
 
 [List](/assets/lists/2023.pdf)
+
+Those wishing to try Item 289 can find it [here]({{ site.url }}/item289).
 
 | Placement | Team (Affiliation) | Team (Name) |
 | :---: | :---: | :---: |
@@ -613,7 +618,7 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 
 In celebration of our 25th anniversary, we set the world record for the largest scavenger hunt! The item appeared on the List as item 277, though it was not restricted to registered Scav Hunt teams, and it consisted of a scavenger hunt on the Quads. The rules of the event can be found [here](/assets/GBWR/Rules.pdf) and a list of the items to be found on the Quads is [here](/assets/GBWR/KeyA.pdf).
 
-The clues for item 35 (“the puzzle hunt”) can be found here. 
+The clues for item 35 (“the puzzle hunt”) can be found [here](/assets/sumter). 
 
 | Placement | Team (Affiliation) | Team (Name) |
 | :---: |  :---:  | :---:  |
@@ -662,7 +667,7 @@ The clues for item 35 (“the puzzle hunt”) can be found here.
 
 [List](/assets/lists/2009.pdf)
 
-The winning submission for item 8 can be found [here](https://web.archive.org/web/20090902064058/http://apps.wbez.org/blog/?p=3417).
+The winning submission for Item 8 can be found [here](https://web.archive.org/web/20090902064058/http://apps.wbez.org/blog/?p=3417).
 
 | Placement | Team (Affiliation) | Team (Name) |
 | :---: |  :---:  | :---:  |

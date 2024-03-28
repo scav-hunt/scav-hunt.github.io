@@ -6,8 +6,6 @@ To begin working on this website, make sure you do the following:
 
 1. Clone this repository: `git clone https://github.com/scav-hunt/scav-hunt.github.io.git`
 2. [Install Jekyll](https://jekyllrb.com/docs/installation/)
-    - **NOTE: ensure you're running Ruby 2.7 (which should be configured in this repo, but
-    if you don't have it installed things may break)**
 
 Once you've done this, run `bundle exec jekyll serve` in your terminal and go to `http://localhost:4000`
 in your favorite web browser to view the site.
