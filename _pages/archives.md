@@ -877,7 +877,7 @@ The winning submission for Item 8 can be found [here](https://web.archive.org/we
 </div>
 
 <!--- Script that handles the year selection. MUST BE AFTER ALL RESULTS DIVS --->
-<script defer>
+<script>
     //Find the select dropdown
     var el = document.getElementById("yearSelect");
     //add an event listener to the dropdown that detects a changed selection
