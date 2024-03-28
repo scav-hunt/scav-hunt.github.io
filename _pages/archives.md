@@ -160,6 +160,7 @@ Those wishing to try Item 289 can find it [here]({{ site.url }}/item289).
 | ^^ | Awesome People | Last Minute |
 
 </div>
+
 <div class="results" id="r-2020" markdown="1">
 
 [List](/assets/lists/2020.pdf)
@@ -203,6 +204,7 @@ Those wishing to try Item 289 can find it [here]({{ site.url }}/item289).
 | ^^ | Pritzker School of Medicine | Pritzker School of Medicine Scav Hunt Team |
 
 </div>
+
 <div class="results" id="r-2019" markdown="1">
 
 [List](/assets/lists/2019.pdf)
@@ -232,6 +234,7 @@ Those wishing to try Item 289 can find it [here]({{ site.url }}/item289).
 | 21st | Kundling | Astronomers present the first ever image of the K Hole! |
 
 </div>
+
 <div class="results" id="r-2018" markdown="1">
 
 [List](/assets/lists/2018.pdf)
@@ -264,6 +267,7 @@ Those wishing to try Item 289 can find it [here]({{ site.url }}/item289).
 | ^^ | Scavvy McScav Face | Track and Delta Gamma |
 
 </div>
+
 <div class="results" id="r-2017" markdown="1">
 
 [List](/assets/lists/2017.pdf)
@@ -287,6 +291,7 @@ Those wishing to try Item 289 can find it [here]({{ site.url }}/item289).
 | ^^ | Atlanta Study Abroad | Jimmy Carter’s Peanut Gallery |
 
 </div>
+
 <div class="results" id="r-2016" markdown="1">
 
 [List](/assets/lists/2016.pdf)
@@ -316,6 +321,7 @@ Those wishing to try Item 289 can find it [here]({{ site.url }}/item289).
 | ^^ | Tommy Rob | Outrageous Fun |
 
 </div>
+
 <div class="results" id="r-2015" markdown="1">
 
 [List](/assets/lists/2015.pdf)
@@ -343,6 +349,7 @@ Those wishing to try Item 289 can find it [here]({{ site.url }}/item289).
 | 19th | Team Tornado |  |
 
 </div>
+
 <div class="results" id="r-2014-2" markdown="1">
 
 [List](/assets/lists/2014(2).pdf)
@@ -371,6 +378,7 @@ Those wishing to try Item 289 can find it [here]({{ site.url }}/item289).
 | 20th | Columbia Grad Students |  |
 
 </div>
+
 <div class="results" id="r-2014-1" markdown="1">
 
 [List](/assets/lists/2014(1).pdf)
@@ -391,6 +399,7 @@ Those wishing to try Item 289 can find it [here]({{ site.url }}/item289).
 | 12th | Athens Study Abroad |  |
 
 </div>
+
 <div class="results" id="r-2012" markdown="1">
 
 [List](/assets/lists/2012.pdf)
@@ -409,6 +418,7 @@ Those wishing to try Item 289 can find it [here]({{ site.url }}/item289).
 | 10th | Physics Graduate Students |  |
 
 </div>
+
 <div class="results" id="r-2011" markdown="1">
 
 [List](/assets/lists/2011.pdf)
@@ -433,6 +443,7 @@ The clues for item 35 (“the puzzle hunt”) can be found [here](/assets/sumter
 | 12th | Greek Life (Fraternity and Sorority) | The Greeks |
 
 </div>
+
 <div class="results" id="r-2010" markdown="1">
 
 [List](/assets/lists/2010.pdf)
@@ -452,6 +463,7 @@ The clues for item 35 (“the puzzle hunt”) can be found [here](/assets/sumter
 | 11th | Independent | A T-Rex Ate My Team Name |
 
 </div>
+
 <div class="results" id="r-2009" markdown="1">
 
 [List](/assets/lists/2009.pdf)
@@ -472,6 +484,7 @@ The winning submission for Item 8 can be found [here](https://web.archive.org/we
 | 10th | Hooverstone | Agent Claus and his Christmas Joneses |
 
 </div>
+
 <div class="results" id="r-2008" markdown="1">
 
 [List](/assets/lists/2008.pdf)
@@ -491,6 +504,7 @@ The winning submission for Item 8 can be found [here](https://web.archive.org/we
 | 9th | Broover | Scav Trek V: The Vinyl Frontier |
 
 </div>
+
 <div class="results" id="r-2007" markdown="1">
 
 [List](/assets/lists/2007.pdf)
@@ -508,6 +522,7 @@ The winning submission for Item 8 can be found [here](https://web.archive.org/we
 | 9th | Scavengers: The ScavDocumentary Crew |  |
 
 </div>
+
 <div class="results" id="r-2006" markdown="1">
 
 [List](/assets/lists/2006.pdf)
@@ -525,6 +540,7 @@ The winning submission for Item 8 can be found [here](https://web.archive.org/we
 | 9th | Vegan/Co-Op/MacLab | The Seitanists |
 
 </div>
+
 <div class="results" id="r-2005" markdown="1">
 
 [List](/assets/lists/2005.pdf)
@@ -542,6 +558,7 @@ The winning submission for Item 8 can be found [here](https://web.archive.org/we
 | 9th | Burton-Judson | REVOLUTION! |
 
 </div>
+
 <div class="results" id="r-2004" markdown="1">
 
 [List](/assets/lists/2004.pdf)
@@ -561,6 +578,7 @@ The winning submission for Item 8 can be found [here](https://web.archive.org/we
 | 9th | Vincent |  |
 
 </div>
+
 <div class="results" id="r-2003" markdown="1">
 
 [List](/assets/lists/2003.pdf)
@@ -578,6 +596,7 @@ The winning submission for Item 8 can be found [here](https://web.archive.org/we
 | 9th | Fire Escape | Tom Bennett's All-Star Acolytes |
 
 </div>
+
 <div class="results" id="r-2002" markdown="1">
 
 [List](/assets/lists/2002.pdf)
@@ -597,6 +616,7 @@ The winning submission for Item 8 can be found [here](https://web.archive.org/we
 | 9th | Broadview | The Hunting Broads |
 
 </div>
+
 <div class="results" id="r-2001" markdown="1">
 
 [List](/assets/lists/2001.pdf)
@@ -612,6 +632,7 @@ The winning submission for Item 8 can be found [here](https://web.archive.org/we
 | 7th | Burton-Judson | The Absolut Clergy |
 
 </div>
+
 <div class="results" id="r-2000" markdown="1">
 
 [List](/assets/lists/2000.pdf)
@@ -629,6 +650,7 @@ The winning submission for Item 8 can be found [here](https://web.archive.org/we
 | 9th | Maclean | Logging, Pimping, and Your Pal Jim |
 
 </div>
+
 <div class="results" id="r-1999" markdown="1">
 
 [List](/assets/lists/1999.pdf)
@@ -649,6 +671,7 @@ The winning submission for Item 8 can be found [here](https://web.archive.org/we
 | 12th | Maroon |  |
 
 </div>
+
 <div class="results" id="r-1998" markdown="1">
 
 [List](/assets/lists/1998.pdf)
@@ -668,6 +691,7 @@ The winning submission for Item 8 can be found [here](https://web.archive.org/we
 | 11th | Harvard Crimson |  |
 
 </div>
+
 <div class="results" id="r-1997" markdown="1">
 
 [List](/assets/lists/1997.pdf)
@@ -687,6 +711,7 @@ The winning submission for Item 8 can be found [here](https://web.archive.org/we
 <sup>†</sup>The Shoreland team was disqualified this year for a hacking incident.
 
 </div>
+
 <div class="results" id="r-1996" markdown="1">
 
 [List](/assets/lists/1996.pdf)
@@ -700,6 +725,7 @@ The winning submission for Item 8 can be found [here](https://web.archive.org/we
 | 5th | Max Mason |  |
 
 </div>
+
 <div class="results" id="r-1995" markdown="1">
 
 [List](/assets/lists/1995.pdf)
@@ -711,6 +737,7 @@ The winning submission for Item 8 can be found [here](https://web.archive.org/we
 | 3rd | Lower Flint |  
 
 </div>
+
 <div class="results" id="r-1994" markdown="1">
 
 [List](/assets/lists/1994.pdf)
@@ -722,6 +749,7 @@ The winning submission for Item 8 can be found [here](https://web.archive.org/we
 | 3rd | Breckinridge |  
 
 </div>
+
 <div class="results" id="r-1993" markdown="1">
 
 [List](/assets/lists/1993.pdf)
@@ -733,6 +761,7 @@ The winning submission for Item 8 can be found [here](https://web.archive.org/we
 | 3rd | Breckinridge |
 
 </div>
+
 <div class="results" id="r-1992" markdown="1">
 
 [List](/assets/lists/1992.pdf)
@@ -756,6 +785,7 @@ The winning submission for Item 8 can be found [here](https://web.archive.org/we
 | 15th | MacLean |  
 
 </div>
+
 <div class="results" id="r-1991" markdown="1">
 
 [List](/assets/lists/1991.pdf)
@@ -776,6 +806,7 @@ The winning submission for Item 8 can be found [here](https://web.archive.org/we
 | 12th | Mathews |  
 
 </div>
+
 <div class="results" id="r-1990" markdown="1">
 
 [List](/assets/lists/1990.pdf)
@@ -812,6 +843,7 @@ The winning submission for Item 8 can be found [here](https://web.archive.org/we
 | 28th | Coulter | 
 
 </div>
+
 <div class="results" id="r-1989" markdown="1">
 
 [List](/assets/lists/1989.pdf)
@@ -821,6 +853,7 @@ The winning submission for Item 8 can be found [here](https://web.archive.org/we
 | 1st | Talbot | 
 
 </div>
+
 <div class="results" id="r-1988" markdown="1">
 
 [List](/assets/lists/1988.pdf)
@@ -832,6 +865,7 @@ The winning submission for Item 8 can be found [here](https://web.archive.org/we
 | 3rd | Lower Rickert |
 
 </div>
+
 <div class="results" id="r-1987" markdown="1">
 
 [List](/assets/lists/1987.pdf)
