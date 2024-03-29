@@ -13,7 +13,7 @@ a div formatted like the ones below. DO NOT INDENT the Markdown in the div
 or it will misformat. -->
 
 Pick a year:
-<select id="yearSelect">
+<select name="yearSelect" id="yearSelect">
     <option></option>
     <option value="2023">2023</option>
     <option value="2014-0">2014(0)</option>
