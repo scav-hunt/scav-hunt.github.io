@@ -23,7 +23,7 @@ title: The University of Chicago Scavenger Hunt
 description: >- # this means to ignore newlines until "baseurl:"
   We are Scav Hunt, as featured in The New Yorker, US News and World Report, The Guinness Book of World Records, and your dreams. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://scavhunt.uchicago.edu" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: UChicagoScav
 instagram_username: uchicagoscavhunt
 facebook_username: UChicagoScav
