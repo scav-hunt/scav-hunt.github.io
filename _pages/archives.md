@@ -1040,30 +1040,3 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 **Diane Kelly** \
 **Cassie Scharff Hallberg** \
 **Chris Straus (founder)**
-
-<!--- Script that handles the year selection. MUST BE AFTER ALL RESULTS DIVS --->
-<script type="text/javascript" defer>
-    //Find the select dropdown
-    var el = document.getElementById("yearSelect");
-    //add an event listener to the dropdown that detects a changed selection
-    el.addEventListener("change", function() {
-        //grab all of the options in the dropdown
-        var elems = document.querySelectorAll('option')
-        for (var i = 0; i < elems.length; i++) {
-            //query for results divs with id = to option value
-            id = `#r-${elems[i].value}.results`;
-            res = document.querySelector(id);
-            
-            //If corresponding div is found
-            if (res) {
-                //If it matches the selected option, show results
-                //Otherwise, hide results
-                if (this.selectedIndex === i) {
-                    res.style.display = 'block';
-                } else {
-                    res.style.display = 'none';
-                }
-            }   
-        }
-    }, false);
-</script>
