@@ -9,8 +9,8 @@ jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Update buffer
-        run: git config --global http.postBuffer 157286400
+      - name: Do some hackery to fix things
+        run: git config --global pack.window 1
 
       - uses: actions/checkout@v4.1.1
 
