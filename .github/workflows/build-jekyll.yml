@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Do some hackery to fix things
-        run: git config --global pack.window 1
+        run: git config --global core.compression 0
 
       - uses: actions/checkout@v4.1.1
 
