@@ -9,6 +9,9 @@ jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
     steps:
+      - name: Update buffer
+        run: git config --global http.postBuffer 157286400
+
       - uses: actions/checkout@v4.1.1
 
       # Use GitHub Actions' cache to cache dependencies on servers
