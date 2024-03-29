@@ -12,7 +12,7 @@ permalink: /yore/
 a div formatted like the ones below. DO NOT INDENT the Markdown in the div
 or it will misformat. -->
 
-Pick a year:
+Pick a year: 
 <select name="yearSelect" id="yearSelect">
     <option></option>
     <option value="2023">2023</option>
