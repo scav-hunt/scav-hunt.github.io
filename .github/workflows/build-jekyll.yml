@@ -34,4 +34,4 @@ jobs:
           bundler_ver: '>=0'         # Default is latest bundler version
           cname: 'scavhunt.uchicago.edu' # Default is to not use a cname
           actor: ''                  # Default is the GITHUB_ACTOR
-          pre_build_commands: 'git config --global http.version HTTP/1.1; apt-get install -y git-lfs;'     # Installing additional dependencies (Arch Linux)
+          pre_build_commands: 'git config --global http.version HTTP/1.1; sudo apt-get install -y git-lfs;'     # Installing additional dependencies (Arch Linux)
