@@ -14,6 +14,9 @@ permalink: /
 | :---: | :---: | :---: |
 | Team Judge | The University of Chicago Official Scavenger Hunt Committee | David H. |
 
+<br />
+<br />
+
 ## So you wanna be a Judge next year...
 
 Hot Side Hot is now looking for new blood to commune with us in the SubLime in wait of the Great Fireball. If you would like to join our eldritch cabal and become one of our cthonic fellowship, we urge you to fill out the following application.
