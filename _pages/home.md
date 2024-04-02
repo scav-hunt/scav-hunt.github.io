@@ -12,7 +12,7 @@ permalink: /
 
 | Team Name | Affiliation | Captain(s) |
 | :---: | :---: | :---: |
-| Team Judge | The University of Chicago Official Scavenger Hunt Committee | David H. |
+| Team Judge | The Official University of Chicago Official Scavenger Hunt Organization Committee | David H. |
 
 <br />
 <br />
