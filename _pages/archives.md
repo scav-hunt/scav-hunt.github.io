@@ -1023,7 +1023,7 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 **Jonathan Douglas Williams** (2006--) \
 **Patrick Joseph Augustine** (2006--2018) \
 **Christian Farrell Kammerer** (eternal) \
-**Matthew Lawrence Fink** (2005--) \
+**Matthew Lawrence Fink** (2005--2013) \
 **Karl Davis** (2003--) \
 **Katherine Anne Lipkowitz** \
 **William Smith Deitz** \
