@@ -162,7 +162,7 @@ That said, should knuckle-dragging critics want to "analyze" this text, a list o
 **Keeper of the Scrolls:** Brandon LaCrosse \
 **Cyber Horsegirl:** Gabriela Claire Garcia \
 **Ministers Of Propaganda:** Isha Mehta, Sabrina Grace Sternberg, Brittney Lynn Dorton \
-**Vampire:** TBA
+**Vampire:** Cole Washburn
 
 **Hot Side Hot:** \
 TBA
