@@ -12,7 +12,8 @@ permalink: /
 
 | Team Name | Affiliation | Captain(s) |
 | :---: | :---: | :---: |
-| Team Judge | The Official University of Chicago Official Scavenger Hunt Organization Committee | David H. |
+| Polaris | Campus North Residential Commons | Rocky L., Alasdair D., Susan B. |
+| The Chicago Twinker 👉👈 | we are the successors to the fallcrest adventurer's guild of yore (last year) | Asher J., Camden P. |
 
 <br />
 <br />
