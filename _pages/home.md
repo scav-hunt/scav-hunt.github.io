@@ -15,6 +15,8 @@ permalink: /
 | Polaris | Campus North Residential Commons | Rocky L., Alasdair D., Susan B. |
 | The Chicago Twinker 👉👈 | we are the successors to the fallcrest adventurer's guild of yore (last year) | Asher J., Camden P. |
 
+### Unsure where to begin? Check out our guide, [So You Want to Be a Scav Team](../assets/files/S2024_So_You_Want_to_Be_A_Scav_Team.pdf)!
+
 <br />
 <br />
 
