@@ -1,0 +1,20 @@
+<div class="{{ include.side }}-bio">
+    <div class="bio-image">
+        <img src="{{ include.image_src }}" alt="{{ include.image_alt }}" title="{{ include.image_hover }}"/>
+    </div>
+        
+    <div class="bio-name">
+        <h2>{{ include.name }}</h2>
+        {% if include.pronouns %}
+            <p>Pronouns: {{ include.pronouns }}</p>
+        {% endif %}
+
+        {% if include.title %}
+            <p class="bio-title">{{ include.title }}</p>
+        {% endif %}
+    </div>
+
+    <div class="bio-text" markdown="1" style="{{ include.bio_style }}">
+{{ include.bio }}
+</div>
+</div>
