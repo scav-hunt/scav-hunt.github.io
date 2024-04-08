@@ -285,7 +285,6 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 227)
   jekyll-feed (~> 0.12)
-  jekyll-latex
   jekyll-spaceship
   jekyll-spark
   tzinfo (~> 1.2)
