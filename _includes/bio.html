@@ -14,7 +14,11 @@
         {% endif %}
     </div>
 
-    <div class="bio-text" markdown="1" style="{{ include.bio_style }}">
+    <div class="bio-text" markdown="1" 
+    {% if include.bio_style %} 
+        style="{{ include.bio_style }}"
+    {% endif %}
+    >
 {{ include.bio }}
 </div>
 </div>
