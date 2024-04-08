@@ -181,7 +181,7 @@ template: bio.html
 
 {% include {{ page.template }} 
     side="left" 
-    image_src="/assets/images/photos23/dessiny.png"
+    image_src="/assets/images/photos23/dessiny.PNG"
     image_alt="Destiny Reeves"
     image_hover="Juj Dessiny"
     name="Destiny Reeves" 
