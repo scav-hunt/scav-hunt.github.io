@@ -333,7 +333,7 @@ p.page_number {
 
 //pick mobile breakpoint & boost font size & adjust layout appropriately
 
-@media print, screen and (max-width: 992px) {
+@media print, screen and (max-width: 768px) {
   div.wrapper {
     width:auto;
     margin:0;
