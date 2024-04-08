@@ -35,7 +35,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-spaceship
-  - jekyll-latex
+  # - jekyll-latex
 strict_front_matter: true 
 collections:
   lists:

@@ -1,6 +1,75 @@
 @import "fonts";
 @import "rouge-github";
 
+.left-bio {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  grid-template-rows: auto auto;
+  column-gap: 15px;
+  row-gap: 5px;
+
+  margin-bottom: 50px;
+
+  .bio-image {
+    grid-column: 1 / 2;
+    grid-row: 1 / end;
+    align-self: center;
+  }
+
+  .bio-name {
+    grid-column: 2 / end;
+    grid-row: 1 / 2;
+    align-self: start;
+
+    .bio-title {
+      font-style: italic;
+    }
+  }
+
+  .bio-text {
+    grid-column: 2 / end;
+    grid-row: 2 / end;
+
+    ul {
+      padding-left: 12px;
+    }
+  }
+}
+
+.right-bio {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-template-rows: auto auto;
+  column-gap: 15px;
+  row-gap: 5px;
+
+  margin-bottom: 50px;
+
+  .bio-image {
+    grid-column: 2 / end;
+    grid-row: 1 / end;
+    align-self: center;
+  }
+
+  .bio-name {
+    grid-column: 1 / 2;
+    grid-row: 1 / 2;
+
+    .bio-title {
+      font-style: italic;
+    }
+  }
+
+  .bio-text {
+    grid-column: 1 / 2;
+    grid-row: 2 / end;
+
+    ul {
+      padding-left: 12px;
+    }
+  }
+}
+
 .current {
     font-weight: bold;
     color:black;
