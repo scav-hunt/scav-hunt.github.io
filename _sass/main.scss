@@ -331,6 +331,143 @@ p.page_number {
   margin-bottom: 20%;
 }
 
+.wrapper-snake {
+  canvas {
+    background-color: #fff;
+    box-sizing: border-box;
+    outline: 2px solid black;
+  }
+
+  input[type=checkbox] {
+    margin: 5px 5px 0 0;
+  }
+
+  label,
+  .game-btn {
+    cursor: pointer;
+  }
+
+  canvas,
+  .game-area,
+  .overlay,
+  .game-details {
+    width: 600px;
+  }
+
+  canvas,
+  .game-area,
+  .overlay {
+    height: 360px;
+  }
+
+  .hidden {
+    display: none;
+  }
+  
+  margin-top: 10px;
+
+  .buttons,
+  .difficulty {
+    width: 100%;
+  }
+
+  .game-area,
+  .game-btn,
+  .game-details {
+    position: relative;
+  }
+
+  .game-area,
+  .game-details {
+    margin: auto;
+  }
+
+  .overlay {
+    background: rgba(0, 0, 0, 0.5);
+    top: 0;
+    left: 0;
+  }
+
+  .overlay,
+  .buttons,
+  .difficulty,
+  .score-txt {
+    position: absolute;
+  }
+
+  .buttons {
+    top: 50%;
+    -webkit-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+  }
+
+  .game-btn {
+    border: 2px solid #fff;
+    border-radius: 5px;
+    width: 200px;
+    line-height: 60px;
+    margin: 15px 0;
+    background: transparent;
+    left: 50%;
+    -webkit-transform: translate(-50%, 0);
+    transform: translate(-50%, 0);
+  }
+
+  .game-btn:hover {
+    background: #eee;
+    border: 2px solid #eee;
+    color: #000;
+  }
+
+  .game-msg {
+    margin: 50px 0 10px;
+    padding: 0 10px;
+  }
+
+  .hint {
+    margin: 8px 0;
+    font-size: 0.8em;
+  }
+
+  .difficulty {
+    bottom: 50px;
+  }
+
+  #finalScore,
+  .difficulty p {
+    margin: 5px 0;
+  }
+
+  .overlay p,
+  .game-btn,
+  .difficulty div {
+    color: #fff;
+    font-size: 1.25em;
+    text-align: center;
+  }
+
+  .score-txt {
+    right: 0;
+    top: 1px;
+    margin: 0;
+  }
+
+  .hint span,
+  .score-txt span:first-child {
+    font-weight: bold;
+  }
+
+  .radio-field {
+    margin: 0 10px;
+    display: inline-block;
+  }
+
+  .radio-field label {
+    font-size: 0.75em;
+  }
+
+}
+
 @media print, screen and (max-width: 992px) {
   div.wrapper {
     width:auto;
