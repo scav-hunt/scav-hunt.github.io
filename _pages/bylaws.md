@@ -158,14 +158,32 @@ That said, should knuckle-dragging critics want to "analyze" this text, a list o
 
 **Scavenczar:** David Aguilar Hall \
 **Sir Ector:** Jacob Leo Blitz \
-**Clark Griswold:** Out for their evening constitutional \
+**Clark Griswold:** Brittney Lynn Dorton \
 **Keeper of the Scrolls:** Brandon LaCrosse \
 **Cyber Horsegirl:** Gabriela Claire Garcia \
 **Ministers Of Propaganda:** Isha Mehta, Sabrina Grace Sternberg, Brittney Lynn Dorton \
 **Vampire:** Cole Washburn
 
 **Hot Side Hot:** \
-TBA
+Isha Mehta \
+Leo Christensen \
+Will Epstein \
+Brandon LaCrosse \
+Cole Washburn \
+Lila Jeemy \
+Audrey Scott \
+Brittney Lynn Dorton \
+Gabriela Claire Garcia \
+Ryan Solomon Gold \
+Emma Jean Simpson \
+Joren David Husic \
+Kit Downey \
+Artemie Li Chang \
+Jacob Leo Blitz \
+Sabrina Grace Sternberg \
+Destiny DeAnn Reeves \
+Alexander William Hearn \
+David Aguilar Hall
 
 **Prophet Elijah:** (Vacant)
 
