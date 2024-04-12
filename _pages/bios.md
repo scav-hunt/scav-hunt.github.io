@@ -30,7 +30,7 @@ David Hall
 -->
 
 {% capture isha %}
-{% include_relative bios/2024/blank.md %}
+{% include_relative bios/2024/isha.md %}
 {% endcapture %}
 
 {% capture leo %}

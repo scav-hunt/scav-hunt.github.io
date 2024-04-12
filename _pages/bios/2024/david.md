@@ -373,7 +373,6 @@
     difficultyMenu.classList.add('hidden');
 
     storage.removeAll();
-    pageCanvas.focus();
 
     snake = new Snake(canvasArea, getSnakeX(), getSnakeY(), objectSize, '#000');
     snake.init();
@@ -443,7 +442,6 @@
 
   // Continue the game from the point where it was last paused
   function resumeGame() {
-    pageCanvas.focus();
 
     if (!muted) bkgrMusic.play();
 
@@ -518,9 +516,6 @@
       soundLabel.innerHTML = 'Sound on';
       bkgrMusic.pause();
     }
-
-    // Return focus to canvas
-    pageCanvas.focus();
   }
 }());
 </script>
