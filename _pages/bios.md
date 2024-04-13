@@ -62,7 +62,7 @@ David Hall
 {% endcapture %}
 
 {% capture gabi %}
-{% include_relative bios/2024/blank.md %}
+{% include_relative bios/2024/gabi.md %}
 {% endcapture %}
 
 {% capture ryan %}

@@ -331,6 +331,117 @@ p.page_number {
   margin-bottom: 20%;
 }
 
+.wrapper-isha {
+  display: grid;
+  grid-template-rows: auto auto auto;
+  grid-template-columns: 3fr 1fr;
+  border: 5px solid black;
+
+  .bab-top {
+    display: flex;
+    background-color: #0155A2;
+    border-bottom: 5px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    align-content: center;
+    justify-content: center;
+    grid-row: 1 / 2;
+    grid-column: 1 / end;
+
+    img {
+      width: 60%;
+      padding-top: 10px;
+      padding-bottom: 5px;
+    }
+  }
+
+  .bab-items {
+    grid-row: 2 / 3;
+    grid-column: 1 / 2;
+    background-color: #c7c7c7;
+    border: 1rem solid #0155A2;
+
+    .bab-row {
+      display: flex;
+      flex-direction: row;
+      gap: 4rem;
+      align-items: center;
+      justify-content: center;
+      padding-top: 1rem;
+      border-bottom: 1rem solid #aaa;
+
+      img {
+        width: 7rem;
+      }
+    }
+  }
+
+  .bab-select-screen {
+    grid-row: 2 / 3;
+    grid-column: 2 / end;
+    background-color: #0155A2;
+    border-left: 5px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    .bab-screen {
+      display: flex;
+      border: 3px solid black;
+      width: 80%;
+      justify-content: center;
+      align-items: center;
+      padding: 5rem 0;
+
+      img {
+        width: 4rem;
+      }
+    }
+
+    .hugs-inside {
+      color: white;
+      border: 3px solid black;
+      margin-top: 3rem;
+      font-family: 'Comic Sans MS', sans-serif;
+      font-size: 1.25rem;
+      text-align: center;
+      width: 70%;
+    }
+  }
+
+  .stripey-bottom {
+    grid-row: 3 / end;
+    grid-column: 1 / end;
+    border-top: 5px solid black;
+
+    .pink-stripe {
+      background-color: #ee365d;
+      height: 30px;
+      margin-top: 5px;
+    }
+
+    .yellow-stripe {
+      background-color: #ffd400;
+      height: 20px;
+      margin-top: 5px;
+    }
+
+    .green-stripe {
+      background-color: #30b14a;
+      height: 7px;
+      margin-top: 3px;
+    }
+
+    .blue-stripe {
+      background-color: #00a0dd;
+      height: 20px;
+      margin-top: 7px;
+      margin-bottom: 3px;
+    }
+  }
+}
+
 .wrapper-snake {
   canvas {
     background-color: #fff;
@@ -363,7 +474,7 @@ p.page_number {
   .hidden {
     display: none;
   }
-  
+
   margin-top: 10px;
 
   .buttons,
