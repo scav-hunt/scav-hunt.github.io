@@ -170,6 +170,7 @@ Leo Christensen \
 Will Epstein \
 Brandon LaCrosse \
 Cole Washburn \
+David Aguilar Hall \
 Lila Jeemy \
 Audrey Scott \
 Brittney Lynn Dorton \
@@ -182,8 +183,7 @@ Artemie Li Chang \
 Jacob Leo Blitz \
 Sabrina Grace Sternberg \
 Destiny DeAnn Reeves \
-Alexander William Hearn \
-David Aguilar Hall
+Alexander William Hearn 
 
 **Prophet Elijah:** (Vacant)
 
