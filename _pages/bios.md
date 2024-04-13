@@ -98,7 +98,7 @@ David Hall
 {% endcapture %}
 
 {% capture alex %}
-{% include_relative bios/2024/blank.md %}
+{% include_relative bios/2024/alex.md %}
 {% endcapture %}
 
 {% capture david %}
