@@ -16,6 +16,7 @@ permalink: /
 | The Chicago Twinker 👉👈 | we are the successors to the fallcrest adventurer's guild of yore (last year) | Asher J., Camden P. |
 | Pink Freud | Snell-Hitchcock | Arianne N., Lizzie C., Isabella P., Sarah G., Sally the Fish |
 | Streak | people who don't know when to quit | Rebecca H. |
+| Scavrou & Co. | Scavrou Enterprises, LLC | Asher J., Carlos M. |
 
 ### Unsure where to begin? Check out our guide, [So You Want to Be a Scav Team](../assets/files/S2024_So_You_Want_to_Be_A_Scav_Team.pdf)!
 
