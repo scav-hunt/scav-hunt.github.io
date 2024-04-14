@@ -3,11 +3,6 @@
     <img src="/assets/images/bios24/isha/build-an-isha.svg" alt="The Build-A-Bear logo with 'Bear' swapped for 'Isha'" />
     </div>
     <div class="bab-items">
-    <!-- 
-        items include: washington state, a raccoon stuffed animal, a mini donut from pike's
-        place market, a chef's hat, beecher's cheese, sunglasses, tree
-        3 rows of 2
-    -->
         <div class="bab-row">
             <img src="/assets/images/bios24/isha/beechers.png" alt="Beecher's Flagship cheese" />
             <img src="/assets/images/bios24/isha/chefshat.png" alt="A chef's hat" />
