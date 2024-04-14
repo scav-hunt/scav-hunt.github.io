@@ -1,1 +1,0 @@
-Hi, scavvies, I’m Jacob the Item Eater, and I sure like to eat. You can feed me coleslaw, and middle of the night events, and herrings, but never, never feed me trainwashes. Trainwashes give me a stomach ache.
