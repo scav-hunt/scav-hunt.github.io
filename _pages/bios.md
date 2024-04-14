@@ -7,28 +7,6 @@ template: bio.html
 
 # The 2023 - 2024 Active Judgeship
 
-<!-- JUDGES IN ORDER:
-Isha Mehta
-Leo Christensen
-Will Epstein
-Brandon LaCrosse
-Cole Washburn
-Lila Jeemy
-Audrey Scott
-Britt Dorton
-Gabi Garcia
-Ryan Gold
-Emma Simpson
-Joren Husic
-Kit Downey
-Artemie Chang
-Jacob Blitz
-Sabrina Sternberg
-Destiny Reeves
-Alex Hearn
-David Hall
--->
-
 {% capture isha %}
 {% include_relative bios/2024/isha.md %}
 {% endcapture %}
