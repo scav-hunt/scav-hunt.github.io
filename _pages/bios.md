@@ -278,6 +278,6 @@ David Hall
     image_alt="David Hall"
     image_hover="Judge David the Younger"
     name="Feat. David Hall as Head Judge" 
-    pronouns="PRONOUNS"
+    pronouns="he/him"
     title="Head Judge"
     bio=david %}
