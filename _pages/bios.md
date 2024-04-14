@@ -135,7 +135,7 @@ David Hall
 
 {% include {{ page.template }} 
     side="right" 
-    image_src="/assets/images/photos24/brandon.png"
+    image_src="/assets/images/photos24/brandon.jpg"
     image_alt="Brandon LaCrosse"
     image_hover="Judge Corleone"
     name="Brandon LaCrosse" 
