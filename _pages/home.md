@@ -8,6 +8,8 @@ permalink: /
 
 ## [REGISTER YOUR TEAM FOR SCAV HERE](https://forms.gle/G62uqfaLhfwbKjee6)
 
+## [SIGN UP TO DONATE BLOOD FOR BLOOD DRIVE HERE](https://redcap.uchicago.edu/surveys/?s=XXRPEEP79RFAFCR9)
+
 ### Registered Teams
 
 | Team Name | Affiliation | Captain(s) |
