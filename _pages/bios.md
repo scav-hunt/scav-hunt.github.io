@@ -44,11 +44,11 @@ template: bio.html
 {% endcapture %}
 
 {% capture ryan %}
-{% include_relative bios/2024/blank.md %}
+{% include_relative bios/2024/ryan.md %}
 {% endcapture %}
 
 {% capture emma %}
-{% include_relative bios/2024/blank.md %}
+{% include_relative bios/2024/emma.md %}
 {% endcapture %}
 
 {% capture joren %}
@@ -200,7 +200,7 @@ template: bio.html
     image_alt="Kit Downey"
     image_hover="Judge Kirby"
     name="Kit Downey" 
-    pronouns="they/he"
+    pronouns="he/they"
     bio=kit %}
 
 {% include {{ page.template }} 
