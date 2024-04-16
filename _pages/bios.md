@@ -28,7 +28,7 @@ template: bio.html
 {% endcapture %}
 
 {% capture lila %}
-{% include_relative bios/2024/blank.md %}
+{% include_relative bios/2024/lila.md %}
 {% endcapture %}
 
 {% capture audrey %}
