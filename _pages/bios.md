@@ -36,7 +36,7 @@ template: bio.html
 {% endcapture %}
 
 {% capture britt %}
-{% include_relative bios/2024/blank.md %}
+{% include_relative bios/2024/britt.md %}
 {% endcapture %}
 
 {% capture gabi %}
@@ -60,7 +60,7 @@ template: bio.html
 {% endcapture %}
 
 {% capture artemie %}
-{% include_relative bios/2024/blank.md %}
+{% include_relative bios/2024/artemie.md %}
 {% endcapture %}
 
 {% capture jblitz %}
