@@ -1,0 +1,1 @@
+!["Winnie the Pooh holds his tummy against a paper background with sheet music titled 'Rumbly In My Tumbly'"](/assets/images/bios24/joren.png)

@@ -12,7 +12,7 @@ template: bio.html
 {% endcapture %}
 
 {% capture leo %}
-{% include_relative bios/2024/blank.md %}
+{% include_relative bios/2024/leo.md %}
 {% endcapture %}
 
 {% capture will %}
@@ -52,7 +52,7 @@ template: bio.html
 {% endcapture %}
 
 {% capture joren %}
-{% include_relative bios/2024/blank.md %}
+{% include_relative bios/2024/joren.md %}
 {% endcapture %}
 
 {% capture kit %}
