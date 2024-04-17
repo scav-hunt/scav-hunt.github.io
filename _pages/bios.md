@@ -32,7 +32,7 @@ template: bio.html
 {% endcapture %}
 
 {% capture audrey %}
-{% include_relative bios/2024/blank.md %}
+{% include_relative bios/2024/audrey.md %}
 {% endcapture %}
 
 {% capture britt %}
@@ -132,7 +132,7 @@ template: bio.html
 
 {% include {{ page.template }} 
     side="right" 
-    image_src="/assets/images/photos24/lila.png"
+    image_src="/assets/images/photos24/lila.jpg"
     image_alt="Lila Jeemy"
     image_hover="Judge Jeemy"
     name="Lila Jeemy" 

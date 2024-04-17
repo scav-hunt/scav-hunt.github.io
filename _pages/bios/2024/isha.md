@@ -1,4 +1,4 @@
-<div class="wrapper-isha">
+<div class="wrapper-isha" aria-label="A digital replica of a Build-a-Bear Workshop vending machine with 'Bear' replaced with 'Isha'.">
     <div class="bab-top">
     <img src="/assets/images/bios24/isha/build-an-isha.svg" alt="The Build-A-Bear logo with 'Bear' swapped for 'Isha'" />
     </div>
