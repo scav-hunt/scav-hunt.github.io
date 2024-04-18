@@ -936,6 +936,8 @@ In the illustrious history of ScavHunt, the following have been theme songs:
 **1999:** Vengaboys, "We Like to Party" \
 **1998:** Weather Girls, "It's Raining Men" 
 
+You can listen to all of them [here](https://open.spotify.com/playlist/0vaKoCh5eVfpV3OTy5Y1Zb?si=pNZ2fN76QjOY5SObpeWJdQ&pi=u-ATji_eKiSYim).
+
 ***
 
 ## The Judges Most Regal

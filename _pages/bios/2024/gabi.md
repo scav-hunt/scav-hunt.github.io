@@ -1,4 +1,4 @@
- [2004 - Gabi is back on the freighter.]
+[2004 - Gabi is back on the freighter.]
 
 GABI: —trust me.
 
