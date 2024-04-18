@@ -99,7 +99,7 @@ template: bio.html
     image_alt="Leo Christensen"
     image_hover="Judge Leo"
     name="Leo Christensen" 
-    pronouns="they/them"
+    pronouns="they/he"
     bio=leo %}
 
 {% include {{ page.template }} 
