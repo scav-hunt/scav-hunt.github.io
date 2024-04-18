@@ -3,7 +3,7 @@
 
 .left-bio {
   display: grid;
-  grid-template-columns: 1fr 2fr;
+  grid-template-columns: 2fr 3fr;
   grid-template-rows: auto auto;
   column-gap: 15px;
   row-gap: 5px;
@@ -38,7 +38,7 @@
 
 .right-bio {
   display: grid;
-  grid-template-columns: 2fr 1fr;
+  grid-template-columns: 3fr 2fr;
   grid-template-rows: auto auto;
   column-gap: 15px;
   row-gap: 5px;
