@@ -13,7 +13,7 @@
   .bio-image {
     grid-column: 1 / 2;
     grid-row: 1 / end;
-    align-self: center;
+    align-self: start;
   }
 
   .bio-name {
@@ -48,7 +48,7 @@
   .bio-image {
     grid-column: 2 / end;
     grid-row: 1 / end;
-    align-self: center;
+    align-self: start;
   }
 
   .bio-name {
