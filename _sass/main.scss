@@ -473,13 +473,13 @@ p.page_number {
   .game-area,
   .overlay,
   .game-details {
-    width: 600px;
+    width: 100%;
   }
 
   canvas,
   .game-area,
   .overlay {
-    height: 360px;
+    height: 99%;
   }
 
   .hidden {

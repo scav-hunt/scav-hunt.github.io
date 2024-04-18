@@ -1,4 +1,4 @@
-<div class="wrapper-snake">
+<div class="wrapper-snake" aria-label="A playable game of Snake">
   <div class="game-area">
     <canvas id="snake" width="600" height="360" tabindex="1"></canvas>
     <div class="overlay">
