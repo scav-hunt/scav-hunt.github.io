@@ -925,7 +925,7 @@ In the illustrious history of ScavHunt, the following have been theme songs:
 **2010:** Adriano Celentano, "Prisencolinensinainciusol" \
 **2009:** Queen and David Bowie, "Under Pressure" \
 **2008:** The White Stripes, "Conquest" \
-**2007:** Maldroid, "Heck No! (We Won't Listen to Techno)" \
+**2007:** Maldroid, "Heck No! (I'll Never Listen to Techno)" \
 **2006:** Scorpions, "Rock You Like a Hurricane" \
 **2005:** The Beach Boys, "I Get Around" \
 **2004:** Junior Senior, "Move Your Feet" \
