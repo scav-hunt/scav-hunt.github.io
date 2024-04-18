@@ -8,11 +8,6 @@
   <body>
     <div class="wrapper">
       <header>
-        <script type="text/javascript">
-          function changeToThioCursor(){
-              document.body.style.cursor="url('/assets/images/thiocur.cur'), default";
-          }
-        </script>
 
         <a href="{{ "/" | absolute_url }}"><img src="/assets/images/logo.gif" alt="Scav logo" width=100%/></a>
 
@@ -26,12 +21,31 @@
       </section>
       <footer>
         <ul class="social-ul">
-          <li class="social-li"><a class="social" href="https://www.facebook.com/{{ site.facebook_username }}"><img src="/assets/images/social/fbsmall.png" alt="Facebook logo" width=10%/></a></li>
-          <li class="social-li"><a class="social" href="https://www.instagram.com/{{ site.instagram_username }}"><img src="/assets/images/social/insta.png" alt="Instagram logo" width=10%/></a></li>
-          <li class="social-li"><a class="social" href="https://{{ site.tumblr_username }}.tumblr.com"><img src="/assets/images/social/tumblr.png" alt="Tumblr logo" width=5%/></a></li>
-          <li class="social-li"><a class="social" href="javascript:void(0)" onclick="changeToThioCursor()"><img src="/assets/images/thio.png" alt="A drawing of thioacetone" width="12%"/></a></li>
+          <li class="social-li"><a class="social" href="https://www.facebook.com/{{ site.facebook_username }}"><img src="/assets/images/social/fbsmall.png" alt="Facebook logo" /></a></li>
+          <li class="social-li"><a class="social" href="https://www.instagram.com/{{ site.instagram_username }}"><img src="/assets/images/social/insta.png" alt="Instagram logo" /></a></li>
+          <li class="social-li"><a class="social" href="https://{{ site.tumblr_username }}.tumblr.com"><img src="/assets/images/social/tumblr.png" alt="Tumblr logo" /></a></li>
+          <li class="social-li"><a class="social" href="javascript:void(0)" onclick="rockingLobster()"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1faa8.png" alt="A rock emoji"/></a></li>
         </ul>
       </footer>
     </div>
+
+    <script type="text/javascript">
+      const rklbs = new Audio('/assets/files/rckinlobs.mp3');
+      var isPlaying = false
+      rklbs.loop = true;
+
+      function rockingLobster(){
+        
+        if (isPlaying) {
+          rklbs.pause();
+          isPlaying = false;
+        }
+
+        else if (!isPlaying) {
+          rklbs.play();
+          isPlaying = true;
+        }
+      }
+    </script>
   </body>
 </html>

@@ -20,7 +20,7 @@ template: bio.html
 {% endcapture %}
 
 {% capture brandon %}
-{% include_relative bios/2024/blank.md %}
+{% include_relative bios/2024/brandon.md %}
 {% endcapture %}
 
 {% capture cole %}
@@ -56,7 +56,7 @@ template: bio.html
 {% endcapture %}
 
 {% capture kit %}
-{% include_relative bios/2024/blank.md %}
+{% include_relative bios/2024/kit.md %}
 {% endcapture %}
 
 {% capture artemie %}
@@ -196,7 +196,7 @@ template: bio.html
 
 {% include {{ page.template }} 
     side="left" 
-    image_src="/assets/images/photos24/kit.png"
+    image_src="/assets/images/photos24/kit.JPG"
     image_alt="Kit Downey"
     image_hover="Judge Kirby"
     name="Kit Downey" 
@@ -234,7 +234,7 @@ template: bio.html
 
 {% include {{ page.template }} 
     side="left" 
-    image_src="/assets/images/photos24/destiny.png"
+    image_src="/assets/images/photos24/destiny.PNG"
     image_alt="Destiny Reeves"
     image_hover="Juj Dessiny"
     name="Destiny Reeves" 

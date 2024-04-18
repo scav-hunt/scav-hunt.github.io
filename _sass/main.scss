@@ -116,6 +116,10 @@ li.nav-li {
 li.social-li {
   display: inline;
   margin-inline: 10px;
+
+  img {
+    height: 25px;
+  }
 }
 
 .nav:hover, .nav:focus {
