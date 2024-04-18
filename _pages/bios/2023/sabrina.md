@@ -1,3 +1,0 @@
-Judge Sabrina was created in 1996 from a magic potion gone awry by her two aunts Hilda and Zelda in the town of Greendale. After several seasons of learning how to control her magic powers, she moved out to Flushing, where she had a steady day job employed as a bagel-holer.<sup>1</sup> Some time later, by dint of magic, history, bagel related, and abchronological shenanigans, she accidentally severed the fabric of the space-time scavtinuum. Over the course of the 10 book Scavdragon cycle, she reunited the scattered pieces of the Scavenger Hunt list, before swearing an oath to safeguard all future lists as a Judge. (Plus, it was in her name already anyhow.) 
-
-<small><sup>1</sup> One who magics the holes out of bagels</small> 

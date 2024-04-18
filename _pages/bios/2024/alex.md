@@ -1,0 +1,1 @@
+![A billboard that includes a professional photo Alex Hearn and reads 'Injured at the UChicago Scavenger hunt? Don’t ask for points compensation! That’s not my problem'](/assets/images/bios24/hearn.JPG "Do better.")

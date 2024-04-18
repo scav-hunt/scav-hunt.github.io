@@ -33,7 +33,7 @@ tumblr_username: scavhunt
 # Build settings
 markdown: kramdown
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-spaceship
   # - jekyll-latex
 strict_front_matter: true 

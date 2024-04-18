@@ -5,98 +5,134 @@ permalink: /horses/
 template: bio.html
 ---
 
-# The 2022 - 2023 Active Judgeship
+# The 2023 - 2024 Active Judgeship
+
+{% capture isha %}
+{% include_relative bios/2024/isha.md %}
+{% endcapture %}
+
+{% capture leo %}
+{% include_relative bios/2024/leo.md %}
+{% endcapture %}
+
+{% capture will %}
+{% include_relative bios/2024/will.md %}
+{% endcapture %}
 
 {% capture brandon %}
-{% include_relative bios/2023/brandon.md %}
+{% include_relative bios/2024/brandon.md %}
 {% endcapture %}
 
 {% capture cole %}
-{% include_relative bios/2023/cole.md %}
-{% endcapture %}
-
-{% capture david %}
-{% include_relative bios/2023/david.md %}
+{% include_relative bios/2024/cole.md %}
 {% endcapture %}
 
 {% capture lila %}
-{% include_relative bios/2023/lila.md %}
+{% include_relative bios/2024/lila.md %}
+{% endcapture %}
+
+{% capture audrey %}
+{% include_relative bios/2024/audrey.md %}
 {% endcapture %}
 
 {% capture britt %}
-{% include_relative bios/2023/britt.md %}
+{% include_relative bios/2024/britt.md %}
 {% endcapture %}
 
 {% capture gabi %}
-{% include_relative bios/2023/gabi.md %}
+{% include_relative bios/2024/gabi.md %}
 {% endcapture %}
 
 {% capture ryan %}
-{% include_relative bios/2023/ryan.md %}
-{% endcapture %}
-
-{% capture joren %}
-{% include_relative bios/2023/joren.md %}
-{% endcapture %}
-
-{% capture kit %}
-{% include_relative bios/2023/kit.md %}
-{% endcapture %}
-
-{% capture artemie %}
-{% include_relative bios/2023/artemie.md %}
-{% endcapture %}
-
-{% capture jblitz %}
-{% include_relative bios/2023/jacob.md %}
-{% endcapture %}
-
-{% capture sabrina %}
-{% include_relative bios/2023/sabrina.md %}
-{% endcapture %}
-
-{% capture destiny %}
-{% include_relative bios/2023/destiny.md %}
-{% endcapture %}
-
-{% capture moldel %}
-{% include_relative bios/2023/moldel.md %}
+{% include_relative bios/2024/ryan.md %}
 {% endcapture %}
 
 {% capture emma %}
-{% include_relative bios/2023/emma.md %}
+{% include_relative bios/2024/emma.md %}
+{% endcapture %}
+
+{% capture joren %}
+{% include_relative bios/2024/joren.md %}
+{% endcapture %}
+
+{% capture kit %}
+{% include_relative bios/2024/kit.md %}
+{% endcapture %}
+
+{% capture artemie %}
+{% include_relative bios/2024/artemie.md %}
+{% endcapture %}
+
+{% capture jblitz %}
+{% include_relative bios/2024/jacob.md %}
+{% endcapture %}
+
+{% capture sabrina %}
+{% include_relative bios/2024/sabrina.md %}
+{% endcapture %}
+
+{% capture destiny %}
+{% include_relative bios/2024/blank.md %}
+{% endcapture %}
+
+{% capture alex %}
+{% include_relative bios/2024/alex.md %}
+{% endcapture %}
+
+{% capture david %}
+{% include_relative bios/2024/david.md %}
 {% endcapture %}
 
 {% include {{ page.template }} 
     side="left" 
-    image_src="/assets/images/photos23/brandon.png"
-    image_alt="Brandon LaCrosse"
-    image_hover="Judge Brandon"
-    name="Brandon LaCrosse" 
-    pronouns="he/him"
-    bio=brandon %}
+    image_src="/assets/images/photos24/isha.png"
+    image_alt="Isha Mehta"
+    image_hover="Judge Isha"
+    name="Isha Mehta" 
+    pronouns="she/her"
+    title="Minister of Propaganda"
+    bio=isha %}
 
 {% include {{ page.template }} 
     side="right" 
-    image_src="/assets/images/photos23/cole.png"
+    image_src="/assets/images/photos24/leo.png"
+    image_alt="Leo Christensen"
+    image_hover="Judge Leo"
+    name="Leo Christensen" 
+    pronouns="they/them"
+    bio=leo %}
+
+{% include {{ page.template }} 
+    side="left" 
+    image_src="/assets/images/photos24/will.png"
+    image_alt="Will Epstein"
+    image_hover="Judge Will"
+    name="Will Epstein" 
+    pronouns="he/him"
+    bio=will %}
+
+{% include {{ page.template }} 
+    side="right" 
+    image_src="/assets/images/photos24/brandon.jpg"
+    image_alt="Brandon LaCrosse"
+    image_hover="Judge Corleone"
+    name="Brandon LaCrosse" 
+    pronouns="he/him"
+    title="Keeper of the Scrolls"
+    bio=brandon %}
+
+{% include {{ page.template }} 
+    side="left" 
+    image_src="/assets/images/photos24/cole.png"
     image_alt="Cole Washburn"
-    image_hover="Judge Cole"
+    image_hover="Judge Firestar"
     name="Cole Washburn" 
     title="Vampire"
     bio=cole %}
 
 {% include {{ page.template }} 
-    side="left" 
-    image_src="/assets/images/photos23/david.png"
-    image_alt="David Aguilar Hall"
-    image_hover="Judge David the Younger"
-    name="David Aguilar Hall" 
-    pronouns="he/him"
-    bio=david %}
-
-{% include {{ page.template }} 
     side="right" 
-    image_src="/assets/images/photos23/jeemmyy.png"
+    image_src="/assets/images/photos24/lila.jpg"
     image_alt="Lila Jeemy"
     image_hover="Judge Jeemy"
     name="Lila Jeemy" 
@@ -105,27 +141,35 @@ template: bio.html
 
 {% include {{ page.template }} 
     side="left" 
-    image_src="/assets/images/photos23/britt.png"
-    image_alt="Brittney Dorton"
-    image_hover="Judge Britt"
-    name="Brittney Dorton" 
+    image_src="/assets/images/photos24/audrey.png"
+    image_alt="Audrey Scott"
+    image_hover="Judge Audrey"
+    name="Audrey Scott" 
     pronouns="she/her"
-    title="Minister of Propaganda"
-    bio=britt
-    bio_style="font-family:Courier New;" %}
+    bio=audrey %}
 
 {% include {{ page.template }} 
     side="right" 
-    image_src="/assets/images/photos23/gabi.png"
+    image_src="/assets/images/photos24/britt.png"
+    image_alt="Britt Dorton"
+    image_hover="Judge Barbie"
+    name="Britt Dorton" 
+    pronouns="she/her"
+    title="Minister of Propaganda, Clark Griswold"
+    bio=britt %}
+
+{% include {{ page.template }} 
+    side="left" 
+    image_src="/assets/images/photos24/gabi.png"
     image_alt="Gabi Garcia"
-    image_hover="Judge Gabi"
+    image_hover="Judge Lasso"
     name="Gabi Garcia" 
     title="Cyber Horsegirl"
     bio=gabi %}
 
 {% include {{ page.template }} 
-    side="left" 
-    image_src="/assets/images/photos23/ryan.png"
+    side="right" 
+    image_src="/assets/images/photos24/ryan.png"
     image_alt="Ryan Gold"
     image_hover="Judge Ryan"
     name="Ryan Gold" 
@@ -133,8 +177,17 @@ template: bio.html
     bio=ryan %}
 
 {% include {{ page.template }} 
+    side="left" 
+    image_src="/assets/images/photos24/emma.png"
+    image_alt="Emma Simpson"
+    image_hover="Judge Lettuce"
+    name="Emma Simpson" 
+    pronouns="she/her"
+    bio=emma %}
+
+{% include {{ page.template }} 
     side="right" 
-    image_src="/assets/images/photos23/joren.png"
+    image_src="/assets/images/photos24/joren.png"
     image_alt="Joren Husic"
     image_hover="Judge Chestnut"
     name="Joren Husic" 
@@ -143,25 +196,25 @@ template: bio.html
 
 {% include {{ page.template }} 
     side="left" 
-    image_src="/assets/images/photos23/kit.png"
+    image_src="/assets/images/photos24/kit.JPG"
     image_alt="Kit Downey"
-    image_hover="Judge Kit"
+    image_hover="Judge Kirby"
     name="Kit Downey" 
-    pronouns="they/them"
+    pronouns="he/they"
     bio=kit %}
 
 {% include {{ page.template }} 
     side="right" 
-    image_src="/assets/images/photos23/artemie.jpg"
+    image_src="/assets/images/photos24/artemie.png"
     image_alt="Artemie Chang"
-    image_hover="Judge Artemie"
+    image_hover="Judge KitKat"
     name="Artemie Chang" 
     pronouns="she/they"
     bio=artemie %}
 
 {% include {{ page.template }} 
     side="left" 
-    image_src="/assets/images/photos23/jblitz.png"
+    image_src="/assets/images/photos24/jacob.png"
     image_alt="Jacob Blitz"
     image_hover="Judge JBlitz"
     name="Jacob Blitz" 
@@ -171,9 +224,9 @@ template: bio.html
 
 {% include {{ page.template }} 
     side="right" 
-    image_src="/assets/images/photos23/sabrina.png"
+    image_src="/assets/images/photos24/sabrina.png"
     image_alt="Sabrina Sternberg"
-    image_hover="Judge Maclunky"
+    image_hover="Judge Maclunkey"
     name="Sabrina Sternberg" 
     pronouns="she/her"
     title="Minister of Propaganda"
@@ -181,7 +234,7 @@ template: bio.html
 
 {% include {{ page.template }} 
     side="left" 
-    image_src="/assets/images/photos23/dessiny.PNG"
+    image_src="/assets/images/photos24/destiny.PNG"
     image_alt="Destiny Reeves"
     image_hover="Juj Dessiny"
     name="Destiny Reeves" 
@@ -190,20 +243,19 @@ template: bio.html
 
 {% include {{ page.template }} 
     side="right" 
-    image_src="/assets/images/photos23/mol.png"
-    image_alt="Molly Blondell"
-    image_hover="Judge MolDel"
-    name="Molly Blondell" 
-    pronouns="she/her"
-    bio=moldel
-    bio_style="font-family:Courier New;" %}
+    image_src="/assets/images/photos24/alex.png"
+    image_alt="Alex Hearn"
+    image_hover="Judge Christine Daaé"
+    name="Alex Hearn" 
+    pronouns="he/him"
+    bio=alex %}
 
 {% include {{ page.template }} 
     side="left" 
-    image_src="/assets/images/photos23/Emma.png"
-    image_alt="Emma Simpson"
-    image_hover="Judge Lettuce"
-    name="Feat. Emma Simpson as Head Judge" 
-    pronouns="she/her"
-    title="Head Judge, Keeper of the Scrolls"
-    bio=emma %}
+    image_src="/assets/images/photos24/david.png"
+    image_alt="David Hall"
+    image_hover="Judge David the Younger"
+    name="Feat. David Hall as Head Judge" 
+    pronouns="he/him"
+    title="Head Judge"
+    bio=david %}

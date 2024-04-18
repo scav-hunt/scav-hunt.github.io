@@ -116,6 +116,10 @@ li.nav-li {
 li.social-li {
   display: inline;
   margin-inline: 10px;
+
+  img {
+    height: 25px;
+  }
 }
 
 .nav:hover, .nav:focus {
@@ -329,6 +333,261 @@ h3.list_title {
 p.page_number {
   text-align: center;
   margin-bottom: 20%;
+}
+
+.wrapper-isha {
+  display: grid;
+  grid-template-rows: auto auto auto;
+  grid-template-columns: 3fr 1fr;
+  border: 5px solid black;
+
+  .bab-top {
+    display: flex;
+    background-color: #0155A2;
+    border-bottom: 5px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    align-content: center;
+    justify-content: center;
+    grid-row: 1 / 2;
+    grid-column: 1 / end;
+
+    img {
+      width: 60%;
+      padding-top: 10px;
+      padding-bottom: 5px;
+    }
+  }
+
+  .bab-items {
+    grid-row: 2 / 3;
+    grid-column: 1 / 2;
+    background-color: #c7c7c7;
+    border: 1rem solid #0155A2;
+
+    .bab-row {
+      display: flex;
+      flex-direction: row;
+      gap: 4rem;
+      align-items: center;
+      justify-content: center;
+      padding-top: 1rem;
+      border-bottom: 1rem solid #aaa;
+
+      img {
+        width: 7rem;
+      }
+    }
+  }
+
+  .bab-select-screen {
+    grid-row: 2 / 3;
+    grid-column: 2 / end;
+    background-color: #0155A2;
+    border-left: 5px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    .bab-screen {
+      display: flex;
+      border: 3px solid black;
+      width: 80%;
+      justify-content: center;
+      align-items: center;
+      padding: 5rem 0;
+      background-color: #00a0dd;
+
+      img {
+        width: 4rem;
+      }
+    }
+
+    .hugs-inside {
+      color: white;
+      border: 3px solid black;
+      margin-top: 3rem;
+      font-family: 'Comic Sans MS', sans-serif;
+      font-size: 1.25rem;
+      text-align: center;
+      width: 70%;
+    }
+  }
+
+  .stripey-bottom {
+    grid-row: 3 / end;
+    grid-column: 1 / end;
+    border-top: 5px solid black;
+
+    .pink-stripe {
+      background-color: #ee365d;
+      height: 30px;
+      margin-top: 5px;
+    }
+
+    .yellow-stripe {
+      background-color: #ffd400;
+      height: 20px;
+      margin-top: 5px;
+    }
+
+    .green-stripe {
+      background-color: #30b14a;
+      height: 7px;
+      margin-top: 3px;
+    }
+
+    .blue-stripe {
+      background-color: #00a0dd;
+      height: 20px;
+      margin-top: 7px;
+      margin-bottom: 3px;
+    }
+  }
+}
+
+.lila-bio {
+  strong {
+    color: #00B050;
+  }
+}
+
+.wrapper-snake {
+  canvas {
+    background-color: #fff;
+    box-sizing: border-box;
+    outline: 2px solid black;
+  }
+
+  input[type=checkbox] {
+    margin: 5px 5px 0 0;
+  }
+
+  label,
+  .game-btn {
+    cursor: pointer;
+  }
+
+  canvas,
+  .game-area,
+  .overlay,
+  .game-details {
+    width: 100%;
+  }
+
+  canvas,
+  .game-area,
+  .overlay {
+    height: 99%;
+  }
+
+  .hidden {
+    display: none;
+  }
+
+  margin-top: 10px;
+
+  .buttons,
+  .difficulty {
+    width: 100%;
+  }
+
+  .game-area,
+  .game-btn,
+  .game-details {
+    position: relative;
+  }
+
+  .game-area,
+  .game-details {
+    margin: auto;
+  }
+
+  .overlay {
+    background: rgba(0, 0, 0, 0.5);
+    top: 0;
+    left: 0;
+  }
+
+  .overlay,
+  .buttons,
+  .difficulty,
+  .score-txt {
+    position: absolute;
+  }
+
+  .buttons {
+    top: 50%;
+    -webkit-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+  }
+
+  .game-btn {
+    border: 2px solid #fff;
+    border-radius: 5px;
+    width: 200px;
+    line-height: 60px;
+    margin: 15px 0;
+    background: transparent;
+    left: 50%;
+    -webkit-transform: translate(-50%, 0);
+    transform: translate(-50%, 0);
+  }
+
+  .game-btn:hover {
+    background: #eee;
+    border: 2px solid #eee;
+    color: #000;
+  }
+
+  .game-msg {
+    margin: 50px 0 10px;
+    padding: 0 10px;
+  }
+
+  .hint {
+    margin: 8px 0;
+    font-size: 0.8em;
+  }
+
+  .difficulty {
+    bottom: 50px;
+  }
+
+  #finalScore,
+  .difficulty p {
+    margin: 5px 0;
+  }
+
+  .overlay p,
+  .game-btn,
+  .difficulty div {
+    color: #fff;
+    font-size: 1.25em;
+    text-align: center;
+  }
+
+  .score-txt {
+    right: 0;
+    top: 1px;
+    margin: 0;
+  }
+
+  .hint span,
+  .score-txt span:first-child {
+    font-weight: bold;
+  }
+
+  .radio-field {
+    margin: 0 10px;
+    display: inline-block;
+  }
+
+  .radio-field label {
+    font-size: 0.75em;
+  }
+
 }
 
 @media print, screen and (max-width: 992px) {
