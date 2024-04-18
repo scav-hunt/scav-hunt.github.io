@@ -245,7 +245,7 @@ template: bio.html
     side="right" 
     image_src="/assets/images/photos24/alex.png"
     image_alt="Alex Hearn"
-    image_hover="Judge Christine Daae"
+    image_hover="Judge Christine Daaé"
     name="Alex Hearn" 
     pronouns="he/him"
     bio=alex %}
