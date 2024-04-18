@@ -35,10 +35,10 @@
   </div>
 </div>
 <!-- AUDIO FILES !-->
-<audio id="eating" src="http://alexsalov.com/assets/snake/bite.mp3" preload="auto"></audio>
-<audio id="hit_wall" src="http://alexsalov.com/assets/snake/hit_wall.mp3" preload="auto"></audio>
-<audio id="pain" src="http://alexsalov.com/assets/snake/pain.mp3" preload="auto"></audio>
-<audio id="snake_background" src="http://alexsalov.com/assets/snake/snake_background.mp3" preload="auto" loop></audio>
+<audio id="eating" src="https://alexsalov.com/assets/snake/bite.mp3" preload="auto"></audio>
+<audio id="hit_wall" src="https://alexsalov.com/assets/snake/hit_wall.mp3" preload="auto"></audio>
+<audio id="pain" src="https://alexsalov.com/assets/snake/pain.mp3" preload="auto"></audio>
+<audio id="snake_background" src="https://alexsalov.com/assets/snake/snake_background.mp3" preload="auto" loop></audio>
 
 <script>
     (function() {
