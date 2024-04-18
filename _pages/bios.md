@@ -226,7 +226,7 @@ template: bio.html
     side="right" 
     image_src="/assets/images/photos24/sabrina.png"
     image_alt="Sabrina Sternberg"
-    image_hover="Judge Maclunky"
+    image_hover="Judge Maclunkey"
     name="Sabrina Sternberg" 
     pronouns="she/her"
     title="Minister of Propaganda"
