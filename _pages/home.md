@@ -20,7 +20,7 @@ permalink: /
 | Streak | people who don't know when to quit | Rebecca H. |
 | Scavrou & Co. | Scavrou Enterprises, LLC | Asher J., Carlos M. |
 | Joie de Fire | GASH (Graduate & Alumni Scav Hunt) | Crayola B., Holly K., Nicky D. |
-| Mataverse | Friend group | Daniel M., Gilberto G., Henry C., Kentaro M., Lena Bolotin., Gabby S., Nic R., Owen Y. |
+| Mataverse | Friend group | Daniel M., Gilberto G., Henry C., Kentaro M., Lena B., Gabby S., Nic R., Owen Y. |
 
 ### Unsure where to begin? Check out our guide, [So You Want to Be a Scav Team](../assets/files/S2024_So_You_Want_to_Be_A_Scav_Team.pdf)!
 
