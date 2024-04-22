@@ -909,6 +909,7 @@ The winning submission for Item 8 can be found [here](https://web.archive.org/we
 
 In the illustrious history of ScavHunt, the following have been theme songs:
 
+**2024:** The B-52s, "Rock Lobster" \
 **2023:** Akiko Wada, "KANPAI FUNK" \
 **2014(0):** The Billboard Hot 100 Number Ones of 2014(0) \
 **2021:** Tame Impala, "Elephant", as covered by The Wiggles \
