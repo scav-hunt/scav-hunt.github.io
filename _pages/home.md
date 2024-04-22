@@ -22,6 +22,7 @@ permalink: /
 | Joie de Fire | GASH (Graduate & Alumni Scav Hunt) | Crayola B., Holly K., Nicky D. |
 | Mataverse | Friend group | Daniel M., Gilberto G., Henry C., Kentaro M., Lena B., Gabby S., Nic R., Owen Y. |
 | Valwah Bwah | Valois Bois | A. Large, Thomas (Bubbles) S., Jenny H. |
+| Grapes! | Renee Granville Grossman Commons | Matthew R., Madeleine D., Erica Olea V., Andrew A., Pallas H., Pravan C. |
 
 ### Unsure where to begin? Check out our guide, [So You Want to Be a Scav Team](../assets/files/S2024_So_You_Want_to_Be_A_Scav_Team.pdf)!
 
