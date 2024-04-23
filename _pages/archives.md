@@ -947,10 +947,10 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 **Leo Christensen** (2024--) \
 **Will Samuel Epstein** (2024--) \
 **Isha Mehta** (2024--) \
-**Brandon LaCrosse** (2023--) \
+**Brandon P LaCrosse** (2023--) \
 **Cole Washburn** (2023--) \
 **David Aguilar Hall** (2023--) \
-**Lila Jeemy** (2023--) \
+**Lila Grigorina Jeemy** (2023--) \
 **Audrey Paris Scott** (2023--) \
 **Brittney Lynn Dorton** (2023--) \
 **Gabriela Claire Garcia** (2023--) \
