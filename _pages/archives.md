@@ -945,13 +945,13 @@ You can listen to all of them [here](https://open.spotify.com/playlist/0vaKoCh5e
 The ranks of Hot Side Hot have, at one time or another, included the following (and if you are not on this list but can prove that you should be, e-mail scavheadjudge@gmail so that we can administer the secret test)
 
 **Leo Christensen** (2024--) \
-**Will Epstein** (2024--) \
+**Will Samuel Epstein** (2024--) \
 **Isha Mehta** (2024--) \
 **Brandon LaCrosse** (2023--) \
 **Cole Washburn** (2023--) \
 **David Aguilar Hall** (2023--) \
 **Lila Jeemy** (2023--) \
-**Audrey Scott** (2023--) \
+**Audrey Paris Scott** (2023--) \
 **Brittney Lynn Dorton** (2023--) \
 **Gabriela Claire Garcia** (2023--) \
 **Ryan Solomon Gold** (2023--) \

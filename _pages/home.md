@@ -26,6 +26,7 @@ permalink: /
 | crustsaders 🍞 | people who like bread and pottery 🥖☕️ | Anika K., Claire G., Jillian B., Anokha N. |
 | Cessor's Quest | A silly little man with a mission | Aidan C. |
 | I-Home | I-House | Kylan B. |
+| big and greedy | ben l., arjun b., israel b. jr., ruhaan c., vedant d., grace d. | Ben L. |
 
 ### Unsure where to begin? Check out our guide, [So You Want to Be a Scav Team](../assets/files/S2024_So_You_Want_to_Be_A_Scav_Team.pdf)!
 
