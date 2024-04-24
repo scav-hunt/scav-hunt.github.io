@@ -27,6 +27,7 @@ permalink: /
 | Cessor's Quest | A silly little man with a mission | Aidan C. |
 | I-Home | I-House | Kylan B. |
 | big and greedy | ben l., arjun b., israel b. jr., ruhaan c., vedant d., grace d. | Ben L. |
+| She Burton on my Judson 'til I Scav | Burton-Judson | Audrey L., V J., Braden H., Jennifer L., Honor T., Nora S. |
 
 ### Unsure where to begin? Check out our guide, [So You Want to Be a Scav Team](../assets/files/S2024_So_You_Want_to_Be_A_Scav_Team.pdf)!
 
