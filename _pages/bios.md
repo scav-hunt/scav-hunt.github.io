@@ -187,7 +187,7 @@ template: bio.html
 
 {% include {{ page.template }} 
     side="right" 
-    image_src="/assets/images/photos24/joren.png"
+    image_src="/assets/images/photos24/joren.jpg"
     image_alt="Joren Husic"
     image_hover="Judge Chestnut"
     name="Joren Husic" 
