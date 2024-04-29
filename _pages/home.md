@@ -31,6 +31,7 @@ permalink: /
 | 29(F) seeking featherless biped | Davin Reed | Brett P., Conor M. |
 | Max Pussy | Max Palevsky | Palmer B., Gabe B., Zach B. |
 | mihockery | Three Roommates and a Dream | Meena R., Kyla M., Jihee Y. |
+| Aristotle's balls | depressed honors gen chem students and their friends | Josh G., Katherine C., Sarina Z., Sakura H., Madison S. |
 
 ### Unsure where to begin? Check out our guide, [So You Want to Be a Scav Team](../assets/files/S2024_So_You_Want_to_Be_A_Scav_Team.pdf)!
 
