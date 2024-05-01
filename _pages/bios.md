@@ -72,7 +72,7 @@ template: bio.html
 {% endcapture %}
 
 {% capture destiny %}
-{% include_relative bios/2024/blank.md %}
+{% include_relative bios/2024/destiny.md %}
 {% endcapture %}
 
 {% capture alex %}
