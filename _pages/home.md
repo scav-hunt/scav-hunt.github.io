@@ -4,7 +4,7 @@ title: Scav Hunt
 permalink: /
 ---
 
-# Scav Hunt 2024 will be May 2-5, 2024.
+# [THE 2024 LIST]({{ site.url }}/chores)
 
 ## [REGISTER YOUR TEAM FOR SCAV HERE](https://forms.gle/G62uqfaLhfwbKjee6)
 
