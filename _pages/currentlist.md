@@ -6,9 +6,9 @@ permalink: /chores/
 
 # The 2024 University of Chicago Scavenger Hunt List
 
-[Font options for Item 243]({{ site.url }}/item243)
+[Font options for Item 241]({{ site.url }}/item241)
 
-[Item 283]({{ site.url }}/item283)
+[Item 280]({{ site.url }}/item280)
 
 [For mobile users, here's a link to the List.]({{ site.url }}/assets/lists/2024.pdf)
 

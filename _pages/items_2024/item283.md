@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Item 283
-permalink: /item283
+title: Item 280
+permalink: /item280
 ---
 
 # Item list (bring <em>physical</em> versions to Judgment)
