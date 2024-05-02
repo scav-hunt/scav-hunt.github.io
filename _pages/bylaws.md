@@ -188,4 +188,25 @@ Alexander William Hearn
 **Prophet Elijah:** (Vacant)
 
 **Judge Emeriti:** \
-TBA
+Nell Williamson Shaffer \
+David Klinger \
+Joey Valdez \
+Michael Hochman \
+Ori Brian \
+Eren Ahn \
+Andrew Jaffe \
+Molly Blondell \
+Reed Mershon \
+Walker King \
+Lindsey Simon \
+Andy Jordan \
+Cat Scharon \
+Ezra Deutsch-Feldman \
+Daniel Citron \
+Paul Davis \
+Christian Kammerer \
+Leila Sales \
+Rick Jeffries \
+Diane Kelly \
+Cassie Scharff Hallberg \
+Chris Straus
