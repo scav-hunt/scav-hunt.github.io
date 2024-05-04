@@ -87,7 +87,7 @@ template: bio.html
     side="left" 
     image_src="/assets/images/photos24/isha.png"
     image_alt="Isha Mehta"
-    image_hover="Judge Isha"
+    image_hover="Judge Harper"
     name="Isha Mehta" 
     pronouns="she/her"
     title="Minister of Propaganda"
@@ -106,7 +106,7 @@ template: bio.html
     side="left" 
     image_src="/assets/images/photos24/will.png"
     image_alt="Will Epstein"
-    image_hover="Judge Will"
+    image_hover="Judge Joker"
     name="Will Epstein" 
     pronouns="he/him"
     bio=will %}
