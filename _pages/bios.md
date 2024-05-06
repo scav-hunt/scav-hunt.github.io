@@ -97,7 +97,7 @@ template: bio.html
     side="right" 
     image_src="/assets/images/photos24/leo.png"
     image_alt="Leo Christensen"
-    image_hover="Judge Leo"
+    image_hover="Judge Speedball"
     name="Leo Christensen" 
     pronouns="they/he"
     bio=leo %}
