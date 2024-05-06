@@ -87,7 +87,7 @@ template: bio.html
     side="left" 
     image_src="/assets/images/photos24/isha.png"
     image_alt="Isha Mehta"
-    image_hover="Judge Harper"
+    image_hover="Judge Isha"
     name="Isha Mehta" 
     pronouns="she/her"
     title="Minister of Propaganda"
