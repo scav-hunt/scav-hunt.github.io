@@ -236,7 +236,7 @@ template: bio.html
     side="left" 
     image_src="/assets/images/photos24/destiny.PNG"
     image_alt="Destiny Reeves"
-    image_hover="Juj Dessiny"
+    image_hover="Judge Coolant"
     name="Destiny Reeves" 
     pronouns="she/they"
     bio=destiny %}

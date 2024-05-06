@@ -4,12 +4,6 @@ title: Current List
 permalink: /chores/
 ---
 
-# The 2024 University of Chicago Scavenger Hunt List
+# What list?
 
-[Font options for Item 241]({{ site.url }}/item241)
-
-[Item 280]({{ site.url }}/item280)
-
-[For mobile users, here's a link to the List.]({{ site.url }}/assets/lists/2024.pdf)
-
-<object data="../../assets/lists/2024.pdf" width="100%" height="600" type='application/pdf'></object>
+In the meantime, satisfy all your list-related desires [here](https://en.wikipedia.org/wiki/List_of_lists_of_lists), [here](https://youtu.be/nrsnN23tmUA), and [here]({{ site.url }}/yore).
