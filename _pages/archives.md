@@ -59,6 +59,8 @@ Pick a year:
 
 [List](/assets/lists/2024.pdf)
 
+**Spirit of the Hunt**: Scavrou & Co.
+
 | Placement | Team (Affiliation) | Team (Name) |
 | :---: | :---: | :---: |
 | 1st | Max Palevsky | Max Pussy |
@@ -91,6 +93,8 @@ Pick a year:
 
 Those wishing to try Item 289 can find it [here]({{ site.url }}/item289).
 
+**Spirit of the Hunt**: Smart People…On ICE!
+
 | Placement | Team (Affiliation) | Team (Name) |
 | :---: | :---: | :---: |
 | 1st | Snell-Hitchcock | Sally’s Terrible, Horrible, No-Good, Very Bad Scav Team |
@@ -120,6 +124,8 @@ Those wishing to try Item 289 can find it [here]({{ site.url }}/item289).
 ### In-Person Hunt
 
 [List](/assets/lists/2014(0).pdf)
+
+**Spirit of the Hunt**: the tomatoes
 
 | Placement | Team (Affiliation) | Team (Name) |
 | :---: |  :---:  | :---:  |
