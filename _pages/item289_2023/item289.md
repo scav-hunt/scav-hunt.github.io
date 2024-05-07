@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Current List
-permalink: /item289
+permalink: /item289-2023
 ---
 
 # The 2023 University of Chicago Scavenger Hunt List
@@ -14,7 +14,7 @@ Options for Item 219 can be found [here](https://docs.google.com/document/d/1Zte
 
 [Item 249]({{ site.url }}/items/morse.wav)
 
-[Item 289]({{ site.url }}/item289)
+[Item 289]({{ site.url }}/item289-2023)
 
 [For mobile users, here's a link to the List.]({{ site.url }}/items/item289/The_2023_University_of_Chicago_Scavenger_Hunt_List.pdf)
 

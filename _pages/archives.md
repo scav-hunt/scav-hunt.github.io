@@ -91,7 +91,7 @@ Pick a year:
 
 [List](/assets/lists/2023.pdf)
 
-Those wishing to try Item 289 can find it [here]({{ site.url }}/item289).
+Those wishing to try Item 289 can find it [here]({{ site.url }}/item289-2023).
 
 **Spirit of the Hunt**: Smart People…On ICE!
 
