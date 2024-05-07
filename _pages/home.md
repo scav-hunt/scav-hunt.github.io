@@ -19,6 +19,8 @@ All applications are due in their entirety by 11:59:59 pm, May 12th, 2024 and sh
 
 ## 2024 Results
 
+**Spirit of the Hunt**: Scavrou & Co.
+
 | Placement | Team (Affiliation) | Team (Name) |
 | :---: | :---: | :---: |
 | 1st | Max Palevsky | Max Pussy |
