@@ -6,17 +6,6 @@ permalink: /
 
 # Thanks for Scavving with us this year!
 
-## So you wanna be a Judge next year...
-
-Hot Side Hot is now looking for new blood to commune with us in the SubLime in wait of the Great Fireball. If you would like to join our eldritch cabal and become one of our cthonic fellowship, we urge you to fill out the following application.
-
-[This application is being provided to you as a Portable Document Format document](../assets/files/JudgeApplication2425.pdf). We understand that your list of proposed items may include unusual typesetting, but we require that for ease of transmission you return the application to us as a Word document.
-
-All applications are due in their entirety by 11:59:59 pm, May 12th, 2024 and should be e-mailed to judgeapps2025 (at) gmail (dot) com.
-
-<br />
-<br />
-
 ## 2024 Results
 
 **Spirit of the Hunt**: Scavrou & Co.
