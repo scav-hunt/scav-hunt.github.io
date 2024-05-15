@@ -157,7 +157,7 @@ That said, should knuckle-dragging critics want to "analyze" this text, a list o
 ## List of Officers for Scavenger Hunt 2024:
 
 **Scavenczar:** David Aguilar Hall \
-**Sir Ector:** Jacob Leo Blitz \
+**Sir Ector:** \
 **Clark Griswold:** Brittney Lynn Dorton \
 **Keeper of the Scrolls:** Brandon LaCrosse \
 **Cyber Horsegirl:** Gabriela Claire Garcia \
