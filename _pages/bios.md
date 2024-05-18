@@ -219,7 +219,6 @@ template: bio.html
     image_hover="Judge JBlitz"
     name="Jacob Blitz" 
     pronouns="he/him"
-    title="Sir Ector"
     bio=jblitz %}
 
 {% include {{ page.template }} 
