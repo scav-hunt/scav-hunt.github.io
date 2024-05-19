@@ -981,6 +981,10 @@ You can listen to all of them [here](https://open.spotify.com/playlist/0vaKoCh5e
 ## The Judges Most Regal
 The ranks of Hot Side Hot have, at one time or another, included the following (and if you are not on this list but can prove that you should be, e-mail scavheadjudge@gmail so that we can administer the secret test)
 
+**Alex Arnell** (2025--) \
+**Gabriel Almas Byrd** (2025--) \
+**Kiran** (2025--) \
+**Van Gabriel Olson** (2025--) \
 **Leo Christensen** (2024--) \
 **Will Samuel Epstein** (2024--) \
 **Isha Mehta** (2024--) \
