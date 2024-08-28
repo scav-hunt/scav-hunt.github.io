@@ -66,6 +66,8 @@ send an Electronic Mail to uchicagoscav [at] gmail.com. Be warned, the Judgeship
 
 ## Testimonials
 
+"Mardi Gras meets the Great Books meets Theater of the Absurd." &mdash;John Boyer, former Dean of the College of the University of Chicago
+
 "I strongly believe [the University of Chicago Scavenger Hunt] counts as a sport." &mdash;Kyle D. Logue, Interim Dean of the University of Michigan Law School
 
 "[T]he college’s Rose Bowl: a mash-up of the Intel Science Talent Search, fraternity hazing, a pep rally, installation art, reality TV, and a 4-H fair." &mdash;Patricia Marx, *The New Yorker*
@@ -76,8 +78,6 @@ send an Electronic Mail to uchicagoscav [at] gmail.com. Be warned, the Judgeship
 
 "[N]ominally a scavenger hunt but closer to a campus tradition wrapped inside a multigenerational class reunion bundled into an elaborate prank requiring the cooperation of hundreds of students, dozens of faculty, family, friends and government officials." &mdash;Christopher Borrelli, *The Chicago Tribune*
 
-"Mardi Gras meets the Great Books meets Theater of the Absurd." &mdash;John Boyer, former Dean of the College of the University of Chicago
-
 "[W]hat might be the hardest scavenger hunt there is." &mdash;Benson, WRKR, Portage, MI
 
 "[The University of Chicago Scavenger Hunt] combines wild creativity with brilliant engineering, which about sums up the best parts of America's economy." &mdash;Rob Wile, *Business Insider*
@@ -86,4 +86,4 @@ send an Electronic Mail to uchicagoscav [at] gmail.com. Be warned, the Judgeship
 
 "Weird As Hell." &mdash;Dayna Evans, *Gawker*
 
-"[W]e had this one bright spot on the calendar, which was a campus-wide scavenger hunt... And it was just so much fun." &mdash;Misha Collins, University of Chicago AB '97
+"[W]e had this one bright spot on the calendar, which was a campus-wide scavenger hunt... And it was just so much fun." &mdash;Misha Collins, University of Chicago AB '97 and otherwise not very noteworthy Scavvie
