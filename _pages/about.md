@@ -59,7 +59,31 @@ To be an active participant in the Judgeship, you must be prepared to attend mee
 Great! Put it on your application list, and we’ll see you in the Fall. Keep in mind, items that attempt to shoehorn your business/club/charity into the Hunt are not good items.
 
 17. **My thirst for knowledge is not yet quenched!** \
-First, I know you’re excited about Scav if you’ve read this whole FAQ, but I need you to stop shouting. Second, if you have a question that: 
+First, we know you’re excited about Scav if you’ve read this whole FAQ, but we need you to stop shouting. Second, if you have a question that: 
     1. Cannot be answered using any of the information on this site (including the Rules section of the most recent List, and yes, even the Bylaws), 
     2. Isn’t a total waste of time, \
-send an Electronic Mail to uchicagoscav [at] gmail.com. Be warned, they are a busy person, so use this option wisely.
+send an Electronic Mail to uchicagoscav [at] gmail.com. Be warned, the Judgeship is very busy, so use this option wisely.
+
+## Testimonials
+
+"Mardi Gras meets the Great Books meets Theater of the Absurd." &mdash;John Boyer, former Dean of the College of the University of Chicago
+
+"I strongly believe [the University of Chicago Scavenger Hunt] counts as a sport." &mdash;Kyle D. Logue, Interim Dean of the University of Michigan Law School
+
+"[T]he college’s Rose Bowl: a mash-up of the Intel Science Talent Search, fraternity hazing, a pep rally, installation art, reality TV, and a 4-H fair." &mdash;Patricia Marx, *The New Yorker*
+
+"[A] yearly celebration of looniness." &mdash;Andrew Bluth, *The New York Times*
+
+"[O]ne of the longest-running and most idiosyncratic scavenger hunts in history" &mdash;Danny Lewis, *Smithsonian Magazine*
+
+"[N]ominally a scavenger hunt but closer to a campus tradition wrapped inside a multigenerational class reunion bundled into an elaborate prank requiring the cooperation of hundreds of students, dozens of faculty, family, friends and government officials." &mdash;Christopher Borrelli, *The Chicago Tribune*
+
+"[W]hat might be the hardest scavenger hunt there is." &mdash;Benson, WRKR, Portage, MI
+
+"[The University of Chicago Scavenger Hunt] combines wild creativity with brilliant engineering, which about sums up the best parts of America's economy." &mdash;Rob Wile, *Business Insider*
+
+"The world's wackiest and most open-to-interpretation scavenger hunt." &mdash;Rachel Cromidas, *Chicagoist*
+
+"Weird As Hell." &mdash;Dayna Evans, *Gawker*
+
+"[W]e had this one bright spot on the calendar, which was a campus-wide scavenger hunt... And it was just so much fun." &mdash;Misha Collins, University of Chicago AB '97 and otherwise not very noteworthy Scavvie
