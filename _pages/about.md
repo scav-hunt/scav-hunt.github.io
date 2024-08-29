@@ -68,7 +68,7 @@ send an Electronic Mail to uchicagoscav [at] gmail.com. Be warned, the Judgeship
 
 "Mardi Gras meets the Great Books meets Theater of the Absurd." &mdash;John Boyer, former Dean of the College of the University of Chicago
 
-"I strongly believe [the University of Chicago Scavenger Hunt] counts as a sport." &mdash;Kyle D. Logue, Interim Dean of the University of Michigan Law School
+"I strongly believe [the University of Chicago Scavenger Hunt] counts as a sport." &mdash;Sarah Zearfoss, Dean of Admissions of the University of Michigan Law School
 
 "[T]he college’s Rose Bowl: a mash-up of the Intel Science Talent Search, fraternity hazing, a pep rally, installation art, reality TV, and a 4-H fair." &mdash;Patricia Marx, *The New Yorker*
 
