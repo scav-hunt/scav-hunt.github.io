@@ -37,6 +37,7 @@ jobs:
           jekyll_src: './'           # Default is root directory
           jekyll_cfg: '_config.yml'  # Default is _config.yml
           jekyll_baseurl: ''         # Default is according to _config.yml
+          ruby_ver: '3.3.4'          # Would love to get this to just match the ruby version file
           bundler_ver: '>=0'         # Default is latest bundler version
           cname: 'scavhunt.uchicago.edu' # Default is to not use a cname
           actor: ''                  # Default is the GITHUB_ACTOR
