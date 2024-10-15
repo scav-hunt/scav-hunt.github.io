@@ -160,53 +160,14 @@ That said, should knuckle-dragging critics want to "analyze" this text, a list o
 **Sir Ector:** \
 **Clark Griswold:** Brittney Lynn Dorton \
 **Keeper of the Scrolls:** Brandon LaCrosse \
-**Cyber Horsegirl:** Gabriela Claire Garcia \
+**Cyber Horsegirls:** Gabriela Claire Garcia, Alex Arnell, Van Gabriel Olson \
 **Ministers Of Propaganda:** Isha Mehta, Sabrina Grace Sternberg, Brittney Lynn Dorton \
 **Vampire:** Cole Washburn
 
 **Hot Side Hot:** \
-Isha Mehta \
-Leo Christensen \
-Will Epstein \
-Brandon LaCrosse \
-Cole Washburn \
-David Aguilar Hall \
-Lila Jeemy \
-Audrey Scott \
-Brittney Lynn Dorton \
-Gabriela Claire Garcia \
-Ryan Solomon Gold \
-Emma Jean Simpson \
-Joren David Husic \
-Kit Downey \
-Artemie Li Chang \
-Jacob Leo Blitz \
-Sabrina Grace Sternberg \
-Destiny DeAnn Reeves \
-Alexander William Hearn 
+TBA
 
 **Prophet Elijah:** (Vacant)
 
 **Judge Emeriti:** \
-Nell Williamson Shaffer \
-David Klinger \
-Joey Valdez \
-Michael Hochman \
-Ori Brian \
-Eren Ahn \
-Andrew Jaffe \
-Molly Blondell \
-Reed Mershon \
-Walker King \
-Lindsey Simon \
-Andy Jordan \
-Cat Scharon \
-Ezra Deutsch-Feldman \
-Daniel Citron \
-Paul Davis \
-Christian Kammerer \
-Leila Sales \
-Rick Jeffries \
-Diane Kelly \
-Cassie Scharff Hallberg \
-Chris Straus
+TBA
