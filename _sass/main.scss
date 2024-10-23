@@ -1,6 +1,18 @@
 @import "fonts";
 @import "rouge-github";
 
+body {
+
+  background-color: #fff;
+  padding:50px;
+  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:black;
+  font-weight:400;
+
+  .wrapper {
+    width:90%;
+    margin:0 auto;
+
 .left-bio {
   display: grid;
   grid-template-columns: 2fr 3fr;
@@ -134,13 +146,6 @@ li.social-li {
     font-weight: normal;
 }
 
-body {
-  background-color: #fff;
-  padding:50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:black;
-  font-weight:400;
-}
 
 h1, h2, h3, h4, h5, h6 {
   color:black;
@@ -198,11 +203,6 @@ a small {
 
 a:hover small {
   color:black;
-}
-
-.wrapper {
-  width:90%;
-  margin:0 auto;
 }
 
 section {
@@ -589,12 +589,16 @@ p.page_number {
   }
 
 }
+  }
+
+}
 
 @media print, screen and (max-width: 992px) {
+  body {
   div.wrapper {
     width:auto;
     margin:0;
-  }
+  
 
   header, section, footer {
     float:none;
@@ -704,4 +708,6 @@ p.page_number {
   small {
     font-size:14px;
   }
+}
+}
 }
