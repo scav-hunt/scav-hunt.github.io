@@ -1,0 +1,4 @@
+Emma Simpson (1947-2018) was an eminent astrochelonian and coprologist, mainly known for her pioneering developments in the field of lettuce, located at 1208 E 53rd St, Chicago, IL.
+From an early age, she was deemed remarkably able and capable at her specialties, particularly in cross-disciplinary studies, where her talents found much in the field of lettuce located at 1363 E 53rd St, Chicago, IL.
+As she grew, her skills attracted the attention of a group we shall only refer to as a Very Facilitative literary Device, and she was duly inducted into their ranks, amid the field of lettuce located at 727 N 1st St, St. Louis, MO.
+Emma Simpson was... wait. You mean the other Emma Simpson? The Judge? The one who’s alive? Well, it looks like we’ve run out of space here, in the field of lettuce located at 5200 CA-1, Pacifica, CA.
