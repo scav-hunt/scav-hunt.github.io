@@ -12,7 +12,6 @@ carousels:
     - image: /assets/images/testimonials/2008piefight.jpg
     - image: /assets/images/testimonials/2005carwhale.jpg
     - image: /assets/images/testimonials/2004tattoo.jpg
-    - image: /assets/images/testimonials/1997elephant.jpg
 ---
 
 {% capture dates %}
