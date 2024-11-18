@@ -11,8 +11,8 @@ template: bio.html
 {% include_relative bios/2024/isha.md %}
 {% endcapture %}
 
-{% capture leo %}
-{% include_relative bios/2024/leo.md %}
+{% capture lewis %}
+{% include_relative bios/2024/lewis.md %}
 {% endcapture %}
 
 {% capture will %}
@@ -95,12 +95,12 @@ template: bio.html
 
 {% include {{ page.template }} 
     side="right" 
-    image_src="/assets/images/photos24/leo.png"
-    image_alt="Leo Christensen"
+    image_src="/assets/images/photos24/lewis.png"
+    image_alt="Lewis Christensen"
     image_hover="Judge Speedball"
-    name="Leo Christensen" 
+    name="Lewis Christensen" 
     pronouns="they/he"
-    bio=leo %}
+    bio=lewis %}
 
 {% include {{ page.template }} 
     side="left" 
