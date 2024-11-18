@@ -985,7 +985,7 @@ The ranks of Hot Side Hot have, at one time or another, included the following (
 **Gabriel Almas Byrd** (2025--) \
 **Kiran** (2025--) \
 **Van Gabriel Olson** (2025--) \
-**Leo Christensen** (2024--) \
+**Lewis Christensen** (2024--) \
 **Will Samuel Epstein** (2024--) \
 **Isha Mehta** (2024--) \
 **Brandon P LaCrosse** (2023--) \
