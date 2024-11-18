@@ -1,15 +1,10 @@
 ---
 layout: default
-title: About
+title: FAQs
 permalink: /lore/
 ---
 # For the totally clueless...
 
-The purpose of the University of Chicago Scavenger Hunt. . . is actually a matter of some debate. A more extensive disquisition on our ontological orientation may be found in our Bylaws, but this much we know: every May, since 1987, the University of Chicago has hosted the largest and best scavenger hunt in the world. Spanning four days, the Hunt is an intense blend of bliss and chaos. The modern Hunt includes a list of items and events, Scav Olympics, and a blood drive benefiting the University of Chicago Medical Center, though the precise form and content evolves from year to year.
-
-Participants and observers know that ScavHunt is a BFD. It is fun, it is brilliant, it is deeply U. of C., and it seems to bring out the best in all of us in unexpected ways. It is occasionally disgusting. But it is in the nature of Scav to be essentially indescribable, and lest you be taken in by all this touchy-feely talk we reference Potter Stewart somewhat freely in saying you'll know it when you see it, so take a look.
-
-In case that doesn't satisfy your unquenchable thirst for knowledge, here are some frequently asked questions.
 1. **What is Scav?** \
 "[Scav] is. [Scav] is in itself. [Scav] is what it is." &mdash;Jean-Paul Sartre
 
@@ -50,40 +45,16 @@ This skilled mime can be found in the stomach of the Zone Eater found in the Wor
 Each year’s List is written by the Judges. This process takes place behind a veil of secrecy. For more information, please lift the veil.
 
 14. **How do I become a Judge?** \
-Judge applications open at the beginning of October. Be prepared to fill out a written application and submit a sample list of 30 items. (Ain’t no rule says you can’t start working on your sample list right now.) If all goes well, you will be invited to interview with the assembled Judges in early November. Relax. Most of us don’t bite.
+Judge applications open when the Judgeship deems necessary. Be prepared to fill out a written application and submit a sample list of 30 items. (Ain’t no rule says you can’t start working on your sample list right now.) If all goes well, you will be invited to interview with the assembled Judges after the application period ends. Relax. Most of us don’t bite.
 
 15. **How much of a commitment is it to be a Judge?** \
 To be an active participant in the Judgeship, you must be prepared to attend meetings in Hyde Park twice a week from January to May. During Winter quarter, meetings last about two hours each; in Spring, they can last up to four. During the Hunt itself, expect to be busy 24/4.
 
 16. **Hey, I have an awesome idea for an item!** \
-Great! Put it on your application list, and we’ll see you in the Fall. Keep in mind, items that attempt to shoehorn your business/club/charity into the Hunt are not good items.
+Great! Put it on your application list. Keep in mind, items that attempt to shoehorn your business/club/charity into the Hunt are not good items.
 
 17. **My thirst for knowledge is not yet quenched!** \
 First, we know you’re excited about Scav if you’ve read this whole FAQ, but we need you to stop shouting. Second, if you have a question that: 
     1. Cannot be answered using any of the information on this site (including the Rules section of the most recent List, and yes, even the Bylaws), 
     2. Isn’t a total waste of time, \
 send an Electronic Mail to uchicagoscav [at] gmail.com. Be warned, the Judgeship is very busy, so use this option wisely.
-
-## Testimonials
-
-"Mardi Gras meets the Great Books meets Theater of the Absurd." &mdash;John Boyer, former Dean of the College of the University of Chicago
-
-"I strongly believe [the University of Chicago Scavenger Hunt] counts as a sport." &mdash;Sarah Zearfoss, Dean of Admissions of the University of Michigan Law School
-
-"[T]he college’s Rose Bowl: a mash-up of the Intel Science Talent Search, fraternity hazing, a pep rally, installation art, reality TV, and a 4-H fair." &mdash;Patricia Marx, *The New Yorker*
-
-"[A] yearly celebration of looniness." &mdash;Andrew Bluth, *The New York Times*
-
-"[O]ne of the longest-running and most idiosyncratic scavenger hunts in history" &mdash;Danny Lewis, *Smithsonian Magazine*
-
-"[N]ominally a scavenger hunt but closer to a campus tradition wrapped inside a multigenerational class reunion bundled into an elaborate prank requiring the cooperation of hundreds of students, dozens of faculty, family, friends and government officials." &mdash;Christopher Borrelli, *The Chicago Tribune*
-
-"[W]hat might be the hardest scavenger hunt there is." &mdash;Benson, WRKR, Portage, MI
-
-"[The University of Chicago Scavenger Hunt] combines wild creativity with brilliant engineering, which about sums up the best parts of America's economy." &mdash;Rob Wile, *Business Insider*
-
-"The world's wackiest and most open-to-interpretation scavenger hunt." &mdash;Rachel Cromidas, *Chicagoist*
-
-"Weird As Hell." &mdash;Dayna Evans, *Gawker*
-
-"[W]e had this one bright spot on the calendar, which was a campus-wide scavenger hunt... And it was just so much fun." &mdash;Misha Collins, University of Chicago AB '97 and otherwise not very noteworthy Scavvie
