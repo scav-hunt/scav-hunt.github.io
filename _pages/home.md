@@ -8,6 +8,7 @@ carousels:
     - image: /assets/images/testimonials/2024dayoff.jpg
     - image: /assets/images/testimonials/2023grammarrodeo.jpg
     - image: /assets/images/testimonials/2023boombamgolf.jpg
+    - image: /assets/images/testimonials/2012scavbow.jpg
     - image: /assets/images/testimonials/2008piefight.jpg
     - image: /assets/images/testimonials/2005carwhale.jpg
     - image: /assets/images/testimonials/2004tattoo.jpg
