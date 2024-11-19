@@ -1,13 +1,13 @@
 - name: Home
   link: /
-- name: About
-  link: /lore/
 - name: Judge Bios
   link: /horses/
 - name: Current List
   link: /chores/
 - name: Archives
   link: /yore/
+- name: FAQs
+  link: /lore/
 - name: Bylaws
   link: /bore/
 - name: Code of Conduct
