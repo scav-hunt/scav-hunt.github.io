@@ -8,6 +8,9 @@ carousels:
     - image: /assets/images/testimonials/2024dayoff.jpg
     - image: /assets/images/testimonials/2023grammarrodeo.jpg
     - image: /assets/images/testimonials/2023boombamgolf.jpg
+    - image: /assets/images/testimonials/2017carousel.jpg
+    - image: /assets/images/testimonials/2017churrofencing.jpg
+    - image: /assets/images/testimonials/2017spidererin.jpg
     - image: /assets/images/testimonials/2012scavbow.jpg
     - image: /assets/images/testimonials/2008piefight.jpg
     - image: /assets/images/testimonials/2005carwhale.jpg
@@ -31,7 +34,7 @@ In case that doesn't satisfy your unquenchable thirst for knowledge, check out s
 
 ## Some recent memories...
 
-{% include carousel.html height="50" unit="%" number="1" %}
+{% include carousel.html height="60" unit="%" number="1" %}
 
 ## Testimonials
 
