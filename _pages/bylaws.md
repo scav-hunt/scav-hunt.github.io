@@ -155,15 +155,15 @@ We will also assert that this document holds the true meaning within its words. 
 
 That said, should knuckle-dragging critics want to "analyze" this text, a list of current officers is appended below, to be changed every year by the Cyber Horsegirl.
  
-## List of Officers for Scavenger Hunt 2024:
+## List of Officers for Scavenger Hunt 2025:
 
 **Scavenczar:** David Aguilar Hall \
 **Sir Ector:** \
-**Clark Griswold:** Brittney Lynn Dorton \
+**Clark Griswold:** Out for their nighttime constitutional \
 **Keeper of the Scrolls:** Brandon LaCrosse \
 **Cyber Horsegirls:** Gabriela Claire Garcia, Alex Arnell, Van Gabriel Olson \
 **Ministers Of Propaganda:** Isha Mehta, Sabrina Grace Sternberg, Brittney Lynn Dorton \
-**Vampire:** Cole Washburn
+**Vampire:** TBA
 
 **Hot Side Hot:** \
 TBA
